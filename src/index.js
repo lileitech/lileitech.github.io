@@ -49,7 +49,7 @@ function main() {
   }
   function handleFaceClick(event) {
     event.stopPropagation();
-    img = window.getComputedStyle(event.target, null).backgroundImage;
+    var img = window.getComputedStyle(event.target, null).backgroundImage;
     img = img.replace(/([u,U][r,R][l,L]\("?)([^"]*)"?\)/, '$2')
     popImagViwer(img)
   }

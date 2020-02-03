@@ -16,8 +16,6 @@ const args = {
   },
 };
 
-console.log(args);
-
 deployToGit(args);
 
 function deployToGit(args) {
@@ -47,14 +45,14 @@ function deployToGit(args) {
   }
 
   function setup() {
-    const userName = args.userName || '';
-    const userEmail = args.userEmial || '';
+    const userName = args.user && args.user.name || '';
+    const userEmail = args.user && args.user.emial || '';
 
     return git('init').
       then(() => git('config', 'user.name', userName)).
       then(() => git('config', 'user.email', userEmail)).
       then(() => git('add', '-A')).
-      then(() => git('commit', '-m', message))
+      then(() => git('commit', '-m', message));
   }
 
   function push(repo) {
@@ -62,6 +60,4 @@ function deployToGit(args) {
       then(() => git('commit', '-m', message).catch(() => '')).
       then(() => git('push', '-u', repo.url, 'HEAD:' + repo.branch, '--force'));
   }
-
-
 }
