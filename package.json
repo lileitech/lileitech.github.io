@@ -6,7 +6,8 @@
   "author": "<Hozen@live.com>",
   "license": "MIT",
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "deploy": "node ./script/deploy"
   },
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
