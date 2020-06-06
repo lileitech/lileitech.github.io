@@ -1,0 +1,197 @@
+html, body, div {
+  margin: 0;
+  padding: 0;
+  color: #666;
+}
+
+body {
+}
+
+div {
+  box-sizing: border-box;
+}
+
+
+.master-face {
+  display: none;
+  background: #fff;
+  position: absolute;
+  width: 200px;
+  height: 100%;
+  padding: 100px 0;
+  top: 0;
+  left: 0;
+}
+
+.face__head {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.face__body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+.my-name {
+  font-size: 18px;
+  line-height: 30px;
+  padding: 10px 0;
+}
+.my-titlte {
+  line-height: 20px;
+}
+
+.face-img {
+  display: block;
+  height: 120px;
+  width: 120px;
+  border-radius: 60px;
+  overflow: hidden;
+  background: url('~assets/face.jpg') center center / 120px no-repeat;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.12);
+}
+
+.pub-list {
+  background: #fff;
+  margin-left: 0;
+  height: 100%;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.12);
+  position: relative;
+  z-index: 1;
+}
+
+
+.pub-header {
+  font-size: 18px;
+  text-align: center;
+  line-height: 60px;
+}
+
+.pub-body {
+  padding: 20px 30px 10px 10px;
+  height: calc(100% - 60px);
+  overflow-y: auto;
+}
+
+.pub-list__head {
+  line-height: 40px;
+  display: flex;
+}
+
+.pub-list__body {
+}
+
+
+.list-title {
+  padding-right: 20px;
+  color: #666;
+}
+
+.pub-item {
+  display: flex;
+}
+
+.item-cell {
+  padding: 12px 20px 12px 0;
+  display: flex;
+  align-items: center;
+}
+
+
+.item-name, .list-title--name {
+  flex: 3
+}
+
+.item-name a {
+  color: #1f81b5;
+  text-decoration: none;
+}
+
+.item-author, .list-title--author {
+  flex: 2;
+}
+
+.item-date, .list-title--date {
+  flex: 1;
+}
+
+.item-more, .list-title--more {
+  flex: 0 0 20px;
+  padding: 0;
+}
+
+.item-date {
+  font-size: 14px;
+  color: #888;
+}
+
+
+.icon {
+  display: inline-block;
+  cursor: pointer;
+  height: 20px;
+  width: 20px;
+}
+
+.icon+.icon {
+  margin-left: 10px;
+}
+
+.icon-pdf {
+  background: url(./icon.png) 0 0 / 20px no-repeat; 
+}
+
+.icon-download {
+  background: url(./icon.png) 0 -20px / 20px no-repeat; 
+}
+
+.link {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  background: #373232;
+  padding: 10px 5px;
+  border-radius: 2px;
+}
+
+.link a {
+  display: inline-block;
+  height: 20px;
+  margin: 0 8px 0;
+  width: 20px;
+}
+
+.icon-email {
+  background: url(~assets/icon.png) 0 2px / 20px no-repeat;
+}
+.icon-google {
+  background: url(~assets/icon.png) 0 -18px / 20px no-repeat;
+}
+.icon-lab {
+  background: url(~assets/icon.png) 0 -40px / 20px no-repeat;
+}
+
+@keyframes translate {
+  from {
+    transform: translateX(-200px);
+  } to {
+    transform: translateX(0px);
+  }
+}
+
+@media screen and (min-width: 750px) {
+  .master-face {
+    display: block;
+  }
+  .pub-list {
+    margin-left: 200px;
+    animation: translate 0.5s ease-out 0.2s 1 forwards;
+  }
+}
+

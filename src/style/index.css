@@ -284,9 +284,30 @@ body {
   justify-content: space-around;
 }
 
-.detail-text.list li {
-  max-width: 300px;
+.pub-overview {
+  height: 60px;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: space-evenly;
+}
+.pub-num {
+  font-size: 40px;
+  margin-right: 20px;
+}
 
+.pub-item {
+  max-width: 300px;
+  word-break: keep-all;
+}
+
+.pub-item a {
+  display: block;
+  width: 300px;
+  white-space: nowrap;
+  overflow: hidden;
+  margin-right: 20px;
+  text-overflow: ellipsis;
 }
 
 .text_title {
@@ -323,6 +344,7 @@ body {
   text-align: center;
   font-size: 14px;
   transition: color 0.3s;
+  padding-bottom: 10px;
   z-index: 1;
 }
 .footer a {
