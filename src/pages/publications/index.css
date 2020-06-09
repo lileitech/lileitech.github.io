@@ -5,6 +5,8 @@ html, body, div {
 }
 
 body {
+  width: 100%;
+  overflow: hidden;
 }
 
 div {
@@ -68,13 +70,16 @@ div {
 .pub-header {
   font-size: 18px;
   text-align: center;
-  line-height: 60px;
+  line-height: 50px;
+  box-sizing: border-box;
+  border-bottom: 1px solid #f4f4f4;
 }
 
 .pub-body {
   padding: 20px 30px 10px 10px;
-  height: calc(100% - 60px);
+  height: calc(100% - 50px);
   overflow-y: auto;
+  overflow-x: hidden;
 }
 
 .pub-list__head {
@@ -179,9 +184,9 @@ div {
 
 @keyframes translate {
   from {
-    transform: translateX(-200px);
-  } to {
     transform: translateX(0px);
+  } to {
+    transform: translateX(200px);
   }
 }
 
@@ -190,8 +195,8 @@ div {
     display: block;
   }
   .pub-list {
-    margin-left: 200px;
-    animation: translate 0.5s ease-out 0.2s 1 forwards;
+    padding-right: 200px;
+    animation: translate 0.5s ease-out 0.1s 1 forwards;
   }
 }
 
