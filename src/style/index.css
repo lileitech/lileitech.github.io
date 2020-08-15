@@ -265,7 +265,7 @@ body {
 .detail {
   position: relative;
   max-width: 640px;
-  padding: 10px 0 0;
+  padding: 10px 8px 0;
   transition: opacity 0.8s ease-in-out;
   opacity: 0;
 }
@@ -280,16 +280,29 @@ body {
 
 .detail-text.list {
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
+}
+
+.research {
+  padding-top: 10px;
+}
+
+.research-item-outer {
+  display: flex;
   justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.research-item {
+  padding: 0 8px;
 }
 
 .pub-overview {
-  height: 60px;
   display: flex;
   align-items: center;
   align-content: center;
   justify-content: space-evenly;
+  padding-top: 8px;
 }
 .pub-num {
   font-size: 40px;
