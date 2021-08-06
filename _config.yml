@@ -105,6 +105,6 @@ theme: academic
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@iLnezoH:iLnezoH/ilnezoh.github.io.git # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+  repo: git@github.com:Marie0909/marie0909.github.io.git # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
   branch: gh-pages
   message:
