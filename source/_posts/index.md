@@ -6,7 +6,7 @@ is_index: true
 ---
 ## Biography
 
-I am a post-doc in Biomedial Engineering at Oxford University, UK. My research interest is medical image analysis, especially cardiac image analysis and atrial fibrillation.
+I am a post-doc in Biomedial Engineering at University of Oxford, UK. My research interest is medical image analysis, especially cardiac image analysis and atrial fibrillation.
 
 
 ## Research/Education Experience
