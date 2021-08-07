@@ -6,8 +6,7 @@ is_index: true
 ---
 ## Biography
 
-I am a post-doc in Biomedial Engineering at Oxford University, UK.
-My research interest is medical image analysis, especially cardiac image analysis and atrial fibrillation.
+I am a post-doc in Biomedial Engineering at Oxford University, UK. My research interest is medical image analysis, especially cardiac image analysis and atrial fibrillation.
 
 
 ## Research/Education Experience
@@ -28,4 +27,17 @@ China (Supervisor：[Professor Xiahai Zhuang](https://zmiclab.github.io/members.
 
 
 ## Academic Service
-* Co-Chair: [11th Workshop on Statistical Atlases and Computational Modelling of the Heart, Lima, Peru](https://stacom2020.cardiacat
+* Co-Chair: [11th Workshop on Statistical Atlases and Computational Modelling of the Heart, Lima, Peru](https://stacom2020.cardiacatlas.org/) 
+* Co-Organizer: [MyoPS 2020 Challenge: Myocardial Pathology Segmentation Combining Multi-sequence CMR](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/myops20/)
+* Co-Organizer: [MS-CMRSeg 2019 Challenge: Multi-sequence Cardiac MR Segmentation](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/mscmrseg19/)
+* Co-Organizer: [MM-WHS 2017 Challenge: Multi-modality Whole Heart Segmentation](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/mmwhs/)
+* Scientific reviewer：Medical Image Analysis; Neurocomputing; IPMI 2021
+
+## Links
+* [Professor Xiahai Zhuang](https://zmiclab.github.io/members.html)
+* [Professor Julia A Schnabel](https://www.kcl.ac.uk/people/julia-a-schnabel)
+* [Fudan ZMIC Lab](https://zmiclab.github.io/index.html)
+
+## News
+* [6th Aug, 2021] I rebuild my personal website!
+
