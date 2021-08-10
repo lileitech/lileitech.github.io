@@ -1,0 +1,175 @@
+@import "_variables.scss";
+@import "_animations.scss";
+
+@import "_mixins.scss";
+
+@import "_partials/nav.scss";
+@import "_partials/author-overview.scss";
+@import "_partials/post.scss";
+@import "_partials/toc.scss";
+
+body {
+  background-color: $color-bg;
+  font-size: $font-size-root;
+  font-family: $font-family;
+  line-height: $line-height;
+  color: $color-font;
+  margin: 0;
+
+  a {
+    color: $color-active;
+    text-decoration: none;
+
+    &:hover {
+      color: $color-hover
+    }
+  }
+
+  img {
+    max-width: 100%;
+  }
+}
+
+body.dark {
+  background-color: $dark-color-bg;
+  color: $dark-color-font;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  padding-top: 61px;
+  margin-top: -61px;
+}
+
+.container {
+  overflow: hidden;
+  background-color: inherit;
+}
+
+.header {
+  background: inherit;
+  width: 100%;
+  border-bottom: 1px $color-border solid;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 998;
+}
+
+.dark .header {
+  border-color: $color-border-dark;
+}
+
+.main {
+  display: flex;
+  flex-wrap: wrap;
+  overflow-y: auto;
+  justify-content: center;
+  padding: 101px 0;
+  width: 100%;
+}
+
+.main__content {
+  position: relative;
+
+  @include desktop-large {
+    width: 1200px;
+  }
+
+  &.main__content--index {
+    @include desktop-large {
+      width: 100%;
+      max-width: 1400px;
+    }
+
+  }
+}
+
+
+.main__content-inner {
+  padding: 0 15px;
+  margin: 0 300px 0 0;
+  width: auto;
+
+  @include tablet-mobile {
+    margin-right: 0;
+    padding: 0 30px;
+  }
+
+}
+
+.main__content--index .main__content-inner {
+  margin-left: 300px;
+  margin-right: 300px;
+
+  @include mobile {
+    margin: 0;
+  }
+
+  @include tablet-mobile {
+    margin-right: 0;
+  }
+
+  @include tablet {
+    margin-right: 0;
+    padding: 0 30px;
+  }
+
+}
+
+.sidebar-outer {
+  position: fixed;
+  top: 131px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  @include mobile {
+    position: static;
+  }
+
+  @include tablet-desktop() {
+    position: fixed;
+  }
+
+  @include desktop-large {
+    position: fixed;
+  }
+
+  @include desktop-largest {
+    position: fixed;
+  }
+}
+
+.sidebar {
+  display: flex;
+  justify-content: flex-end;
+  width: 300px;
+  padding: 0 15px;
+  box-sizing: border-box;
+
+  @include mobile() {
+    justify-content: center;
+  }
+}
+
+.comments {
+  padding: 20px;
+  padding-top: 100px;
+}
+
+.foot {
+  padding: 10px 0;
+  font-size: 14px;
+  color: $color-font-secondary;
+
+  &-item {
+    text-align: center;
+    margin-bottom: 5px;
+  }
+}

@@ -1,0 +1,56 @@
+
+favicon:
+  small: /images/favicon-16x16-academic.png
+  medium: /images/favicon-32x32-academic.png
+  apple_touch_icon: /images/apple-touch-icon-academic.png
+  safari_pinned_tab: /images/logo.svg
+
+logo: /images/logo-academic.png
+
+icon: /images/icon-spider.png
+icon_menu: /images/icon-menu.png
+
+author:
+  name: Lei Li
+  face: /images/author-face.jpg
+  # motto: God does not play dice with the universe
+  field: Biomedical Image Analysis
+  institution: Department of Engineering Science, University of Oxford
+  email: lilei_sky_0909@163.com
+  googleScholar: https://scholar.google.com/citations?hl=en&user=--CYiuwAAAAJ
+  institutionLink: https://eng.ox.ac.uk/
+
+cache:
+  enable: false
+
+sidebar: 
+  display: true
+
+toc:
+  max_depth: 3
+  min_depth: 1
+  list_number: false
+
+comments:
+  enable: true
+
+gitalk:
+  enable: true
+  js: https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js
+
+  github_id: marie0909 # GitHub repo owner
+  repo: marie0909.github.io # Repository name to store issues
+  client_id: 392609484cf5d6f9875b # GitHub Application Client ID
+  client_secret: afeadfb746568b02b80c51c676a02fd832e91038 # GitHub Application Client Secret
+  admin_user: marie0909  # GitHub repo owner and collaborators, only these guys can initialize gitHub issues
+  distraction_free_mode: true # Facebook-like distraction free mode
+  # When the official proxy is not available, you can change it to your own proxy address
+  proxy: https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token # This is official proxy adress
+  # Gitalk's display language depends on user's browser or system environment
+  # If you want everyone visiting your site to see a uniform language, you can set a force language value
+  # Available values: en | es-ES | fr | ru | zh-CN | zh-TW
+  language:
+
+css: css
+js: js
+
