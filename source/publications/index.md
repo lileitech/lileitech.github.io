@@ -11,10 +11,10 @@ date: 2021-08-07 00:40:09
 
 
 ## 2020
-### Book/Chapters:
+### Book/Chapters
 1. Xiahai Zhuang, **Lei Li** (editor): Myocardial Pathology Segmentation Combining Multi-Sequence Cardiac Magnetic Resonance Images. LNCS 167-176, ***Springer Nature***, 2020. [Link](https://books.google.co.jp/books?hl=zh-CN&lr=&id=PT4QEAAAQBAJ&oi=fnd&pg=PR5&dq=Myocardial+Pathology+Segmentation+Combining+Multi-Sequence+Cardiac+Magnetic+Resonance+Images&ots=qI5EyLKu6J&sig=oLXHLlvaXN6ax1N_S7lYY9WKINM&redir_esc=y#v=onepage&q=Myocardial%20Pathology%20Segmentation%20Combining%20Multi-Sequence%20Cardiac%20Magnetic%20Resonance%20Images&f=false)
 
-### Journal/Conference Paper:
+### Journal/Conference Paper
 1. **Lei Li**, Fuping Wu, Guang Yang, Lingchao Xu, Tom Wong, Raad Mohiaddin, David Firmin, Jenny Keegan, Xiahai Zhuang\*: Atrial Scar Quantification via Multi-Scale CNN in the Graph-Cuts Framework, ***Medical Image Analysis***, vol. 60, 101595, 2020. [Link](https://www.sciencedirect.com/science/article/pii/S1361841519301355)
 
 2. **Lei Li**, Xin Weng, Julia A Schnabel, Xiahai Zhuang\*: Joint Left Atrial Segmentation and Scar Quantification based on a DNN with Spatial Encoding and Shape Attention. ***MICCAI***, 118-127, 2020. [Link](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_12), [Video](https://www.bilibili.com/video/BV1rA41177eV), [Code](https://github.com/Marie0909/AtrialJSQnet)

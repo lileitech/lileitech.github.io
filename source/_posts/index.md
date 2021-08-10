@@ -25,7 +25,7 @@ I am a post-doc in Biomedial Engineering at [University of Oxford](https://eng.o
 
 
 ## Academic Service
-* Co-Chair: [11th Workshop on Statistical Atlases and Computational Modelling of the Heart, Lima, Peru](https://stacom2020.cardiacatlas.org/) 
+<!-- * Co-Chair: [11th Workshop on Statistical Atlases and Computational Modelling of the Heart, Lima, Peru](https://stacom2020.cardiacatlas.org/)  -->
 * Co-Organizer: [MyoPS 2020 Challenge: Myocardial Pathology Segmentation Combining Multi-sequence CMR](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/myops20/)
 * Co-Organizer: [MS-CMRSeg 2019 Challenge: Multi-sequence Cardiac MR Segmentation](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/mscmrseg19/)
 * Co-Organizer: [MM-WHS 2017 Challenge: Multi-modality Whole Heart Segmentation](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/mmwhs/)
@@ -39,4 +39,8 @@ I am a post-doc in Biomedial Engineering at [University of Oxford](https://eng.o
 
 ## News
 * **[6th Aug, 2021]** I have reconstructed my personal website!
+* **[12th June, 2021]** Our paper has been accepted by MICCAI 2021.
 * **[26th May, 2021]** I have passed my PhD viva! Thanks to my super nice supervisor Prof Zhuang and others who helped me during my PhD.
+* **[23th June, 2020]** Our two papers have been accepted by MICCAI 2020.
+* **[15th Dec, 2019]** Happy to be the runnerups of [FBDC](https://fbdc.fudan.edu.cn/wosterwwession/list.htm) best poster awards togther with Xin Weng.
+* **[26th Oct, 2019]** Our paper for the scar quantification from LGE MRI has been accepted by MedIA! Thanks so much to Prof. Zhuang, the editor and the reviewers!
