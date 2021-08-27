@@ -6,10 +6,11 @@ is_index: true
 ---
 ## Biography
 
-I am a post-doc in Biomedial Engineering at [University of Oxford](https://eng.ox.ac.uk/biomedical-image-analysis/). I obtained my PhD degree from School of Biomedical Engineering, [Shanghai Jiao Tong University](http://en.bme.sjtu.edu.cn/), supervised by [Professor Xiahai Zhuang](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/). My research interest is medical image analysis, especially LGE MRI analysis for atrial fibrillation.
+I am a post-doc in the Institute of Biomedical Engineering (IBME) at [University of Oxford](https://eng.ox.ac.uk/biomedical-image-analysis/). I obtained my PhD degree from School of Biomedical Engineering, [Shanghai Jiao Tong University](http://en.bme.sjtu.edu.cn/), supervised by [Professor Xiahai Zhuang](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/). My research interest is medical image analysis, especially LGE MRI analysis for atrial fibrillation.
 
 
 ## Research/Education Experience
+* **08/2021-now** &nbsp; Postdoctoral Research Assistant, Institute of Biomedical Engineering, University of Oxford, Oxford, UK (Supervisor：[Professor Vicente Grau](https://eng.ox.ac.uk/people/vicente-grau-colomer/))
 * **09/2016-06/2021** &nbsp; PhD, School of Biomedical Engineering, Shanghai Jiao Tong University, Shanghai, China (Supervisor：[Professor Xiahai Zhuang](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/))
 * **12/2019-03/2021** &nbsp; Joint PhD, School of Biomedical Engineering & Imaging Sciences, King’s College London, London, UK (Supervisor：[Professor Julia A Schnabel](https://www.kcl.ac.uk/people/julia-a-schnabel))
 * **12/2017-12/2019** &nbsp; Visiting PhD, School of Data Science, Fudan University, Shanghai, China (Supervisor：[Professor Xiahai Zhuang](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/))
@@ -34,10 +35,12 @@ I am a post-doc in Biomedial Engineering at [University of Oxford](https://eng.o
 ## Links
 * [Professor Xiahai Zhuang](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/)
 * [Professor Julia A Schnabel](https://www.kcl.ac.uk/people/julia-a-schnabel)
+* [Professor Vicente Grau](https://eng.ox.ac.uk/people/vicente-grau-colomer/)
 * [Fudan ZMIC Lab](https://zmiclab.github.io/index.html)
 * [Oxford BioMedIA](https://eng.ox.ac.uk/biomedical-image-analysis/)
 
 ## News
+* **[16th Aug, 2021]** I have jointed the research team of Prof Vicente Grau.
 * **[6th Aug, 2021]** I have reconstructed my personal website!
 * **[12th June, 2021]** Our paper has been accepted by MICCAI 2021.
 * **[26th May, 2021]** I have passed my PhD viva! Thanks to my super nice supervisor Prof Zhuang and others who helped me during my PhD.
