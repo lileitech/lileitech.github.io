@@ -3,7 +3,7 @@ title: Publications
 date: 2021-08-07 00:40:09
 ---
 ## 2021
-1.  **Lei Li**, **Wangbin Ding**, Liqun Huang, Xiahai Zhuang*: Right Ventricular Segmentation from Short-and Long-Axis MRIs via Information Transition, ***M&Ms-2***, 2021. [Link](https://arxiv.org/pdf/2109.02171.pdf),[Video](https://drive.google.com/file/d/1urbB4YsjTbyUFOmDDCSevKk-W2XEoEtl/view), [Code](https://github.com/NanYoMy/MMs-2)
+1.  **Lei Li\#**, Wangbin Ding\#, Liqun Huang, Xiahai Zhuang*: Right Ventricular Segmentation from Short-and Long-Axis MRIs via Information Transition, ***M&Ms-2***, 2021. [Link](https://arxiv.org/pdf/2109.02171.pdf),[Video](https://drive.google.com/file/d/1urbB4YsjTbyUFOmDDCSevKk-W2XEoEtl/view), [Code](https://github.com/NanYoMy/MMs-2)
    
 2.  **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang*: AtrialGeneral: Domain Generalization for Left Atrial Segmentation of Multi-Center LGE MRIs, ***MICCAI***, 557–566, 2021. [Link](https://link.springer.com/chapter/10.1007%2F978-3-030-87231-1_54), [Video](https://drive.google.com/file/d/1MaRG7UlvvQYXGnW9OAfTOEP3XrBONE9T/view?usp=sharing)
 
