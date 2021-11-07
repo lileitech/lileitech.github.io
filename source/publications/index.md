@@ -11,6 +11,10 @@ date: 2021-08-07 00:40:09
 
 4.  **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang*: Medical Image Analysis on Left Atrial LGE MRI for Atrial Fibrillation Studies: A Review, ***Medical Image Analysis***. (under review)
 
+5. Wangbin Ding, **Lei Li**, Xiahai Zhuang*, Liqin Huang*:  Cross-Modality Multi-Atlas Segmentation Using Deep Neural Networks, ***Journal of Biomedical and Health Informatics***. (under review)
+   
+6. Kaini Wanga\#, Xin Yang\#, Juzheng Miao, **Lei Li**, Jing Yao, Ping Zhou, Wufeng Xue, Guang-Quan Zhou, Xiahai Zhuang*, Dong Ni*: AWSnet: An Auto-weighted Supervision Attention Network for Myocardial Scar and Edema Segmentation in Multi-sequence Cardiac Magnetic Resonance Images, ***Medical Image Analysis***. (under review)
+
 
 ## 2020
 ### Book/Chapters
