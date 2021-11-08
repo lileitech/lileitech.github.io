@@ -20,6 +20,8 @@ I am a post-doc in the Institute of Biomedical Engineering (IBME) at [University
 ## Selected Publications
 * **Lei Li**, Fuping Wu, Guang Yang, Lingchao Xu, Tom Wong, Raad Mohiaddin, David Firmin, Jenny Keegan, Xiahai Zhuang\*: Atrial Scar Quantification via Multi-Scale CNN in the Graph-Cuts Framework. ***Medical Image Analysis***, vol. 60, 101595, 2020. [Link](https://www.sciencedirect.com/science/article/pii/S1361841519301355)
 
+* **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang\*: AtrialJSQnet: A New Framework for Joint Segmentation and Quantification of Left Atrium and Scars Incorporating Spatial and Shape Information, ***Medical Image Analysis***, 2021. 
+
 * Xiahai Zhuang\*, **Lei Li\***, et al: Evaluation of Algorithms for Multi-Modality Whole Heart Segmentation: An Open-Access Grand Challenge. ***Medical Image Analysis***, vol 58, 101537, 2019. (most downloaded Medical Image Analysis articles). [Link](https://www.sciencedirect.com/science/article/pii/S1361841519300751)
 
 * **Lei Li**, Xin Weng, Julia A Schnabel, Xiahai Zhuang\*: Joint Left Atrial Segmentation and Scar Quantification based on a DNN with Spatial Encoding and Shape Attention, ***MICCAI***, 118-127, 2020. [Link](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_12), [Video](https://www.bilibili.com/video/BV1rA41177eV), [Code](https://github.com/Marie0909/AtrialJSQnet)
@@ -42,6 +44,7 @@ I am a post-doc in the Institute of Biomedical Engineering (IBME) at [University
 * [Oxford BioMedIA](https://eng.ox.ac.uk/biomedical-image-analysis/)
 
 ## News
+* **[08th Nov, 2021]** Our paper for the joint left atrial and scar segmentation and quantification from LGE MRI has been accepted by MedIA! Thanks so much to Prof. Zhuang and Prof. Schnabel, the editor and the reviewers!
 * **[16th Aug, 2021]** I have jointed the research team of Prof Vicente Grau.
 * **[6th Aug, 2021]** I have reconstructed my personal website!
 * **[12th June, 2021]** Our paper has been accepted by MICCAI 2021.

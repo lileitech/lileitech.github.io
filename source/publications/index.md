@@ -3,18 +3,21 @@ title: Publications
 date: 2021-08-07 00:40:09
 ---
 ## 2021
-1.  **Lei Li\#**, Wangbin Ding\#, Liqun Huang, Xiahai Zhuang*: Right Ventricular Segmentation from Short-and Long-Axis MRIs via Information Transition, ***M&Ms-2***, 2021. [Link](https://arxiv.org/pdf/2109.02171.pdf),[Video](https://drive.google.com/file/d/1urbB4YsjTbyUFOmDDCSevKk-W2XEoEtl/view), [Code](https://github.com/NanYoMy/MMs-2)
+1. **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang\*: AtrialJSQnet: A New Framework for Joint Segmentation and Quantification of Left Atrium and Scars Incorporating Spatial and Shape Information, ***Medical Image Analysis***, 2021. 
    
-2.  **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang*: AtrialGeneral: Domain Generalization for Left Atrial Segmentation of Multi-Center LGE MRIs, ***MICCAI***, 557–566, 2021. [Link](https://link.springer.com/chapter/10.1007%2F978-3-030-87231-1_54), [Video](https://drive.google.com/file/d/1MaRG7UlvvQYXGnW9OAfTOEP3XrBONE9T/view?usp=sharing)
-
-3.  Víctor M Campello\*, ..., **Lei Li**, Xiahai Zhuang, ..., Karim Lekadir: Multi-Centre, Multi-Vendor and Multi-Disease Cardiac Segmentation: The M&Ms Challenge, ***IEEE Transactions on Medical Imaging***, 9458279, 2021. [Link](https://ieeexplore.ieee.org/document/9458279?denied=)
-
-4.  **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang*: Medical Image Analysis on Left Atrial LGE MRI for Atrial Fibrillation Studies: A Review, ***Medical Image Analysis***. (under review)
-
-5. Wangbin Ding, **Lei Li**, Xiahai Zhuang*, Liqin Huang*:  Cross-Modality Multi-Atlas Segmentation Using Deep Neural Networks, ***Journal of Biomedical and Health Informatics***. (under review)
+2.  **Lei Li\#**, Wangbin Ding\#, Liqun Huang, Xiahai Zhuang*: Right Ventricular Segmentation from Short-and Long-Axis MRIs via Information Transition, ***M&Ms-2***, 2021. [Link](https://arxiv.org/pdf/2109.02171.pdf),[Video](https://drive.google.com/file/d/1urbB4YsjTbyUFOmDDCSevKk-W2XEoEtl/view), [Code](https://github.com/NanYoMy/MMs-2)
    
-6. Kaini Wanga\#, Xin Yang\#, Juzheng Miao, **Lei Li**, Jing Yao, Ping Zhou, Wufeng Xue, Guang-Quan Zhou, Xiahai Zhuang*, Dong Ni*: AWSnet: An Auto-weighted Supervision Attention Network for Myocardial Scar and Edema Segmentation in Multi-sequence Cardiac Magnetic Resonance Images, ***Medical Image Analysis***. (under review)
+3.  **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang*: AtrialGeneral: Domain Generalization for Left Atrial Segmentation of Multi-Center LGE MRIs, ***MICCAI***, 557–566, 2021. [Link](https://link.springer.com/chapter/10.1007%2F978-3-030-87231-1_54), [Video](https://drive.google.com/file/d/1MaRG7UlvvQYXGnW9OAfTOEP3XrBONE9T/view?usp=sharing)
 
+4.  Víctor M Campello\*, ..., **Lei Li**, Xiahai Zhuang, ..., Karim Lekadir: Multi-Centre, Multi-Vendor and Multi-Disease Cardiac Segmentation: The M&Ms Challenge, ***IEEE Transactions on Medical Imaging***, 9458279, 2021. [Link](https://ieeexplore.ieee.org/document/9458279?denied=)
+
+5.  **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang*: Medical Image Analysis on Left Atrial LGE MRI for Atrial Fibrillation Studies: A Review, ***Medical Image Analysis***. (under review)
+
+6.  Wangbin Ding, **Lei Li**, Xiahai Zhuang*, Liqin Huang*:  Cross-Modality Multi-Atlas Segmentation Using Deep Neural Networks, ***Journal of Biomedical and Health Informatics***. (under review)
+   
+7.  Kaini Wanga\#, Xin Yang\#, Juzheng Miao, **Lei Li**, Jing Yao, Ping Zhou, Wufeng Xue, Guang-Quan Zhou, Xiahai Zhuang*, Dong Ni*: AWSnet: An Auto-weighted Supervision Attention Network for Myocardial Scar and Edema Segmentation in Multi-sequence Cardiac Magnetic Resonance Images, ***Medical Image Analysis***. (under review)
+
+8.	Jiahang Xu, Qian Xu, Shihong H Liu, Ling Li, **Lei Li**, Tzu-Chen Yen, Jianjun Wu, Jian Wang, Chuantao Zuo, Ping Wu, Xiahai Zhuang*: Computer-Aided Classification Framework of Parkinsonian Disorders Using 11 C-CFT PET Imaging, Frontiers in Aging Neuroscience. (under review)
 
 ## 2020
 ### Book/Chapters
@@ -27,13 +30,12 @@ date: 2021-08-07 00:40:09
 
 3. **Lei Li**, Veronika A Zimmer, Wangbin Ding, Fuping Wu, Liqin Huang, Julia A Schnabel, Xiahai Zhuang\*: Random Style Transfer based Domain Generalization Networks Integrating Shape and Spatial Information. ***MICCAI-STACOM***, 2020. [Link](https://link.springer.com/chapter/10.1007/978-3-030-68107-4_21)
 
-4. **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang\*: AtrialJSQnet: A New Framework for Joint Segmentation and Quantification of Left Atrium and Scars Incorporating Spatial and Shape Information, ***Medical Image Analysis***. (under review)
+4. Wangbin Ding, **Lei Li**, Xiahai Zhuang\*, Liqin Huang\*: Cross-Modality Multi-Atlas Segmentation Using Deep Neural Networks. ***MICCAI***, 233-242, 2020. [Link](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_23)
 
-5. Xiahai Zhuang\*, Jiahang Xu\*, ..., **Lei Li\***: Cardiac Segmentation on Late Gadolinium Enhancement MRI: A Benchmark Study from Multi-Sequence Cardiac MR Segmentation Challenge, ***Medical Image Analysis***. (under review)
+5. Veronika A Zimmer\*, Alberto Gomez, Emily Skelton, Nooshin Ghavami, Robert Wright, **Lei Li**, Jacqueline Matthew, Joseph V. Hajnal, Julia A. Schnabel: A Multi-Task Approach Using Positional Information for Ultrasound Placenta Segmentation: ***Medical Ultrasound, and Preterm, Perinatal and Paediatric Image Analysis***, 264-273, 2020. [Link](https://link.springer.com/chapter/10.1007/978-3-030-60334-2_26)
 
-6. Wangbin Ding, **Lei Li**, Xiahai Zhuang\*, Liqin Huang\*: Cross-Modality Multi-Atlas Segmentation Using Deep Neural Networks. ***MICCAI***, 233-242, 2020. [Link](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_23)
+6. Xiahai Zhuang\*, Jiahang Xu\*, ..., **Lei Li\***: Cardiac Segmentation on Late Gadolinium Enhancement MRI: A Benchmark Study from Multi-Sequence Cardiac MR Segmentation Challenge, ***Medical Image Analysis***. (under review)
 
-7. Veronika A Zimmer\*, Alberto Gomez, Emily Skelton, Nooshin Ghavami, Robert Wright, **Lei Li**, Jacqueline Matthew, Joseph V. Hajnal, Julia A. Schnabel: A Multi-Task Approach Using Positional Information for Ultrasound Placenta Segmentation: ***Medical Ultrasound, and Preterm, Perinatal and Paediatric Image Analysis***, 264-273, 2020. [Link](https://link.springer.com/chapter/10.1007/978-3-030-60334-2_26)
 
 ## 2019
 1. Xiahai Zhuang\*, **Lei Li\***, et al: Evaluation of Algorithms for Multi-Modality Whole Heart Segmentation: An Open-Access Grand Challenge, ***Medical Image Analysis***, vol. 58, 101537, 2019. [Link](https://www.sciencedirect.com/science/article/pii/S1361841519300751)
