@@ -3,7 +3,7 @@ title: Publications
 date: 2021-08-07 00:40:09
 ---
 ## 2021
-1. **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang\*: AtrialJSQnet: A New Framework for Joint Segmentation and Quantification of Left Atrium and Scars Incorporating Spatial and Shape Information, ***Medical Image Analysis***, 2021. 
+1. **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang\*: AtrialJSQnet: A New Framework for Joint Segmentation and Quantification of Left Atrium and Scars Incorporating Spatial and Shape Information, ***Medical Image Analysis***, 2021. [Link](https://arxiv.org/abs/2008.04729), [Code](https://github.com/Marie0909/AtrialJSQnet)
    
 2.  **Lei Li\#**, Wangbin Ding\#, Liqun Huang, Xiahai Zhuang*: Right Ventricular Segmentation from Short-and Long-Axis MRIs via Information Transition, ***M&Ms-2***, 2021. [Link](https://arxiv.org/pdf/2109.02171.pdf),[Video](https://drive.google.com/file/d/1urbB4YsjTbyUFOmDDCSevKk-W2XEoEtl/view), [Code](https://github.com/NanYoMy/MMs-2)
    
@@ -11,13 +11,17 @@ date: 2021-08-07 00:40:09
 
 4.  Víctor M Campello\*, ..., **Lei Li**, Xiahai Zhuang, ..., Karim Lekadir: Multi-Centre, Multi-Vendor and Multi-Disease Cardiac Segmentation: The M&Ms Challenge, ***IEEE Transactions on Medical Imaging***, 9458279, 2021. [Link](https://ieeexplore.ieee.org/document/9458279?denied=)
 
-5.  **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang*: Medical Image Analysis on Left Atrial LGE MRI for Atrial Fibrillation Studies: A Review, ***Medical Image Analysis***. (under review)
+5.  **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang*: Medical Image Analysis on Left Atrial LGE MRI for Atrial Fibrillation Studies: A Review, ***Medical Image Analysis***. [Link](https://arxiv.org/abs/2106.09862)  (under review)
 
-6.  Wangbin Ding, **Lei Li**, Xiahai Zhuang*, Liqin Huang*:  Cross-Modality Multi-Atlas Segmentation Using Deep Neural Networks, ***Journal of Biomedical and Health Informatics***. (under review)
+6.	Wangbin Ding, **Lei Li**, Xiahai Zhuang*, Liqin Huang*:  Unsupervised MMRegNet based on Spatially Encoded Gradient Information, ***MICCAI-STACOM***, 2021.
+
+7.	Fuping Wu, **Lei Li**, Xiahai Zhuang*: Multi-Modality Cardiac Segmentation via Mixing Domains for Unsupervised Adaptation, ***MICCAI-STACOM***, 2021.
+
+8.  Wangbin Ding, **Lei Li**, Xiahai Zhuang*, Liqin Huang*:  Cross-Modality Multi-Atlas Segmentation Using Deep Neural Networks, ***Journal of Biomedical and Health Informatics***. (under review)
    
-7.  Kaini Wanga\#, Xin Yang\#, Juzheng Miao, **Lei Li**, Jing Yao, Ping Zhou, Wufeng Xue, Guang-Quan Zhou, Xiahai Zhuang*, Dong Ni*: AWSnet: An Auto-weighted Supervision Attention Network for Myocardial Scar and Edema Segmentation in Multi-sequence Cardiac Magnetic Resonance Images, ***Medical Image Analysis***. (under review)
+9.  Kaini Wanga\#, Xin Yang\#, Juzheng Miao, **Lei Li**, Jing Yao, Ping Zhou, Wufeng Xue, Guang-Quan Zhou, Xiahai Zhuang*, Dong Ni*: AWSnet: An Auto-weighted Supervision Attention Network for Myocardial Scar and Edema Segmentation in Multi-sequence Cardiac Magnetic Resonance Images, ***Medical Image Analysis***. (under review)
 
-8.	Jiahang Xu, Qian Xu, Shihong H Liu, Ling Li, **Lei Li**, Tzu-Chen Yen, Jianjun Wu, Jian Wang, Chuantao Zuo, Ping Wu, Xiahai Zhuang*: Computer-Aided Classification Framework of Parkinsonian Disorders Using 11 C-CFT PET Imaging, Frontiers in Aging Neuroscience. (under review)
+10.	Jiahang Xu, Qian Xu, Shihong H Liu, Ling Li, **Lei Li**, Tzu-Chen Yen, Jianjun Wu, Jian Wang, Chuantao Zuo, Ping Wu, Xiahai Zhuang*: Computer-Aided Classification Framework of Parkinsonian Disorders Using 11 C-CFT PET Imaging, Frontiers in Aging Neuroscience. (under review)
 
 ## 2020
 ### Book/Chapters
