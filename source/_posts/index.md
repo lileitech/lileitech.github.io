@@ -6,7 +6,7 @@ is_index: true
 ---
 ## Biography
 
-I am a post-doc in the Institute of Biomedical Engineering (IBME) at [University of Oxford](https://eng.ox.ac.uk/biomedical-image-analysis/). I obtained my PhD degree from School of Biomedical Engineering, [Shanghai Jiao Tong University](http://en.bme.sjtu.edu.cn/), supervised by [Professor Xiahai Zhuang](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/). My research interest is medical image analysis, especially LGE MRI analysis for atrial fibrillation.
+Lei Li is a post-doc in the Institute of Biomedical Engineering (IBME) at [University of Oxford](https://eng.ox.ac.uk/biomedical-image-analysis/). She obtained her PhD degree from School of Biomedical Engineering, [Shanghai Jiao Tong University](http://en.bme.sjtu.edu.cn/), supervised by [Professor Xiahai Zhuang](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/). Her research interest is medical image analysis, especially LGE MRI analysis for atrial fibrillation.
 
 
 ## Research/Education Experience
@@ -14,7 +14,7 @@ I am a post-doc in the Institute of Biomedical Engineering (IBME) at [University
 * **09/2016-06/2021** &nbsp; PhD, School of Biomedical Engineering, Shanghai Jiao Tong University, Shanghai, China (Supervisor：[Professor Xiahai Zhuang](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/))
 * **12/2019-03/2021** &nbsp; Joint PhD, School of Biomedical Engineering & Imaging Sciences, King’s College London, London, UK (Supervisor：[Professor Julia A Schnabel](https://www.kcl.ac.uk/people/julia-a-schnabel))
 * **12/2017-12/2019** &nbsp; Visiting PhD, School of Data Science, Fudan University, Shanghai, China (Supervisor：[Professor Xiahai Zhuang](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/))
-* **09/2012-06/2016** &nbsp; Bachelor, Dept. Medical Information Engineering, Sichuan University, Chengdu, China
+* **09/2012-06/2016** &nbsp; Bachelor, Dept. Medical Information Engineering, Sichuan University, Chengdu, China (Related Academics: [Gang Yang](https://bme.scu.edu.cn/info/1090/1460.htm#))
 
 
 ## Selected Publications
