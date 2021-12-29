@@ -35,7 +35,7 @@ Lei Li is a post-doc in the Institute of Biomedical Engineering (IBME) at [Unive
 * Co-Organizer: [MyoPS 2020 Challenge: Myocardial Pathology Segmentation Combining Multi-sequence CMR](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/myops20/)
 * Co-Organizer: [MS-CMRSeg 2019 Challenge: Multi-sequence Cardiac MR Segmentation](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/mscmrseg19/)
 * Co-Organizer: [MM-WHS 2017 Challenge: Multi-modality Whole Heart Segmentation](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/mmwhs/)
-* Scientific reviewer: [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis); [Neurocomputing](https://www.journals.elsevier.com/neurocomputing); [IPMI 2021](http://ipmi2021.org/)
+* Scientific reviewer: [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis); [IEEE Transactions on Medical Imaging](https://www.embs.org/tmi/); [Neurocomputing](https://www.journals.elsevier.com/neurocomputing); [IPMI 2021](http://ipmi2021.org/); IPMI 2022
 
 ## Links
 * [Professor Xiahai Zhuang](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/)
