@@ -6,11 +6,7 @@ is_index: true
 ---
 ## Biography
 
-Lei Li is a post-doc in the Institute of Biomedical Engineering (IBME) at [University of Oxford](https://eng.ox.ac.uk/biomedical-image-analysis/). 
-She obtained her PhD degree from School of Biomedical Engineering, [Shanghai Jiao Tong University](http://en.bme.sjtu.edu.cn/), supervised by [Professor Xiahai Zhuang](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/). 
-During her PhD, she was a visiting PhD student of Fudan University (12/2017-12/2019) and King's College London (12/2019-03/2021), respectively.
-Her PhD thesis is ["Left Atrial Scar Segmentation and Quantification from Late Gadolinium Enhanced Magnetic Resonance Images"](https://drive.google.com/file/d/18T8i1J-tptPSHxcsVsCE_J6kfDVJizHS/view?usp=sharing).
-Her research interest includes left atrial image computing, multi-modality cardiac image segmentation and registration, and patient-specific cardiac modelling and simulation.
+Lei Li is a post-doc in the Institute of Biomedical Engineering (IBME) at [University of Oxford](https://eng.ox.ac.uk/biomedical-image-analysis/). She obtained her PhD degree from School of Biomedical Engineering, [Shanghai Jiao Tong University](http://en.bme.sjtu.edu.cn/), supervised by [Professor Xiahai Zhuang](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/).  During her PhD, she was a visiting PhD student of Fudan University (12/2017-12/2019) and King's College London (12/2019-03/2021), respectively. Her PhD thesis is ["Left Atrial Scar Segmentation and Quantification from Late Gadolinium Enhanced Magnetic Resonance Images"](https://drive.google.com/file/d/18T8i1J-tptPSHxcsVsCE_J6kfDVJizHS/view?usp=sharing). Her research interest includes left atrial image computing, multi-modality cardiac image segmentation and registration, and patient-specific cardiac modelling and simulation.
 
 <!-- 李雷，博士，现为牛津大学BioMedIA cluster博士后，于2021年获得上海交通大学生物医学工程博士学位，博士期间分别在复旦大学和伦敦国王学院交流访问。研究方向主要为心脏医学影像处理，特别是针对房颤病人的左心房研究，利用机器学习的方法实现全自动的医学影像分析，从而辅助医生进行诊断和治疗。近年来在Medical Image Analysis, IEEE Transactions on Medical Imaging, MICCAI等医学影像高水平期刊和国际会议中发表论文20篇，其中以第一作者或通讯作者发表论文8篇。此外，曾协同组织MICCAI-2017，2019，2020挑战赛，担任多个期刊和国际会议的审稿人。
 邮件：lei.li@eng.ox.ac.uk

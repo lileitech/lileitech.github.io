@@ -6,9 +6,9 @@ date: 2021-08-07 00:40:09
 
 ## 2021
 ### Book/Chapter
-1. **Lei Li\#**, Fuping Wu\#, Sihang Wang\#, Xiahai Zhuang\#: Multi-Modality Cardiac Image Analysis with Deep Learning, ***Deep Learning for medical image analysis***, 2021. [Link](https://arxiv.org/abs/2111.04736) (under review)
-    
-### Journal/Conference paper
+1. **Lei Li\#**, Fuping Wu\#, Sihang Wang\#, Xiahai Zhuang\#: Multi-Modality Cardiac Image Analysis with Deep Learning, ***Deep Learning for Medical Image Analysis***, 2021. [Link](https://arxiv.org/abs/2111.04736) (under review)
+
+### Journal/Conference Paper
 1. **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang\*: AtrialJSQnet: A New Framework for Joint Segmentation and Quantification of Left Atrium and Scars Incorporating Spatial and Shape Information, ***Medical Image Analysis***, 102303, 2021. [Link](https://www.sciencedirect.com/science/article/pii/S1361841521003480), [Code](https://github.com/Marie0909/AtrialJSQnet)
 
 2. **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang*: AtrialGeneral: Domain Generalization for Left Atrial Segmentation of Multi-Center LGE MRIs, ***MICCAI***, 557–566, 2021. [Link](https://link.springer.com/chapter/10.1007%2F978-3-030-87231-1_54), [Video](https://drive.google.com/file/d/1MaRG7UlvvQYXGnW9OAfTOEP3XrBONE9T/view?usp=sharing)
