@@ -53,8 +53,8 @@ Lei Li is a post-doc in the Institute of Biomedical Engineering (IBME) at [Unive
 * [Oxford BioMedIA](https://eng.ox.ac.uk/biomedical-image-analysis/)
 
 ## News
-* **[10th Nov, 2021]** Our review paper for the medical image analyis of left atrial LGE MRI has been accepted by MedIA! Thanks so much to Prof. Xiahai Zhuang and Prof. Julia A. Schnabel, the editor and the reviewers!
-* **[10th Nov, 2021]** Our paper for the myocardial pathology segmentation from multi-sequence CMR images has been accepted by MedIA! Bravo! Congrutulations to Kaini Wang and Xin Yang.
+* **[10th Jan, 2022]** Our review paper for the medical image analyis of left atrial LGE MRI has been accepted by MedIA! Thanks so much to Prof. Xiahai Zhuang and Prof. Julia A. Schnabel, the editor and the reviewers!
+* **[10th Jan, 2022]** Our paper for the myocardial pathology segmentation from multi-sequence CMR images has been accepted by MedIA! Bravo! Congrutulations to Kaini Wang and Xin Yang.
 * **[08th Jan, 2022]** I got the [SJTU 2021 Outstanding Doctoral Graduate Development Scholarship](https://www.gs.sjtu.edu.cn/info/1136/8764.htm)! Thanks so much to Prof. Xiahai Zhuang, Prof. Julia A. Schnabel, Prof. Guoyan Zheng, and Prof. Vicent Grau, who all gave me much support on this application!
 * **[08th Nov, 2021]** Our paper for the joint left atrial and scar segmentation and quantification from LGE MRI has been accepted by MedIA! Thanks so much to Prof. Xiahai Zhuang and Prof. Julia A. Schnabel, the editor and the reviewers!
 * **[16th Aug, 2021]** I have jointed the research team of Prof Vicente Grau.
