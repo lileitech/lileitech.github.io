@@ -23,6 +23,8 @@ Lei Li is a post-doc in the Institute of Biomedical Engineering (IBME) at [Unive
 
 
 ## Selected Publications
+* **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang*: Medical Image Analysis on Left Atrial LGE MRI for Atrial Fibrillation Studies: A Review, ***Medical Image Analysis***, 2022. [Link](https://arxiv.org/abs/2106.09862)  (in press)
+   
 * **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang\*: AtrialJSQnet: A New Framework for Joint Segmentation and Quantification of Left Atrium and Scars Incorporating Spatial and Shape Information, ***Medical Image Analysis***, 102303, 2021. [Link](https://www.sciencedirect.com/science/article/pii/S1361841521003480), [Code](https://github.com/Marie0909/AtrialJSQnet)
   
 * **Lei Li**, Fuping Wu, Guang Yang, Lingchao Xu, Tom Wong, Raad Mohiaddin, David Firmin, Jenny Keegan, Xiahai Zhuang\*: Atrial Scar Quantification via Multi-Scale CNN in the Graph-Cuts Framework. ***Medical Image Analysis***, vol. 60, 101595, 2020. [Link](https://www.sciencedirect.com/science/article/pii/S1361841519301355), [Code](https://github.com/Marie0909/LearnGC)
@@ -51,6 +53,8 @@ Lei Li is a post-doc in the Institute of Biomedical Engineering (IBME) at [Unive
 * [Oxford BioMedIA](https://eng.ox.ac.uk/biomedical-image-analysis/)
 
 ## News
+* **[10th Nov, 2021]** Our review paper for the medical image analyis of left atrial LGE MRI has been accepted by MedIA! Thanks so much to Prof. Xiahai Zhuang and Prof. Julia A. Schnabel, the editor and the reviewers!
+* **[10th Nov, 2021]** Our paper for the myocardial pathology segmentation from multi-sequence CMR images has been accepted by MedIA! Bravo! Congrutulations to Kaini Wang and Xin Yang.
 * **[08th Jan, 2022]** I got the [SJTU 2021 Outstanding Doctoral Graduate Development Scholarship](https://www.gs.sjtu.edu.cn/info/1136/8764.htm)! Thanks so much to Prof. Xiahai Zhuang, Prof. Julia A. Schnabel, Prof. Guoyan Zheng, and Prof. Vicent Grau, who all gave me much support on this application!
 * **[08th Nov, 2021]** Our paper for the joint left atrial and scar segmentation and quantification from LGE MRI has been accepted by MedIA! Thanks so much to Prof. Xiahai Zhuang and Prof. Julia A. Schnabel, the editor and the reviewers!
 * **[16th Aug, 2021]** I have jointed the research team of Prof Vicente Grau.

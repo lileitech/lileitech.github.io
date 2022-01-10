@@ -3,6 +3,14 @@ title: Publications
 date: 2021-08-07 00:40:09
 ---
 
+## 2022
+### Journal/Conference Paper
+
+1.  **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang*: Medical Image Analysis on Left Atrial LGE MRI for Atrial Fibrillation Studies: A Review, ***Medical Image Analysis***, 2022. [Link](https://arxiv.org/abs/2106.09862)  (in press)
+   
+2.  Kaini Wanga\#, Xin Yang\#, Juzheng Miao, **Lei Li**, Jing Yao, Ping Zhou, Wufeng Xue, Guang-Quan Zhou, Xiahai Zhuang*, Dong Ni*: AWSnet: An Auto-weighted Supervision Attention Network for Myocardial Scar and Edema Segmentation in Multi-Sequence Cardiac Magnetic Resonance Images, ***Medical Image Analysis***, 2022. (in press)
+
+3.  **Lei Li\#**, Fuping Wu\#, Sihang Wang\#, et al. ..., Xiahai Zhuang*: MyoPS: A Benchmark of Myocardial Pathology Segmentation Combining Three-Sequence Cardiac Magnetic Resonance Images, ***Medical Image Analysis***. (under review)
 
 ## 2021
 ### Book/Chapter
@@ -21,16 +29,12 @@ date: 2021-08-07 00:40:09
 
 6.	Wangbin Ding, **Lei Li**, Xiahai Zhuang*, Liqin Huang*:  Unsupervised MMRegNet based on Spatially Encoded Gradient Information, ***MICCAI-STACOM***, 2021. [Link](https://arxiv.org/pdf/2105.07392.pdf), [Code](https://github.com/NanYoMy/mmregnet)
 
-7.	Fuping Wu, **Lei Li**, Xiahai Zhuang*: Multi-Modality Cardiac Segmentation via Mixing Domains for Unsupervised Adaptation, ***MICCAI-STACOM***, 2021.
+7. Fuping Wu, **Lei Li**, Xiahai Zhuang*: Multi-Modality Cardiac Segmentation via Mixing Domains for Unsupervised Adaptation, ***MICCAI-STACOM***, 2021.
 
-8.	Sihan Wang, **Lei Li**, Xiahai Zhuang*: AttU-NET: Attention U-Net for Brain Tumor Segmention, ***MICCAI-BraTS***, 2021.
+8. Sihan Wang, **Lei Li**, Xiahai Zhuang*: AttU-NET: Attention U-Net for Brain Tumor Segmention, ***MICCAI-BraTS***, 2021.
 
-9. **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang*: Medical Image Analysis on Left Atrial LGE MRI for Atrial Fibrillation Studies: A Review, ***Medical Image Analysis***. [Link](https://arxiv.org/abs/2106.09862)  (under review)
-
-10. Wangbin Ding, **Lei Li**, Xiahai Zhuang*, Liqin Huang*:  Cross-Modality Multi-Atlas Segmentation Using Deep Neural Networks, ***Journal of Biomedical and Health Informatics***. (under review)
+9. Wangbin Ding, **Lei Li**, Xiahai Zhuang*, Liqin Huang*:  Cross-Modality Multi-Atlas Segmentation Using Deep Neural Networks, ***Journal of Biomedical and Health Informatics***. (under review)
    
-11. Kaini Wanga\#, Xin Yang\#, Juzheng Miao, **Lei Li**, Jing Yao, Ping Zhou, Wufeng Xue, Guang-Quan Zhou, Xiahai Zhuang*, Dong Ni*: AWSnet: An Auto-weighted Supervision Attention Network for Myocardial Scar and Edema Segmentation in Multi-Sequence Cardiac Magnetic Resonance Images, ***Medical Image Analysis***. (under review)
-
 
 ## 2020
 ### Book/Chapters
