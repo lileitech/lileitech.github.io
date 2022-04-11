@@ -33,10 +33,13 @@ Lei Li is a post-doc in the Institute of Biomedical Engineering (IBME) at [Unive
   
 * **Lei Li**, Xin Weng, Julia A Schnabel, Xiahai Zhuang\*: Joint Left Atrial Segmentation and Scar Quantification based on a DNN with Spatial Encoding and Shape Attention, ***MICCAI***, 118-127, 2020. [Link](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_12), [Video](https://www.bilibili.com/video/BV1rA41177eV), [Code](https://github.com/Marie0909/AtrialJSQnet)
 
+## Talks
+* **12/04/2021** &nbsp; Invited talk about "Left Atrial LGE MRI Computing for Atrial Fibrillation" at MICS (in Chinese).  [PPT](https://drive.google.com/file/d/15HKocmko3Ol4V0t3yuljhUvtMmLy_R6s/view?usp=sharing) 
+
 
 ## Academic Service
 <!-- * Co-Chair: [11th Workshop on Statistical Atlases and Computational Modelling of the Heart, Lima, Peru](https://stacom2020.cardiacatlas.org/)  -->
-* Co-Organizer: [LAScarQS 2022 Challenge: Left Atrial and Scar Quantification & Segmentation](https://zmiclab.github.io/projects/lascarqs22/) （coming soon）
+* Co-Organizer: [LAScarQS 2022 Challenge: Left Atrial and Scar Quantification & Segmentation](https://zmiclab.github.io/projects/lascarqs22/)
 * Co-Organizer: [MyoPS 2020 Challenge: Myocardial Pathology Segmentation Combining Multi-sequence CMR](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/myops20/)
 * Co-Organizer: [MS-CMRSeg 2019 Challenge: Multi-sequence Cardiac MR Segmentation](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/mscmrseg19/)
 * Co-Organizer: [MM-WHS 2017 Challenge: Multi-modality Whole Heart Segmentation](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/mmwhs/)
@@ -50,7 +53,7 @@ Lei Li is a post-doc in the Institute of Biomedical Engineering (IBME) at [Unive
 * [Oxford BioMedIA](https://eng.ox.ac.uk/biomedical-image-analysis/)
 
 ## News
-* **[1st Feb, 2022]** Our paper "Cross-Modality Multi-Atlas Segmentation Using Deep Neural Networks" has been accepted by JBHI! Bravo! Congrutulations to Wangbin Ding.
+* **[1st Feb, 2022]** Our paper "Cross-Modality Multi-Atlas Segmentation via Deep Registration and Label Fusion" has been accepted by JBHI! Bravo! Congrutulations to Wangbin Ding.
 * **[10th Jan, 2022]** Our review paper for the medical image analyis of left atrial LGE MRI has been accepted by MedIA! Thanks so much to Prof. Xiahai Zhuang and Prof. Julia A. Schnabel, the editor and the reviewers!
 * **[10th Jan, 2022]** Our paper for the myocardial pathology segmentation from multi-sequence CMR images has been accepted by MedIA! Bravo! Congrutulations to Kaini Wang and Xin Yang.
 * **[08th Jan, 2022]** I got the [SJTU 2021 Outstanding Doctoral Graduate Development Scholarship](https://www.gs.sjtu.edu.cn/info/1136/8764.htm)! Thanks so much to Prof. Xiahai Zhuang, Prof. Julia A. Schnabel, Prof. Guoyan Zheng, and Prof. Vicent Grau, who all gave me much support on this application!

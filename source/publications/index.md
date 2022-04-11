@@ -5,11 +5,11 @@ date: 2021-08-07 00:40:09
 
 ## 2022
 
-1.  **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang*: Medical Image Analysis on Left Atrial LGE MRI for Atrial Fibrillation Studies: A Review, ***Medical Image Analysis***, 102360, 2022. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1361841522000135?via%3Dihub)  
+1.  **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang*: Medical Image Analysis on Left Atrial LGE MRI for Atrial Fibrillation Studies: A Review, ***Medical Image Analysis***, vol. 77, 102360, 2022. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1361841522000135?via%3Dihub)  
    
 2.	**Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang*: AtrialJSQnet: A New Framework for Joint Segmentation and Quantification of Left Atrium and Scars Incorporating Spatial and Shape Information, ***Medical Image Analysis***, vol. 76, 102303, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S1361841521003480), [Code](https://github.com/Marie0909/AtrialJSQnet)
 
-3. Wangbin Ding, **Lei Li**, Xiahai Zhuang*, Liqin Huang*:  Cross-Modality Multi-Atlas Segmentation Using Deep Neural Networks, ***Journal of Biomedical and Health Informatics***, 2022.
+3. Wangbin Ding, **Lei Li**, Xiahai Zhuang*, Liqin Huang*:  Cross-Modality Multi-Atlas Segmentation via Deep Registration and Label Fusion, ***Journal of Biomedical and Health Informatics***, 2022. [Code](https://github.com/NanYoMy/cmmas)
 
 4. Kaini Wanga\#, Xin Yang\#, Juzheng Miao, **Lei Li**, Jing Yao, Ping Zhou, Wufeng Xue, Guangquan Zhou, Xiahai Zhuang*, Dong Ni*: AWSnet: An Auto-weighted Supervision Attention Network for Myocardial Scar and Edema Segmentation in Multi-sequence Cardiac Magnetic Resonance Images, ***Medical Image Analysis***, 102362, 2022.
 
