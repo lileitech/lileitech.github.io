@@ -34,7 +34,7 @@ Lei Li is a post-doc in the Institute of Biomedical Engineering (IBME) at [Unive
 * **Lei Li**, Xin Weng, Julia A Schnabel, Xiahai Zhuang\*: Joint Left Atrial Segmentation and Scar Quantification based on a DNN with Spatial Encoding and Shape Attention, ***MICCAI***, 118-127, 2020. [Link](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_12), [Video](https://www.bilibili.com/video/BV1rA41177eV), [Code](https://github.com/Marie0909/AtrialJSQnet)
 
 ## Talks
-* **12/04/2021** &nbsp; Invited talk about "Left Atrial LGE MRI Computing for Atrial Fibrillation" at MICS (in Chinese).  [PPT](https://drive.google.com/file/d/15HKocmko3Ol4V0t3yuljhUvtMmLy_R6s/view?usp=sharing) 
+* **12/04/2022** &nbsp; Invited talk about "Left Atrial LGE MRI Computing for Atrial Fibrillation" at MICS (in Chinese).  [PPT](https://drive.google.com/file/d/15HKocmko3Ol4V0t3yuljhUvtMmLy_R6s/view?usp=sharing) 
 
 
 ## Academic Service
