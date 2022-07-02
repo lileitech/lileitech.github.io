@@ -6,12 +6,14 @@ is_index: true
 ---
 ## Biography
 
-Lei Li is a post-doc in the Institute of Biomedical Engineering (IBME) at [University of Oxford](https://eng.ox.ac.uk/biomedical-image-analysis/). She obtained her PhD degree from School of Biomedical Engineering, [Shanghai Jiao Tong University](http://en.bme.sjtu.edu.cn/), supervised by [Professor Xiahai Zhuang](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/).  During her PhD, she was a visiting PhD student of Fudan University and King's College London, respectively. Her PhD thesis is ["Left Atrial Scar Segmentation and Quantification from Late Gadolinium Enhanced Magnetic Resonance Images"](https://drive.google.com/file/d/18T8i1J-tptPSHxcsVsCE_J6kfDVJizHS/view?usp=sharing). She has published 4 peer-reviewed journal papers and 5 conference paper of that she first-authored or is corresponding author. Some of the papers were published in the highly impacted journal or conference, including four in Medical Image Analysis and two in MICCAI. Her research interest includes left atrial image computing, multi-modality cardiac image segmentation and registration, and patient-specific cardiac modelling and simulation.
+Lei Li is a post-doc in the Institute of Biomedical Engineering (IBME) at [University of Oxford](https://eng.ox.ac.uk/biomedical-image-analysis/). She obtained her PhD degree from School of Biomedical Engineering, [Shanghai Jiao Tong University](http://en.bme.sjtu.edu.cn/), supervised by [Professor Xiahai Zhuang](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/).  During her PhD, she was a visiting PhD student of Fudan University and King's College London, respectively. Her PhD thesis is ["Left Atrial Scar Segmentation and Quantification from Late Gadolinium Enhanced Magnetic Resonance Images"](https://drive.google.com/file/d/18T8i1J-tptPSHxcsVsCE_J6kfDVJizHS/view?usp=sharing). She has published 5 peer-reviewed journal papers and 5 conference paper of that she first-authored or is corresponding author. Some of the papers were published in the highly impacted journal or conference, including five in Medical Image Analysis and two in MICCAI. Her research interest includes left atrial image computing, multi-modality cardiac image segmentation and registration, and patient-specific cardiac modelling and simulation.
 
-<!-- 李雷，博士，现为牛津大学BioMedIA cluster博士后，于2021年获得上海交通大学生物医学工程博士学位，博士期间分别在复旦大学和伦敦国王学院交流访问。研究方向主要为心脏医学影像处理，特别是针对房颤病人的左心房研究，利用机器学习的方法实现全自动的医学影像分析，从而辅助医生进行诊断和治疗。近年来在Medical Image Analysis, IEEE Transactions on Medical Imaging, MICCAI等医学影像高水平期刊和国际会议中发表论文20篇，其中以第一作者或通讯作者发表论文8篇。此外，曾协同组织MICCAI-2017，2019，2020挑战赛，担任多个期刊和国际会议的审稿人。
+
+<!-- 李雷，博士，目前就职于牛津大学，担任Postdoctoral Research Assistant职位，其主要研究方向包括房颤病人左心房图像计算、多模态心脏图像分割和配准，以及个体化心脏建模和仿真。2016年至2021年在上海交通大学生物医学工程学院攻读工学博士学位，并获得2021年上海交通大学优秀博士生发展奖学金。此外，博士期间分别在复旦大学庄吓海老师ZMIC研究组和King’s College London的Julia A Schnabel组访问交流。2012年至2016年在四川大学医学信息工程系攻读工学学士学位。近年来的研究工作集中于心脏影像分析，相关研究成果发表在Medical Image Analysis, IEEE Transactions on Medical Imaging, Journal of Biomedical and Health Informatics等领域顶级期刊，以及国际顶级会议MICCAI等，其中以第一作者或通讯作者发表论文10篇。曾多次在MICCAI协同组织国际挑战赛，包括MM-WHS 2017, MSCMRSeg 2019, MyoPS 2020, LAScarQS 2022等，并在MedIA, IEEE TMI, IEEE TBME, Neurocomputing, MICCAI, IPMI, ISBI, MIDL等多个国际期刊和会议担任审稿人。
 邮件：lei.li@eng.ox.ac.uk
 主页：https://marie0909.github.io/
 单位：Institute of Biomedical Engineering, University of Oxford, Oxford, UK -->
+
 
 
 ## Research/Education Experience
@@ -34,7 +36,7 @@ Lei Li is a post-doc in the Institute of Biomedical Engineering (IBME) at [Unive
 * **Lei Li**, Xin Weng, Julia A Schnabel, Xiahai Zhuang\*: Joint Left Atrial Segmentation and Scar Quantification based on a DNN with Spatial Encoding and Shape Attention, ***MICCAI***, 118-127, 2020. [Link](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_12), [Video](https://www.bilibili.com/video/BV1rA41177eV), [Code](https://github.com/Marie0909/AtrialJSQnet)
 
 ## Talks
-* **12/04/2022** &nbsp; Invited talk about "Left Atrial LGE MRI Computing for Atrial Fibrillation" at MICS (in Chinese).  [PPT](https://drive.google.com/file/d/15HKocmko3Ol4V0t3yuljhUvtMmLy_R6s/view?usp=sharing) 
+* **12/04/2022** &nbsp; Invited talk about "Left Atrial LGE MRI Computing for Atrial Fibrillation" at MICS (in Chinese).  [PPT](https://drive.google.com/file/d/15HKocmko3Ol4V0t3yuljhUvtMmLy_R6s/view?usp=sharing); [Video](https://www.bilibili.com/video/BV1PB4y1U7LF?spm_id_from=333.999.0.0)
 
 
 ## Academic Service
@@ -43,7 +45,7 @@ Lei Li is a post-doc in the Institute of Biomedical Engineering (IBME) at [Unive
 * Co-Organizer: [MyoPS 2020 Challenge: Myocardial Pathology Segmentation Combining Multi-sequence CMR](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/myops20/)
 * Co-Organizer: [MS-CMRSeg 2019 Challenge: Multi-sequence Cardiac MR Segmentation](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/mscmrseg19/)
 * Co-Organizer: [MM-WHS 2017 Challenge: Multi-modality Whole Heart Segmentation](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/mmwhs/)
-* Scientific reviewer: [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis); [IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42); [Neurocomputing](https://www.journals.elsevier.com/neurocomputing); [IPMI 2021](http://ipmi2021.org/); [IPMI 2022](https://waset.org/medical-imaging-and-information-processing-conference-in-october-2022-in-barcelona); [MIDL 2022](https://2022.midl.io/); [MICCAI 2022](https://conferences.miccai.org/2022/en/)
+* Scientific reviewer: [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis); [IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42); [IEEE Transactions on Biomedical Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10); [Neurocomputing](https://www.journals.elsevier.com/neurocomputing); [IPMI 2021](http://ipmi2021.org/); [ISBI 2022](https://biomedicalimaging.org/2022/); [MIDL 2022](https://2022.midl.io/); [MICCAI 2022](https://conferences.miccai.org/2022/en/)
 
 ## Links
 * [Professor Xiahai Zhuang](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/)
@@ -53,6 +55,9 @@ Lei Li is a post-doc in the Institute of Biomedical Engineering (IBME) at [Unive
 * [Oxford BioMedIA](https://eng.ox.ac.uk/biomedical-image-analysis/)
 
 ## News
+* **[1st July, 2022]** Our paper "Cardiac Segmentation on Late Gadolinium Enhancement MRI: A Benchmark Study from Multi-Sequence Cardiac MR Segmentation Challenge" has been accepted by MedIA! Thanks so much to the editor and the reviewers!
+* **[2nd June, 2022]** Our paper "Decoupling Predictions in Distributed Learning for Multi-Center Left Atrial MRI Segmentation" has been accepted by MICCAI 2022. Bravo! Congrutulations to Zheyao Gao. Thanks so much to the ACs and the reviewers!
+* **[4th April, 2022]** I was invited to give a talk on MICS China. Thanks for the inviatation of Prof Liansheng Wang and the organization of Prof Dan Long.
 * **[1st Feb, 2022]** Our paper "Cross-Modality Multi-Atlas Segmentation via Deep Registration and Label Fusion" has been accepted by JBHI! Bravo! Congrutulations to Wangbin Ding.
 * **[10th Jan, 2022]** Our review paper for the medical image analyis of left atrial LGE MRI has been accepted by MedIA! Thanks so much to Prof. Xiahai Zhuang and Prof. Julia A. Schnabel, the editor and the reviewers!
 * **[10th Jan, 2022]** Our paper for the myocardial pathology segmentation from multi-sequence CMR images has been accepted by MedIA! Bravo! Congrutulations to Kaini Wang and Xin Yang.
