@@ -27,7 +27,7 @@ date: 2021-08-07 00:40:09
     
 11. **Lei Li\***, Wangbin Ding, Liqin Huang, Xiahai Zhuang\#, Vicente Grau\#: Multi-Modality Cardiac Image Computing: A Survey, ***Medical Image Analysis***, 2022. (under review)
     
-12. Junyi Qiu, **Lei Li**, Sihan Wang, Ke Zhang, Yinyin Chen, Shan Yang, Xiahai Zhuang\*: MyoPS-Net: Myocardial Pathology Segmentation with Flexible Combination of Multi-Sequence CMR images, ***Medical Image Analysis***, 2022. (under review)
+12. Junyi Qiu, **Lei Li**, Sihan Wang, Ke Zhang, Yinyin Chen, Shan Yang, Xiahai Zhuang\*: MyoPS-Net: Myocardial Pathology Segmentation with Flexible Combination of Multi-Sequence CMR Images, ***Medical Image Analysis***, 2022. 
     
 13. Wangbin Ding, **Lei Li**, Junyi Qiu, Sihan Wang, Liqin Huang, Yinyin Chen, Shan Yang, Xiahai Zhuang\*: Aligning Multi-Sequence CMR Towards Fully Automated Myocardial Pathology Segmentation, ***IEEE Transactions on Medical Imaging***, 2022. (under review)
 

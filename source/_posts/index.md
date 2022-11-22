@@ -63,6 +63,7 @@ Lei Li is a Postdoctoral Research Assistant at the Institute of Biomedical Engin
 * [Oxford BioMedIA](https://eng.ox.ac.uk/biomedical-image-analysis/)
 
 ## News
+* **[16 Nov, 2022]** Our paper "MyoPS-Net: Myocardial Pathology Segmentation with Flexible Combination of Multi-Sequence CMR Images" has been accepted by MedIA. Bravo! Congrutulations to Junyi Qiu. Thanks so much to the editor and the reviewers!
 * **[12 Oct, 2022]** I was invited as a Editorial Board Member of the Journal of Medical Artificial Intelligence. Thanks so much for the invitation of [Prof. Ming Xia](https://me.sjtu.edu.cn/en/FullTimeTeacher/xiaxi.html). 
 * **[17 Aug, 2022]** Our paper "Deep Computational Model for the Inference of Ventricular Activation Properties" has been accepted by STACOM 2022 and was selected as a oral presentation. Thanks so much to the reviewers!
 * **[01 July, 2022]** Our paper "Cardiac Segmentation on Late Gadolinium Enhancement MRI: A Benchmark Study from Multi-Sequence Cardiac MR Segmentation Challenge" has been accepted by MedIA! Thanks so much to the editor and the reviewers!
