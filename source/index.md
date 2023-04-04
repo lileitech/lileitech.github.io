@@ -27,7 +27,7 @@ Lei Li is a Postdoctoral Research Assistant at the Institute of Biomedical Engin
 
 
 ## Selected Publications
-* **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang*: Medical Image Analysis on Left Atrial LGE MRI for Atrial Fibrillation Studies: A Review, ***Medical Image Analysis***, 102360, 2022. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1361841522000135?via%3Dihub) 
+* **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang*: Medical Image Analysis on Left Atrial LGE MRI for Atrial Fibrillation Studies: A Review, ***Medical Image Analysis***, vol. 77, 102360, 2022. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1361841522000135?via%3Dihub) 
    
 * **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang\*: AtrialJSQnet: A New Framework for Joint Segmentation and Quantification of Left Atrium and Scars Incorporating Spatial and Shape Information, ***Medical Image Analysis***, vol. 76, 102303, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S1361841521003480), [Code](https://github.com/Marie0909/AtrialJSQnet)
   
@@ -38,7 +38,8 @@ Lei Li is a Postdoctoral Research Assistant at the Institute of Biomedical Engin
 * **Lei Li**, Xin Weng, Julia A Schnabel, Xiahai Zhuang\*: Joint Left Atrial Segmentation and Scar Quantification based on a DNN with Spatial Encoding and Shape Attention, ***MICCAI***, 118-127, 2020. [Link](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_12), [Video](https://www.bilibili.com/video/BV1rA41177eV), [Code](https://github.com/Marie0909/AtrialJSQnet)
 
 ## Talks/Posters
-* **14/12/2022** &nbsp; Invited talk "Artificial Intelligence in Cardiac Image Computing and Modeling", which is hosted by [Prof. Evangelos B. Mazomenos](https://www.ucl.ac.uk/surgical-robot-vision/evangelos-mazomenos) at University College London. 
+* **15/02/2023** &nbsp; Invited talk "Artificial Intelligence in Cardiac Image Computing and Modeling", which is hosted by [Prof. Evangelos B. Mazomenos](https://www.ucl.ac.uk/surgical-robot-vision/evangelos-mazomenos) at University College London. 
+* **08/12/2022** &nbsp; Invited talk "Domain Generalization and Distributed Learning for Left Atrial Segmentation from Multi-Center LGE-MRI", in Turing workshop on Human-AI Interaction in Bio-Medicine.
 * **18/09/2022** &nbsp; Oral presenter in [STACOM 2022](https://stacom.github.io/stacom2022/) for the paper "Deep Computational Model for the Inference of Ventricular Activation Properties". [Video](https://drive.google.com/file/d/1UyWxRotsB8VvfYdJpYLawEJ3gye3h1F3/view?usp=sharing)
 * **17/06/2022** &nbsp; Invited posters at [SmartHeart Conference 2022](https://wp.doc.ic.ac.uk/smartheart/smartheart-conference-2022/). 
 * **12/04/2022** &nbsp; Invited talk "Left Atrial LGE MRI Computing for Atrial Fibrillation" at MICS (in Chinese).  [PPT](https://drive.google.com/file/d/15HKocmko3Ol4V0t3yuljhUvtMmLy_R6s/view?usp=sharing); [Video](https://www.bilibili.com/video/BV1PB4y1U7LF?spm_id_from=333.999.0.0)
@@ -63,6 +64,8 @@ Lei Li is a Postdoctoral Research Assistant at the Institute of Biomedical Engin
 * [Oxford BioMedIA](https://eng.ox.ac.uk/biomedical-image-analysis/)
 
 ## News
+* **[04 April, 2023]** Our paper "Influence of Myocardial Infraction on QRS Properties: A Simulation Study" has been accepted by FIMH 2023. Thanks so much to the nice comments of reviewers!
+* **[30 March, 2023]** Our benchmark paper "MyoPS: A Benchmark of Myocardial Pathology Segmentation Combining Three-Sequence Cardiac Magnetic Resonance Images" has been accepted by MedIA. Thanks so much to the editor and the reviewers!
 * **[16 Nov, 2022]** Our paper "MyoPS-Net: Myocardial Pathology Segmentation with Flexible Combination of Multi-Sequence CMR Images" has been accepted by MedIA. Bravo! Congrutulations to Junyi Qiu. Thanks so much to the editor and the reviewers!
 * **[12 Oct, 2022]** I was invited as a Editorial Board Member of the Journal of Medical Artificial Intelligence. Thanks so much for the invitation of [Prof. Ming Xia](https://me.sjtu.edu.cn/en/FullTimeTeacher/xiaxi.html). 
 * **[17 Aug, 2022]** Our paper "Deep Computational Model for the Inference of Ventricular Activation Properties" has been accepted by STACOM 2022 and was selected as a oral presentation. Thanks so much to the reviewers!
