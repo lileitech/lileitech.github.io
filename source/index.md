@@ -27,15 +27,17 @@ Lei Li is a Postdoctoral Research Assistant at the Institute of Biomedical Engin
 
 
 ## Selected Publications
-* **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang*: Medical Image Analysis on Left Atrial LGE MRI for Atrial Fibrillation Studies: A Review, ***Medical Image Analysis***, vol. 77, 102360, 2022. [Link](https://www.sciencedirect.com/science/article/abs/pii/S1361841522000135?via%3Dihub) 
+* **Lei Li\#**, et al.,: MyoPS: A Benchmark of Myocardial Pathology Segmentation Combining Three-Sequence Cardiac Magnetic Resonance Images, ***Medical Image Analysis***, 2023. (in press)[Link](https://arxiv.org/abs/2201.03186)
+
+* **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang*: Medical Image Analysis on Left Atrial LGE MRI for Atrial Fibrillation Studies: A Review, ***Medical Image Analysis***, vol. 77, 102360, 2022. [Link](https://doi.org/10.1016/j.media.2022.102360)
    
-* **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang\*: AtrialJSQnet: A New Framework for Joint Segmentation and Quantification of Left Atrium and Scars Incorporating Spatial and Shape Information, ***Medical Image Analysis***, vol. 76, 102303, 2022. [Link](https://www.sciencedirect.com/science/article/pii/S1361841521003480), [Code](https://github.com/Marie0909/AtrialJSQnet)
+* **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang\*: AtrialJSQnet: A New Framework for Joint Segmentation and Quantification of Left Atrium and Scars Incorporating Spatial and Shape Information, ***Medical Image Analysis***, vol. 76, 102303, 2022. [Link](https://doi.org/10.1016/j.media.2021.102303), [Code](https://github.com/lileitech/AtrialJSQnet)
   
-* **Lei Li**, Fuping Wu, Guang Yang, Lingchao Xu, Tom Wong, Raad Mohiaddin, David Firmin, Jenny Keegan, Xiahai Zhuang\*: Atrial Scar Quantification via Multi-Scale CNN in the Graph-Cuts Framework. ***Medical Image Analysis***, vol. 60, 101595, 2020. [Link](https://www.sciencedirect.com/science/article/pii/S1361841519301355), [Code](https://github.com/Marie0909/LearnGC)
+* **Lei Li**, Fuping Wu, Guang Yang, Lingchao Xu, Tom Wong, Raad Mohiaddin, David Firmin, Jenny Keegan, Xiahai Zhuang\*: Atrial Scar Quantification via Multi-Scale CNN in the Graph-Cuts Framework. ***Medical Image Analysis***, vol. 60, 101595, 2020. [Link](https://doi.org/10.1016/j.media.2019.101595), [Code](https://github.com/lileitech/LearnGC)
 
 * **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang*: AtrialGeneral: Domain Generalization for Left Atrial Segmentation of Multi-Center LGE MRIs, ***MICCAI***, 557–566, 2021. [Link](https://link.springer.com/chapter/10.1007%2F978-3-030-87231-1_54), [Video](https://drive.google.com/file/d/141FI3F4EHMihq4O3R-jTUCEkUXBE91H3/view?usp=sharing)
   
-* **Lei Li**, Xin Weng, Julia A Schnabel, Xiahai Zhuang\*: Joint Left Atrial Segmentation and Scar Quantification based on a DNN with Spatial Encoding and Shape Attention, ***MICCAI***, 118-127, 2020. [Link](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_12), [Video](https://www.bilibili.com/video/BV1rA41177eV), [Code](https://github.com/Marie0909/AtrialJSQnet)
+* **Lei Li**, Xin Weng, Julia A Schnabel, Xiahai Zhuang\*: Joint Left Atrial Segmentation and Scar Quantification based on a DNN with Spatial Encoding and Shape Attention, ***MICCAI***, 118-127, 2020. [Link](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_12), [Video](https://www.bilibili.com/video/BV1rA41177eV), [Code](https://github.com/lileitech/AtrialJSQnet)
 
 ## Talks/Posters
 * **15/02/2023** &nbsp; Invited talk "Artificial Intelligence in Cardiac Image Computing and Modeling", which is hosted by [Prof. Evangelos B. Mazomenos](https://www.ucl.ac.uk/surgical-robot-vision/evangelos-mazomenos) at University College London. 
