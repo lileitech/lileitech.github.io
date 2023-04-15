@@ -46,13 +46,13 @@ date: 2021-08-07 00:40:09
 
 1. **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang*: AtrialGeneral: Domain Generalization for Left Atrial Segmentation of Multi-Center LGE MRIs, ***MICCAI***, 557–566, 2021. [Link](https://link.springer.com/chapter/10.1007%2F978-3-030-87231-1_54), [Video](https://drive.google.com/file/d/1MaRG7UlvvQYXGnW9OAfTOEP3XrBONE9T/view?usp=sharing)
 
-2. **Lei Li\#**, Wangbin Ding\#, Liqun Huang, Xiahai Zhuang*: Right Ventricular Segmentation from Short-and Long-Axis MRIs via Information Transition, ***STACOM***, vol. 13131, 259-267, 2022. [Link](https://link.springer.com/chapter/10.1007/978-3-030-93722-5_28), [Video](https://drive.google.com/file/d/1urbB4YsjTbyUFOmDDCSevKk-W2XEoEtl/view), [Code](https://github.com/NanYoMy/MMs-2)
+2. **Lei Li\#**, Wangbin Ding\#, Liqun Huang, Xiahai Zhuang*: Right Ventricular Segmentation from Short-and Long-Axis MRIs via Information Transition, ***STACOM***, vol. 13131, 259-267, 2021. [Link](https://link.springer.com/chapter/10.1007/978-3-030-93722-5_28), [Video](https://drive.google.com/file/d/1urbB4YsjTbyUFOmDDCSevKk-W2XEoEtl/view), [Code](https://github.com/NanYoMy/MMs-2)
 
 3. Víctor M Campello\*, ..., **Lei Li**, et al.: Multi-Centre, Multi-Vendor and Multi-Disease Cardiac Segmentation: The M&Ms Challenge, ***IEEE Transactions on Medical Imaging***, 9458279, 2021. [Link](https://ieeexplore.ieee.org/document/9458279?denied=)
 
-4. Wangbin Ding, **Lei Li**, Xiahai Zhuang\*, Liqin Huang\*:  Unsupervised Multi-Modality Registration Network Based on Spatially Encoded Gradient Information, ***STACOM***, 151-159, 2022. [Link](https://link.springer.com/chapter/10.1007/978-3-030-93722-5_17), [Code](https://github.com/NanYoMy/mmregnet)
+4. Wangbin Ding, **Lei Li**, Xiahai Zhuang\*, Liqin Huang\*:  Unsupervised Multi-Modality Registration Network Based on Spatially Encoded Gradient Information, ***STACOM***, vol. 13131, 151-159, 2021. [Link](https://link.springer.com/chapter/10.1007/978-3-030-93722-5_17), [Code](https://github.com/NanYoMy/mmregnet)
 
-5. Fuping Wu, **Lei Li**, Xiahai Zhuang\*: Multi-Modality Cardiac Segmentation via Mixing Domains for Unsupervised Adaptation. ***STACOM***, vol. 13131, 179-188, 2022. [Link](https://link.springer.com/chapter/10.1007/978-3-030-93722-5_20)
+5. Fuping Wu, **Lei Li**, Xiahai Zhuang\*: Multi-Modality Cardiac Segmentation via Mixing Domains for Unsupervised Adaptation. ***STACOM***, vol. 13131, 179-188, 2021. [Link](https://link.springer.com/chapter/10.1007/978-3-030-93722-5_20)
 
 ## 2020
 
