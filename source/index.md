@@ -36,6 +36,7 @@ Her research interest is artificial intelligence based medical image analysis fo
 
 ## Talks/Posters
 
+* **10/06/2023** &nbsp; Invited talk "Artificial Intelligence in Cardiac Image Computing and Modeling", which is hosted by [Prof. Yi Dai](https://ai.nankai.edu.cn/info/1033/4187.htm) at Nankai University. [Talk info](https://ai.nankai.edu.cn/info/1021/5341.htm)
 * **15/02/2023** &nbsp; Invited talk "Artificial Intelligence in Cardiac Image Computing and Modeling", which is hosted by [Prof. Evangelos B. Mazomenos](https://www.ucl.ac.uk/surgical-robot-vision/evangelos-mazomenos) at University College London.
 * **08/12/2022** &nbsp; Invited talk "Domain Generalization and Distributed Learning for Left Atrial Segmentation from Multi-Center LGE-MRI", in Turing workshop on Human-AI Interaction in Bio-Medicine.
 * **18/09/2022** &nbsp; Oral presenter in [STACOM 2022](https://stacom.github.io/stacom2022/) for the paper "Deep Computational Model for the Inference of Ventricular Activation Properties". [Video](https://drive.google.com/file/d/1UyWxRotsB8VvfYdJpYLawEJ3gye3h1F3/view?usp=sharing)
