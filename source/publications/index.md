@@ -14,25 +14,27 @@ date: 2021-08-07 00:40:09
 
 ### Journal/Conference Paper
 
-1. **Lei Li\***, Wangbin Ding, Liqin Huang, Xiahai Zhuang\#, Vicente Grau\#: Multi-Modality Cardiac Image Computing: A Survey, ***Medical Image Analysis***, 102869, 2023. [Link](https://doi.org/10.1016/j.media.2023.102869)
+1. **Lei Li\***, Julia Camps, Zhinuo (Jenny) Wang, Marcel Beetz, Abhirup Banerjee, Blanca Rodriguez, Vicente Grau: Towards Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference, ***IEEE Transactions on Medical Imaging***, 2023. [Link](https://arxiv.org/abs/2307.04421) (under review)
 
-2. **Lei Li\#**, Fuping Wu\#, Sihang Wang\#, et al.,: MyoPS: A Benchmark of Myocardial Pathology Segmentation Combining Three-Sequence Cardiac Magnetic Resonance Images, ***Medical Image Analysis***, vol. 87, 102808, 2023. [Link](https://doi.org/10.1016/j.media.2023.102808)
+2. **Lei Li\***, Wangbin Ding, Liqin Huang, Xiahai Zhuang\#, Vicente Grau\#: Multi-Modality Cardiac Image Computing: A Survey, ***Medical Image Analysis***, 102869, 2023. [Link](https://doi.org/10.1016/j.media.2023.102869)
 
-3. **Lei Li\*\#**, Julia Camps\#, Zhinuo (Jenny) Wang, Abhirup Banerjee, Blanca Rodriguez, Vicente Grau: Influence of Myocardial Infarction on QRS Properties: A Simulation Study, ***Functional Imaging and Modeling of the Heart***, 223–232, 2023. [Link](https://link.springer.com/chapter/10.1007/978-3-031-35302-4_23)
+3. **Lei Li\#**, Fuping Wu\#, Sihang Wang\#, et al.,: MyoPS: A Benchmark of Myocardial Pathology Segmentation Combining Three-Sequence Cardiac Magnetic Resonance Images, ***Medical Image Analysis***, vol. 87, 102808, 2023. [Link](https://doi.org/10.1016/j.media.2023.102808)
 
-4. Junyi Qiu, **Lei Li**, Sihan Wang, Ke Zhang, Yinyin Chen, Shan Yang, Xiahai Zhuang\*: MyoPS-Net: Myocardial Pathology Segmentation with Flexible Combination of Multi-Sequence CMR Images, ***Medical Image Analysis***, vol. 84, 102694, 2023. [Link](https://doi.org/10.1016/j.media.2022.102694)  
+4. **Lei Li\*\#**, Julia Camps\#, Zhinuo (Jenny) Wang, Abhirup Banerjee, Blanca Rodriguez, Vicente Grau: Influence of Myocardial Infarction on QRS Properties: A Simulation Study, ***Functional Imaging and Modeling of the Heart***, 223–232, 2023. [Link](https://link.springer.com/chapter/10.1007/978-3-031-35302-4_23)
 
-5. Wangbin Ding, **Lei Li**, Junyi Qiu, Sihan Wang, Liqin Huang, Yinyin Chen, Shan Yang, Xiahai Zhuang\*: Aligning Multi-Sequence CMR Towards Fully Automated Myocardial Pathology Segmentation, ***IEEE Transactions on Medical Imaging***, 2023. [Link](10.1109/TMI.2023.3288046)
+5. Junyi Qiu, **Lei Li**, Sihan Wang, Ke Zhang, Yinyin Chen, Shan Yang, Xiahai Zhuang\*: MyoPS-Net: Myocardial Pathology Segmentation with Flexible Combination of Multi-Sequence CMR Images, ***Medical Image Analysis***, vol. 84, 102694, 2023. [Link](https://doi.org/10.1016/j.media.2022.102694)  
 
-6. Kaiwen Wan, **Lei Li**, Dengqiang Jia, Shangqi Gao, Wei Qian, Yingzhi Wu, Huandong Lin, Xiongzheng Mu, Xin Gao, Sijia Wang, Fuping Wu, Xiahai Zhuang\*: Multi-Target Landmark Detection with Incomplete Images via Reinforcement Learning and Shape Prior, ***Medical Image Analysis***, 102875, 2023. [Link](https://doi.org/10.1016/j.media.2023.102875)  
+6. Wangbin Ding, **Lei Li**, Junyi Qiu, Sihan Wang, Liqin Huang, Yinyin Chen, Shan Yang, Xiahai Zhuang\*: Aligning Multi-Sequence CMR Towards Fully Automated Myocardial Pathology Segmentation, ***IEEE Transactions on Medical Imaging***, 2023. [Link](10.1109/TMI.2023.3288046)
 
-7. Chen, Gongping, **Lei Li**, Yu Dai, Jianxun Zhang, and Moi Hoon Yap\*: AAU-net: An Adaptive Attention U-net for Breast Lesions Segmentation in Ultrasound Images, ***IEEE Transactions on Medical Imaging***, 42(5), 1289-1300, 2023. [Link](10.1109/TMI.2022.3226268)
+7. Kaiwen Wan, **Lei Li**, Dengqiang Jia, Shangqi Gao, Wei Qian, Yingzhi Wu, Huandong Lin, Xiongzheng Mu, Xin Gao, Sijia Wang, Fuping Wu, Xiahai Zhuang\*: Multi-Target Landmark Detection with Incomplete Images via Reinforcement Learning and Shape Prior, ***Medical Image Analysis***, 102875, 2023. [Link](https://doi.org/10.1016/j.media.2023.102875)  
 
-8. Sihan Wang, Fuping Wu, **Lei Li**, Zeyao Gao, Byung-Woo Hong, Xiahai Zhuang\*: Unsupervised Cardiac Segmentation Utilizing Synthesized Images from Anatomical Labels, ***STACOM***, 2023. [Link](https://link.springer.com/chapter/10.1007/978-3-031-23443-9_32)
+8. Chen, Gongping, **Lei Li**, Yu Dai, Jianxun Zhang, and Moi Hoon Yap\*: AAU-net: An Adaptive Attention U-net for Breast Lesions Segmentation in Ultrasound Images, ***IEEE Transactions on Medical Imaging***, 42(5), 1289-1300, 2023. [Link](10.1109/TMI.2022.3226268)
 
-9. Marcel Beetz\#, Yilong Yang\#, Abhirup Banerjee, **Lei Li**, Vicente Grau: 3D Shape-based Myocardial Infarction Prediction using Point Cloud Classification Networks, ***45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society***, 2023.
+9. Sihan Wang, Fuping Wu, **Lei Li**, Zeyao Gao, Byung-Woo Hong, Xiahai Zhuang\*: Unsupervised Cardiac Segmentation Utilizing Synthesized Images from Anatomical Labels, ***STACOM***, 2023. [Link](https://link.springer.com/chapter/10.1007/978-3-031-23443-9_32)
 
-10. Carlos Martín-Isla, ... , **Lei Li**, et al.: Deep Learning Segmentation of the Right Ventricle in Cardiac MRI: The M&Ms Challenge, ***IEEE Journal of Biomedical and Health Informatics***, 2023.
+10. Marcel Beetz\#, Yilong Yang\#, Abhirup Banerjee, **Lei Li**, Vicente Grau: 3D Shape-based Myocardial Infarction Prediction using Point Cloud Classification Networks, ***45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society***, 2023.
+
+11. Carlos Martín-Isla, ... , **Lei Li**, et al.: Deep Learning Segmentation of the Right Ventricle in Cardiac MRI: The M&Ms Challenge, ***IEEE Journal of Biomedical and Health Informatics***, 2023.
   
 ## 2022
 
