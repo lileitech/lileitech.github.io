@@ -6,7 +6,7 @@ date: 2021-08-07 00:40:09
 ## 2023
 
 * **[03 Aug, 2023]** I was selected as one of the shortlist participants (only 25 people) of the [Asian Deans' Forum 2023 - The Rising Stars Women in Engineering Workshop](https://risingstarsasia.org/index.php), which will be held at the University of Tokyo, Japan, from November 20th to 22nd, 2023.
-* **[18 July, 2023]** I was invited to give a five-minute pitch at Multi-scale & Multi-modality Digital Health Collaboration Workshops, which was funded by The Alan Turing Institute.
+* **[18 July, 2023]** I was invited by [Dr. Caroline H Roney](https://www.sems.qmul.ac.uk/staff/c.roney) to give a five-minute pitch at Multi-scale & Multi-modality Digital Health Collaboration Workshops, which was funded by The Alan Turing Institute.
 * **[14 June, 2023]** Our paper "Aligning Multi-Sequence CMR Towards Fully Automated Myocardial Pathology Segmentation" has been accepted by IEEE TMI! Thanks so much to the editor and the reviewers! Congratulations to Wangbin Ding.
 * **[14 June, 2023]** Our paper "Multi-Target Landmark Detection with Incomplete Images via Reinforcement Learning and Shape Prior" has been accepted by MedIA! Thanks so much to the editor and the reviewers! Congratulations to Kaiwen Wan.
 * **[12 June, 2023]** Our survey paper "Multi-Modality Cardiac Image Computing: A Survey" has been accepted by MedIA! Thanks so much to the editor and the reviewers!
