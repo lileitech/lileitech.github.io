@@ -32,17 +32,21 @@ date: 2021-08-07 00:40:09
 ## 2021
 
 * **[08 Nov, 2021]** Our paper "AtrialJSQnet: A New Framework for Joint Segmentation and Quantification of Left Atrium and Scars Incorporating Spatial and Shape Information" has been accepted by MedIA! Thanks so much to Prof. Xiahai Zhuang and Prof. Julia A. Schnabel, the editor and the reviewers!
-* **[16 Aug, 2021]** I have jointed the research team of Prof. Vicente Grau.
+* **[16 Aug, 2021]** I have jointed the BioMedIA research group of University of Oxford as a Postdoc with Prof. Vicente Grau!
 * **[06 Aug, 2021]** I have reconstructed my personal website!
 * **[12 June, 2021]** Our paper "AtrialGeneral: Domain Generalization for Left Atrial Segmentation of Multi-Center LGE MRIs" has been accepted by MICCAI 2021.
 * **[26 May, 2021]** I have passed my PhD viva! My PhD thesis is ["Left Atrial Scar Segmentation and Quantification from Late Gadolinium Enhanced Magnetic Resonance Images"](https://drive.google.com/file/d/18T8i1J-tptPSHxcsVsCE_J6kfDVJizHS/view?usp=sharing). Thanks to my super nice supervisor Prof. Xiahai Zhuang and others who helped me during my PhD.
 
 ## 2020
 
+* **[04 Oct, 2020]** Our MyoPS challenge 2020 was successfully held! Thanks to all participants and organizers!
+* **[23 June, 2020]** Our paper "Cross-modality multi-atlas segmentation using deep neural networks" has been accepted by MICCAI 2020.
 * **[23 June, 2020]** Our paper "Joint Left Atrial Segmentation and Scar Quantification based on a DNN with Spatial Encoding and Shape Attention" has been accepted by MICCAI 2020.
+* **[01 April, 2020]** The training data of our MyoPS 2020 challenge has been released.
 
 ## 2019
 
 * **[15 Dec, 2019]** Happy to be the runnerups of [FBDC](https://fbdc.fudan.edu.cn/wosterwwession/list.htm) best poster awards togther with Xin Weng.
 * **[26 Oct, 2019]** Our paper "Atrial Scar Quantification via Multi-Scale CNN in the Graph-Cuts Framework" has been accepted by MedIA! Thanks so much to Prof. Xiahai Zhuang, Dr. Guang Yang, the editor and the reviewers!
+* **[13 Oct, 2019]** Our MS-CMRSeg challenge 2019 was successfully held! Thanks to all participants and organizers!
 * **[22 July, 2019]** Our paper "Evaluation of Algorithms for Multi-Modality Whole Heart Segmentation: An Open-Access Grand Challenge" has been accepted by MedIA! Thanks so much to Prof. Xiahai Zhuang, [Dr. Guang Yang](https://www.imperial.ac.uk/people/g.yang), the editor and the reviewers!

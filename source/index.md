@@ -40,9 +40,9 @@ Her research interest is AI based medical data analysis for healthcare. Specific
 * Board Member: [Women in MICCAI (WiM)](http://www.miccai.org/about-miccai/women-in-miccai/)
 * Organization Committee:
   * [LAScarQS 2022 Challenge: Left Atrial and Scar Quantification & Segmentation](https://zmiclab.github.io/projects/lascarqs22/)
-  * [MyoPS 2020 Challenge: Myocardial Pathology Segmentation Combining Multi-sequence CMR](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/myops20/)
-  * [MS-CMRSeg 2019 Challenge: Multi-sequence Cardiac MR Segmentation](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/mscmrseg19/)
-  * [MM-WHS 2017 Challenge: Multi-modality Whole Heart Segmentation](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/0/mmwhs/)
+  * [MyoPS 2020 Challenge: Myocardial Pathology Segmentation Combining Multi-sequence CMR](https://zmiclab.github.io/zxh/0/myops20/)
+  * [MS-CMRSeg 2019 Challenge: Multi-sequence Cardiac MR Segmentation](https://zmiclab.github.io/zxh/0/mscmrseg19/)
+  * [MM-WHS 2017 Challenge: Multi-modality Whole Heart Segmentation](https://zmiclab.github.io/zxh/0/mmwhs/)
 * Scientific Reviewer:
   * [Medical Image Analysis](https://www.journals.elsevier.com/medical-image-analysis)
   * [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
@@ -54,6 +54,7 @@ Her research interest is AI based medical data analysis for healthcare. Specific
   * [IPMI 2021](http://ipmi2021.org/)
   * [ISBI 2022](https://biomedicalimaging.org/2022/); [ISBI 2023](https://2023.biomedicalimaging.org/en/)
   * [MIDL 2022](https://2022.midl.io/)
+  * [STACOM 2022](https://stacom.github.io/stacom2022/); [STACOM2023](https://stacom.github.io/stacom2023/)
   * [MICCAI 2022](https://conferences.miccai.org/2022/en/)
 
 ## Talks/Posters
