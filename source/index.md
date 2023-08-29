@@ -38,7 +38,7 @@ Her research interest is AI based medical data analysis for healthcare. Specific
 <!-- * Co-Chair: [11th Workshop on Statistical Atlases and Computational Modelling of the Heart, Lima, Peru](https://stacom2020.cardiacatlas.org/)  -->
 * Editorial Board Member: [Journal of Medical Artificial Intelligence](https://jmai.amegroups.com/)
 * Board Member: [Women in MICCAI (WiM)](http://www.miccai.org/about-miccai/women-in-miccai/)
-* Organization Committee:
+* Organizer:
   * [LAScarQS 2022 Challenge: Left Atrial and Scar Quantification & Segmentation](https://zmiclab.github.io/projects/lascarqs22/)
   * [MyoPS 2020 Challenge: Myocardial Pathology Segmentation Combining Multi-sequence CMR](https://zmiclab.github.io/zxh/0/myops20/)
   * [MS-CMRSeg 2019 Challenge: Multi-sequence Cardiac MR Segmentation](https://zmiclab.github.io/zxh/0/mscmrseg19/)
