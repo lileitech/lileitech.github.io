@@ -28,7 +28,9 @@ date: 2021-08-07 00:40:09
 
 * Kaiwen Wan, **Lei Li**, Dengqiang Jia, Shangqi Gao, Wei Qian, Yingzhi Wu, Huandong Lin, Xiongzheng Mu, Xin Gao, Sijia Wang, Fuping Wu, Xiahai Zhuang\*: Multi-Target Landmark Detection with Incomplete Images via Reinforcement Learning and Shape Prior, ***Medical Image Analysis***, 102875, 2023. [Link](https://doi.org/10.1016/j.media.2023.102875)  
 
-* Chen, Gongping, **Lei Li**, Yu Dai, Jianxun Zhang, and Moi Hoon Yap\*: AAU-net: An Adaptive Attention U-net for Breast Lesions Segmentation in Ultrasound Images, ***IEEE Transactions on Medical Imaging***, 42(5), 1289-1300, 2023. [Link](10.1109/TMI.2022.3226268)
+* Gongping Chen, **Lei Li**, JianXun Zhang, Yu Dai\*: Rethinking the unpretentious U-net for medical ultrasound image segmentation, ***Pattern Recognition***, 109728, 2023. [Link](https://doi.org/10.1016/j.patcog.2023.109728)
+
+* Gongping Chen, **Lei Li**, Yu Dai, Jianxun Zhang, Moi Hoon Yap\*: AAU-net: An Adaptive Attention U-net for Breast Lesions Segmentation in Ultrasound Images, ***IEEE Transactions on Medical Imaging***, 42(5), 1289-1300, 2023. [Link](10.1109/TMI.2022.3226268)
 
 * Sihan Wang, Fuping Wu, **Lei Li**, Zeyao Gao, Byung-Woo Hong, Xiahai Zhuang\*: Unsupervised Cardiac Segmentation Utilizing Synthesized Images from Anatomical Labels, ***STACOM***, 2023. [Link](https://link.springer.com/chapter/10.1007/978-3-031-23443-9_32)
 

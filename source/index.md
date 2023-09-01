@@ -6,9 +6,9 @@ layout: index
 ---
 ## Biography
 
-Lei Li is a Postdoctoral Research Assistant at the Institute of Biomedical Engineering, [University of Oxford](https://eng.ox.ac.uk/biomedical-image-analysis/). She received her PhD degree from the School of Biomedical Engineering, [Shanghai Jiao Tong University](http://en.bme.sjtu.edu.cn/) in 2021 and obtained the SJTU 2021 Outstanding Doctoral Graduate Development Scholarship. During her PhD, she was a visiting PhD student at Fudan University and King’s College London, respectively. She received her bachelor’s degree in Department of Medical Information Engineering, Sichuan University, in 2016.
+Lei Li is a Postdoctoral Research Assistant at the Institute of Biomedical Engineering, [University of Oxford](https://eng.ox.ac.uk/biomedical-image-analysis/). She received her PhD degree from the School of Biomedical Engineering, [Shanghai Jiao Tong University](http://en.bme.sjtu.edu.cn/) in 2021 and obtained the *SJTU 2021 Outstanding Doctoral Graduate Development Scholarship*. During her PhD, she was a visiting PhD student at [Fudan University](https://zmiclab.github.io/) and [King’s College London](https://www.kcl.ac.uk/bmeis/our-departments/biomedical-engineering), respectively. She received her bachelor’s degree in Department of Medical Information Engineering, [Sichuan University](https://eie.scu.edu.cn/ceeiten/index.htm), in 2016.
 
-Her research interest is AI based medical data analysis for healthcare. Specifically, she is focusing on developing novel AI based computational algorithms for cardiac image computing, multi-modal fusion, and cardiac digital twins. She has already published more than 30 papers in peer-reviewed journals and interregnal conferences, including MedIA, IEEE TMI, MICCAI and FIMH. Some of these works have been selected as the most popular cited paper in MedIA and TMI. She is a Board member of Women in MICCAI (WiM) and Editorial Board Member of the Journal of Medical Artificial Intelligence. She has been co-organizer of four MICCAI challenge events, including LAScarQS 2022, MyoPS 2020, MS-CMRSeg 2019, and MM-WHS 2017. She is a reviewer for many journals and conferences, including MedIA, IEEE TPAMI, IEEE TMI, IEEE TBME, Neurocomputing, Information Fusion, Neural Networks, ISBI, IPMI, MIDL, and MICCAI, and obtained IEEE TMI Distinguished Reviewer (2020-2022).
+Her research interest is AI based medical data analysis for healthcare. Specifically, she is focusing on developing novel AI based computational algorithms for cardiac image computing, multi-modal fusion, and cardiac digital twins. She has already published more than 30 papers in peer-reviewed journals and interregnal conferences, including MedIA, IEEE TMI, MICCAI and FIMH. Some of these works have been selected as the most popular cited paper in MedIA and TMI. She is a Board Member of Women in MICCAI (WiM) and Editorial Board Member of the Journal of Medical Artificial Intelligence. She has been selected the *Rising Star of Women in Engineering* by Asian Deans' Forum 2023. She has been co-organizer of four MICCAI challenge events, including LAScarQS 2022, MyoPS 2020, MS-CMRSeg 2019, and MM-WHS 2017. She is a reviewer for many journals and conferences, including MedIA, IEEE TPAMI, IEEE TMI, IEEE TBME, Neurocomputing, Information Fusion, Neural Networks, ISBI, IPMI, MIDL, and MICCAI, and obtained IEEE TMI Distinguished Reviewer (2020-2022).
 
 <span style="color: #d8af45">I am on the academic job market for faculty positions in AI for healthcare! Please feel free to reach out if you have potential job opportunities.</span> [CV](https://drive.google.com/file/d/1NQPG50kAv7O-ysHGrPT26lvVDwjLLvba/view?usp=share_link)
 
@@ -57,28 +57,34 @@ Her research interest is AI based medical data analysis for healthcare. Specific
   * [STACOM 2022](https://stacom.github.io/stacom2022/); [STACOM2023](https://stacom.github.io/stacom2023/)
   * [MICCAI 2022](https://conferences.miccai.org/2022/en/)
 
-## Talks/Posters
+## Honors & Awards
+
+* 2023: The Rising Star of Women in Engineering - Asian Deans' Forum 2023
+* 2022: IEEE TMI Distinguished Reviewer Bronze Level (2020-2022)
+* 2022: SJTU 2021 Outstanding Doctoral Graduate Development Scholarship
+* 2019: Best Poster Award in the 2019 International Conference on Data Science
+
+## Invited Talks
 
 * **18/07/2023** &nbsp; Invited talk "Towards Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference", in Multi-scale & Multi-modality Digital Health Collaboration Workshop, supported by the Alan Turing Institute.
 * **10/06/2023** &nbsp; Invited talk "Artificial Intelligence in Cardiac Image Computing and Modeling", which is hosted by [Prof. Yi Dai](https://ai.nankai.edu.cn/info/1033/4187.htm) at Nankai University. [Talk info](https://ai.nankai.edu.cn/info/1021/5341.htm)
 * **15/02/2023** &nbsp; Invited talk "Artificial Intelligence in Cardiac Image Computing and Modeling", which is hosted by [Prof. Evangelos B. Mazomenos](https://www.ucl.ac.uk/surgical-robot-vision/evangelos-mazomenos) at University College London.
 * **08/12/2022** &nbsp; Invited talk "Domain Generalization and Distributed Learning for Left Atrial Segmentation from Multi-Center LGE-MRI", in Turing workshop on Human-AI Interaction in Bio-Medicine.
 * **18/09/2022** &nbsp; Oral presenter in [STACOM 2022](https://stacom.github.io/stacom2022/) for the paper "Deep Computational Model for the Inference of Ventricular Activation Properties". [Video](https://drive.google.com/file/d/1UyWxRotsB8VvfYdJpYLawEJ3gye3h1F3/view?usp=sharing)
-* **17/06/2022** &nbsp; Invited posters at [SmartHeart Conference 2022](https://wp.doc.ic.ac.uk/smartheart/smartheart-conference-2022/).
 * **12/04/2022** &nbsp; Invited talk "Left Atrial LGE MRI Computing for Atrial Fibrillation" at MICS (in Chinese).  [PPT](https://drive.google.com/file/d/15HKocmko3Ol4V0t3yuljhUvtMmLy_R6s/view?usp=sharing); [Video](https://www.bilibili.com/video/BV1PB4y1U7LF?spm_id_from=333.999.0.0)
 * **27/09/2021** &nbsp; Oral presenter in [M&Ms-2](https://www.ub.edu/mnms-2/) for the paper "Right Ventricular Segmentation from Short- and Long-Axis MRIs via Information Transition". [Video](https://drive.google.com/file/d/1urbB4YsjTbyUFOmDDCSevKk-W2XEoEtl/view)
 
 ## Teaching Experience
 
-* **Undergraduate Course**
+* **Undergraduate Courses**
   * *Biomedical Image Analysis*
     * Demonstrator: ~3 hours per week; Weeks 6-8 of Trinity Term 2023; University of Oxford
     * Demonstrator: ~3 hours per week; Weeks 6-8 of Trinity Term 2022; University of Oxford
   * *Information Engineering Systems*
     * Demonstrator: ~12 hours per week including providing undergraduate with guidance, feedback, and marking; Weeks 7-8 of Hilary Term 2023; University of Oxford
-* **Postgraduate Course**
+* **Postgraduate Courses**
   * *Medical Imaging, Microscopy and Analysis*
     * Demonstrator: ~5 hours per week; Weeks 5-6 of Hilary Term 2023; University of Oxford
     * Demonstrator: ~5 hours per week; Weeks 5-6 of Hilary Term 2022; University of Oxford
 
-## Selected Work
+## Selected Works
