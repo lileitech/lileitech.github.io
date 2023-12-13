@@ -8,9 +8,9 @@ layout: index
 
 Lei Li is a Postdoctoral Research Assistant at the Institute of Biomedical Engineering, [University of Oxford](https://eng.ox.ac.uk/biomedical-image-analysis/). She received her PhD degree from the School of Biomedical Engineering, [Shanghai Jiao Tong University](http://en.bme.sjtu.edu.cn/) in 2021 and obtained the *SJTU 2021 Outstanding Doctoral Graduate Development Scholarship*. During her PhD, she was a visiting PhD student at [Fudan University](https://zmiclab.github.io/) and [King’s College London](https://www.kcl.ac.uk/bmeis/our-departments/biomedical-engineering), respectively. She received her bachelor’s degree in Department of Medical Information Engineering, [Sichuan University](https://eie.scu.edu.cn/ceeiten/index.htm), in 2016.
 
-Her research interest is AI based medical data analysis for healthcare. Specifically, she is focusing on developing novel AI based computational algorithms for cardiac image computing, multi-modal fusion, and cardiac digital twins. She has already published more than 30 papers in peer-reviewed journals and interregnal conferences, including MedIA, IEEE TMI, MICCAI and FIMH. Some of these works have been selected as the most popular cited paper in MedIA and TMI. She is a Board Member of Women in MICCAI (WiM) and Editorial Board Member of the Journal of Medical Artificial Intelligence. She has been selected the *Rising Star of Women in Engineering* by Asian Deans' Forum 2023. She has been co-organizer of four MICCAI challenge events, including LAScarQS 2022, MyoPS 2020, MS-CMRSeg 2019, and MM-WHS 2017. She is a reviewer for many journals and conferences, including MedIA, IEEE TPAMI, IEEE TMI, IEEE TBME, Neurocomputing, Information Fusion, Neural Networks, ISBI, IPMI, MIDL, and MICCAI, and obtained IEEE TMI Distinguished Reviewer (2020-2022).
+Her research interest is AI based medical data analysis for healthcare. Specifically, she is focusing on developing novel AI based computational algorithms for cardiac image computing, multi-modal fusion, and cardiac digital twins. She has already published more than 40 papers in peer-reviewed journals and international conferences, including MedIA, IEEE TMI, MICCAI and FIMH. Some of these works have been selected as the most popular cited paper in MedIA and TMI. She is a Board Member of Women in MICCAI (WiM) and Editorial Board Member of the Journal of Medical Artificial Intelligence. She has been selected the *Rising Star of Women in Engineering* by Asian Deans' Forum 2023. She has co-organized four MICCAI challenge events, including LAScarQS 2022, MyoPS 2020, MS-CMRSeg 2019, and MM-WHS 2017. She is a reviewer for many journals and conferences, including MedIA, IEEE TPAMI, IEEE TMI, IEEE TBME, Neurocomputing, Information Fusion, Neural Networks, ISBI, IPMI, MIDL, and MICCAI, etc.
 
-<span style="color: #d8af45">I am on the academic job market for faculty positions in AI for healthcare! Please feel free to reach out if you have potential job opportunities.</span> [CV](https://drive.google.com/file/d/1NQPG50kAv7O-ysHGrPT26lvVDwjLLvba/view?usp=share_link)
+<!-- <span style="color: #d8af45">I am on the academic job market for faculty positions in AI for healthcare! Please feel free to reach out if you have potential job opportunities.</span> [CV](https://drive.google.com/file/d/1NQPG50kAv7O-ysHGrPT26lvVDwjLLvba/view?usp=share_link) -->
 
 ## Research/Education Experience
 
@@ -36,8 +36,8 @@ Her research interest is AI based medical data analysis for healthcare. Specific
 
 ## Academic Services
 <!-- * Co-Chair: [11th Workshop on Statistical Atlases and Computational Modelling of the Heart, Lima, Peru](https://stacom2020.cardiacatlas.org/)  -->
-* Editorial Board Member: [Journal of Medical Artificial Intelligence](https://jmai.amegroups.com/)
 * Board Member: [Women in MICCAI (WiM)](http://www.miccai.org/about-miccai/women-in-miccai/)
+* Editorial Board Member: [Journal of Medical Artificial Intelligence](https://jmai.amegroups.com/)
 * Organizer:
   * [LAScarQS 2022 Challenge: Left Atrial and Scar Quantification & Segmentation](https://zmiclab.github.io/projects/lascarqs22/)
   * [MyoPS 2020 Challenge: Myocardial Pathology Segmentation Combining Multi-sequence CMR](https://zmiclab.github.io/zxh/0/myops20/)
@@ -48,9 +48,12 @@ Her research interest is AI based medical data analysis for healthcare. Specific
   * [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
   * [IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)
   * [IEEE Transactions on Biomedical Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10)
+  * [IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=58)
   * [Neurocomputing](https://www.journals.elsevier.com/neurocomputing)
   * [Information Fusion](https://www.sciencedirect.com/journal/information-fusion)
   * [Neural Networks](https://www.sciencedirect.com/journal/neural-networks)
+  * [Computer Methods and Programs in Biomedicine](https://www.sciencedirect.com/journal/computer-methods-and-programs-in-biomedicine)
+  * [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)
   * [IPMI 2021](http://ipmi2021.org/)
   * [ISBI 2022](https://biomedicalimaging.org/2022/); [ISBI 2023](https://2023.biomedicalimaging.org/en/)
   * [MIDL 2022](https://2022.midl.io/)
@@ -60,7 +63,8 @@ Her research interest is AI based medical data analysis for healthcare. Specific
 ## Honors & Awards
 
 * 2023: The Rising Star of Women in Engineering - Asian Deans' Forum 2023
-* 2022: IEEE TMI Distinguished Reviewer Bronze Level (2020-2022)
+* 2023: IEEE TMI Distinguished Reviewer - Gold Level (2022-2023)
+* 2022: IEEE TMI Distinguished Reviewer - Bronze Level (2020-2022)
 * 2022: SJTU 2021 Outstanding Doctoral Graduate Development Scholarship
 * 2019: Best Poster Award in the 2019 International Conference on Data Science
 

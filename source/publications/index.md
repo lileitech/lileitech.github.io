@@ -9,14 +9,17 @@ date: 2021-08-07 00:40:09
 
 ### Book/Chapter
 
-* Xiahai Zhuang, **Lei Li**, Sihang Wang, Fuping Wu: Left Atrial and Scar Quantification and Segmentation, ***LNCS 13586, First Challenge, LAScarQS 2022, Held in Conjunction with MICCAI 2022, Singapore, Peru, September 18, 2022***.
-* **Lei Li\#**, Fuping Wu\#, Sihang Wang\#, Xiahai Zhuang\#: Multi-Modality Cardiac Image Analysis with Deep Learning, ***Deep Learning for Medical Image Analysis***, 2023. [Link](https://arxiv.org/abs/2111.04736) (in press)
+* Xiahai Zhuang, **Lei Li**, Sihang Wang, Fuping Wu: Left Atrial and Scar Quantification and Segmentation, ***LNCS 13586, First Challenge, LAScarQS 2022, Held in Conjunction with MICCAI 2022, Singapore, Peru, September 18, 2022***, 2023. [Link](https://link.springer.com/book/10.1007/978-3-031-31778-1)
+
+* **Lei Li\#**, Fuping Wu\#, Sihang Wang\#, Xiahai Zhuang\#: Multi-Modality Cardiac Image Analysis with Deep Learning, ***Deep Learning for Medical Image Analysis, 2nd Edition***, 2023. [Link](https://educate.elsevier.com/book/details/9780323851244)
 
 ### Journal/Conference Paper
 
 * **Lei Li\***, Julia Camps, Zhinuo (Jenny) Wang, Marcel Beetz, Abhirup Banerjee, Blanca Rodriguez, Vicente Grau: Towards Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference, ***IEEE Transactions on Medical Imaging***, 2023. [Link](https://arxiv.org/abs/2307.04421) (under review)
 
-* **Lei Li\***, Wangbin Ding, Liqin Huang, Xiahai Zhuang\#, Vicente Grau\#: Multi-Modality Cardiac Image Computing: A Survey, ***Medical Image Analysis***, 102869, 2023. [Link](https://doi.org/10.1016/j.media.2023.102869)
+* Chen Chen\*, **Lei Li**, Marcel Beetz, Abhirup Banerjee, Vicente Grau: Large Language Model-informed ECG Dual Attention Network for Heart Failure Risk Prediction, ***IEEE Transactions on Big Data***, 2023. (under review)
+
+* **Lei Li\***, Wangbin Ding, Liqin Huang, Xiahai Zhuang\#, Vicente Grau\#: Multi-Modality Cardiac Image Computing: A Survey, ***Medical Image Analysis***, vol. 88, 102869, 2023. [Link](https://doi.org/10.1016/j.media.2023.102869)
 
 * **Lei Li\#**, Fuping Wu\#, Sihang Wang\#, et al.,: MyoPS: A Benchmark of Myocardial Pathology Segmentation Combining Three-Sequence Cardiac Magnetic Resonance Images, ***Medical Image Analysis***, vol. 87, 102808, 2023. [Link](https://doi.org/10.1016/j.media.2023.102808)
 
@@ -24,19 +27,21 @@ date: 2021-08-07 00:40:09
 
 * Junyi Qiu, **Lei Li**, Sihan Wang, Ke Zhang, Yinyin Chen, Shan Yang, Xiahai Zhuang\*: MyoPS-Net: Myocardial Pathology Segmentation with Flexible Combination of Multi-Sequence CMR Images, ***Medical Image Analysis***, vol. 84, 102694, 2023. [Link](https://doi.org/10.1016/j.media.2022.102694)  
 
-* Wangbin Ding, **Lei Li**, Junyi Qiu, Sihan Wang, Liqin Huang, Yinyin Chen, Shan Yang, Xiahai Zhuang\*: Aligning Multi-Sequence CMR Towards Fully Automated Myocardial Pathology Segmentation, ***IEEE Transactions on Medical Imaging***, 2023. [Link](10.1109/TMI.2023.3288046)
+* Wangbin Ding, **Lei Li**, Junyi Qiu, Sihan Wang, Liqin Huang, Yinyin Chen, Shan Yang, Xiahai Zhuang\*: Aligning Multi-Sequence CMR Towards Fully Automated Myocardial Pathology Segmentation, ***IEEE Transactions on Medical Imaging***,  42(12), 3474-3486, 2023. [Link](10.1109/TMI.2023.3288046)
 
-* Kaiwen Wan, **Lei Li**, Dengqiang Jia, Shangqi Gao, Wei Qian, Yingzhi Wu, Huandong Lin, Xiongzheng Mu, Xin Gao, Sijia Wang, Fuping Wu, Xiahai Zhuang\*: Multi-Target Landmark Detection with Incomplete Images via Reinforcement Learning and Shape Prior, ***Medical Image Analysis***, 102875, 2023. [Link](https://doi.org/10.1016/j.media.2023.102875)  
+* Kaiwen Wan, **Lei Li**, Dengqiang Jia, Shangqi Gao, Wei Qian, Yingzhi Wu, Huandong Lin, Xiongzheng Mu, Xin Gao, Sijia Wang, Fuping Wu, Xiahai Zhuang\*: Multi-Target Landmark Detection with Incomplete Images via Reinforcement Learning and Shape Prior, ***Medical Image Analysis***, vol. 89, 102875, 2023. [Link](https://doi.org/10.1016/j.media.2023.102875)  
 
-* Gongping Chen, **Lei Li**, JianXun Zhang, Yu Dai\*: Rethinking the unpretentious U-net for medical ultrasound image segmentation, ***Pattern Recognition***, 109728, 2023. [Link](https://doi.org/10.1016/j.patcog.2023.109728)
+* Gongping Chen, **Lei Li**, JianXun Zhang, Yu Dai\*: Rethinking the unpretentious U-net for medical ultrasound image segmentation, ***Pattern Recognition***, vol. 142, 109728, 2023. [Link](https://doi.org/10.1016/j.patcog.2023.109728)
 
 * Gongping Chen, **Lei Li**, Yu Dai, Jianxun Zhang, Moi Hoon Yap\*: AAU-net: An Adaptive Attention U-net for Breast Lesions Segmentation in Ultrasound Images, ***IEEE Transactions on Medical Imaging***, 42(5), 1289-1300, 2023. [Link](10.1109/TMI.2022.3226268)
 
 * Sihan Wang, Fuping Wu, **Lei Li**, Zeyao Gao, Byung-Woo Hong, Xiahai Zhuang\*: Unsupervised Cardiac Segmentation Utilizing Synthesized Images from Anatomical Labels, ***STACOM***, 2023. [Link](https://link.springer.com/chapter/10.1007/978-3-031-23443-9_32)
 
-* Marcel Beetz\#, Yilong Yang\#, Abhirup Banerjee, **Lei Li**, Vicente Grau: 3D Shape-based Myocardial Infarction Prediction using Point Cloud Classification Networks, ***45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society***, 2023.
+* Marcel Beetz\#, Yilong Yang\#, Abhirup Banerjee, **Lei Li**, Vicente Grau: 3D Shape-based Myocardial Infarction Prediction using Point Cloud Classification Networks, ***45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society***, 2023. [Link](https://ora.ox.ac.uk/objects/uuid:3d74cf55-6626-4af7-a261-45927118be4a)
 
-* Carlos Martín-Isla, ... , **Lei Li**, et al.: Deep Learning Segmentation of the Right Ventricle in Cardiac MRI: The M&Ms Challenge, ***IEEE Journal of Biomedical and Health Informatics***, 2023.
+* Carlos Martín-Isla, ... , **Lei Li**, et al.: Deep Learning Segmentation of the Right Ventricle in Cardiac MRI: The M&Ms Challenge, ***IEEE Journal of Biomedical and Health Informatics***, 27(7), 3302-3313, 2023. [Link](10.1109/JBHI.2023.3267857)
+
+* Yuhao Huang\#, Xin Yang\#, Lian Liu, Han Zhou, Ao Chang, Xinrui Zhou, Rusi Chen, Junxuan Yu, Jiongquan Chen, Chaoyu Chen, Sijing Liu, Haozhe Chi, Xindi Hu, Kejuan Yue, **Lei Li**, Vicente Grau, Deng-Ping Fan, Fajin Dong\*, Dong Ni\*: Segment Anything Model for Medical Images, ***Medical Image Analysis***, 103061, 2023. [Link](https://doi.org/10.1016/j.media.2023.103061)
   
 ## 2022
 
