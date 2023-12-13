@@ -1,0 +1,68 @@
+@font-face {
+  font-family: quicksand;
+  src: url("./font/quicksand.ttf");
+}
+@font-face {
+  font-family: quicksand-light;
+  src: url("./font/quicksand-light.ttf");
+}
+@font-face {
+  font-family: DMSerif;
+  src: url("./font/DMSerifDisplay-Regular.ttf");
+}
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+a {
+  color: $link-color;
+}
+a:hover {
+  color: $link-hover-color;
+}
+blockquote {
+  border-left: 4px solid #ddd;
+  margin: 0;
+  padding-left: 1em;
+  color: $black-lighter;
+}
+iframe,
+img,
+video {
+  max-width: 100%;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  font-size: 0.875rem;
+  width: 100%;
+  margin: 0 0 20px;
+}
+caption,
+td,
+th {
+  padding: 8px;
+  vertical-align: middle;
+  border: 1px solid #ddd;
+}
+caption {
+  border: none;
+}
+th {
+  border-bottom-width: 3px;
+}
+tbody tr:nth-of-type(odd) {
+  background: #fafafa;
+}
+figure figcaption {
+  text-align: center;
+  font-size: 0.8125em;
+  color: $blak-lighter;
+}
+p img,
+figure img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
