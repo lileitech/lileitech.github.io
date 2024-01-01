@@ -16,11 +16,11 @@ author:
   name: Lei Li
   face: /images/author-face.jpg
   # motto: God does not play dice with the universe
-  field: Biomedical Image Analysis
-  institution: Department of Engineering Science, University of Oxford
+  field: Cardiac Digital Twins
+  institution: School of Electronics & Computer Science, University of Southampton
   email: lilei.sky@outlook.com
   googleScholar: https://scholar.google.com/citations?hl=en&user=--CYiuwAAAAJ
-  institutionLink: https://eng.ox.ac.uk/
+  institutionLink: https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-electronics-and-computer-science
 
 selected_work:
   enable: true
@@ -83,6 +83,8 @@ links:
     url: https://zmiclab.github.io/index.html
   - title: Oxford BioMedIA
     url: https://eng.ox.ac.uk/biomedical-image-analysis/
+  - title: Southampton DHBE group
+    url: https://www.southampton.ac.uk/research/groups/digital-health-biomedical-engineering
 
 sponsers: # or other, whatever
   - url: /images/sp-CSC.jpg
