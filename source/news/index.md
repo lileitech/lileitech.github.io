@@ -3,9 +3,14 @@ title: News
 date: 2021-08-07 00:40:09
 ---
 
+## 2024
+
+* **[01 Jan, 2024]** I’m starting a new position as Lecturer (Assistant Professor) at University of Southampton! I am sincerely grateful for the invaluable support and guidance I've received throughout this journey, particularly from my three super nice supervisors (and mentors): Prof. Xiahai Zhuang, Prof. Julia A. Schnabel, and Prof. Vicente Grau.
+
 ## 2023
 
-* **[20 Nov, 2023]** I've been nominated for the Rising Stars in Women Engineering at the [Asian Deans' Forum 2023 Rising Star Women in Engineering Workshop](https://risingstarsasia.org/index.php) hosted at the University of Tokyo, Japan.
+* **[06 Dec, 2023]** Our paper "Segment anything model for medical images?" has been accepted by MedIA! Thanks so much to the editor and the reviewers! Congratulations to Yuhao Huang and Xin Yang.
+* **[20 Nov, 2023]** I've been nominated as the Rising Stars in Women Engineering at the [Asian Deans' Forum 2023 Rising Star Women in Engineering Workshop](https://risingstarsasia.org/index.php) hosted at the University of Tokyo, Japan.
 * **[18 July, 2023]** I was invited by [Dr. Caroline H Roney](https://www.sems.qmul.ac.uk/staff/c.roney) to give a five-minute pitch at Multi-scale & Multi-modality Digital Health Collaboration Workshops, which was funded by The Alan Turing Institute.
 * **[14 June, 2023]** Our paper "Aligning Multi-Sequence CMR Towards Fully Automated Myocardial Pathology Segmentation" has been accepted by IEEE TMI! Thanks so much to the editor and the reviewers! Congratulations to Wangbin Ding.
 * **[14 June, 2023]** Our paper "Multi-Target Landmark Detection with Incomplete Images via Reinforcement Learning and Shape Prior" has been accepted by MedIA! Thanks so much to the editor and the reviewers! Congratulations to Kaiwen Wan.
