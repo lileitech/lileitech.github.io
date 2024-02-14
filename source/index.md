@@ -6,15 +6,15 @@ layout: index
 ---
 ## Biography
 
-Lei Li is a Lecturer (Assistant Professor) at the School of Electronics & Computer Science, [University of Southampton](https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-electronics-and-computer-science). She received her PhD degree from the School of Biomedical Engineering, [Shanghai Jiao Tong University](http://en.bme.sjtu.edu.cn/) in 2021 and obtained the *SJTU 2021 Outstanding Doctoral Graduate Development Scholarship*. During her PhD, she was a visiting PhD student at [Fudan University](https://zmiclab.github.io/) and [King’s College London](https://www.kcl.ac.uk/bmeis/our-departments/biomedical-engineering), respectively. She received her bachelor’s degree in Department of Medical Information Engineering, [Sichuan University](https://eie.scu.edu.cn/ceeiten/index.htm), in 2016.
+Lei Li is a Lecturer (*equals to* Assistant Professor) at the School of Electronics & Computer Science, [University of Southampton](https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-electronics-and-computer-science). She received her PhD degree from the School of Biomedical Engineering, [Shanghai Jiao Tong University](http://en.bme.sjtu.edu.cn/) in 2021 and obtained the *SJTU 2021 Outstanding Doctoral Graduate Development Scholarship*. During her PhD, she was a visiting PhD student at [Fudan University](https://zmiclab.github.io/) and [King’s College London](https://www.kcl.ac.uk/bmeis/our-departments/biomedical-engineering), respectively. She received her bachelor’s degree in Department of Medical Information Engineering, [Sichuan University](https://eie.scu.edu.cn/ceeiten/index.htm), in 2016.
 
-Her research interest is AI based medical data analysis for healthcare. Specifically, she is focusing on developing novel AI based computational algorithms for cardiac image computing, multi-modal fusion, and cardiac digital twins. She has already published more than 40 papers in peer-reviewed journals and international conferences, including MedIA, IEEE TMI, MICCAI and FIMH. Some of these works have been selected as the most popular cited paper in MedIA and TMI. She is a Board Member of Women in MICCAI (WiM) and Editorial Board Member of the Journal of Medical Artificial Intelligence. She has been selected as the *Rising Star of Women in Engineering* by Asian Deans' Forum 2023. She has co-organized four MICCAI challenge events, including LAScarQS 2022, MyoPS 2020, MS-CMRSeg 2019, and MM-WHS 2017. She is a reviewer for many journals and conferences, including MedIA, IEEE TPAMI, IEEE TMI, IEEE TBME, Neurocomputing, Information Fusion, Neural Networks, ISBI, IPMI, MIDL, and MICCAI, etc.
+Her research interest is AI for healthcare, specifically focusing on medical image analysis, multi-modal AI, and cardiac digital twins. She has already published more than 40 papers in peer-reviewed journals and international conferences, including MedIA, IEEE TMI, MICCAI and FIMH. Some of these works have been selected as the most popular cited paper in MedIA and TMI. She is a Board Member of Women in MICCAI (WiM) and Editorial Board Member of the Journal of Medical Artificial Intelligence. She has been selected as the *Rising Star of Women in Engineering* by Asian Deans' Forum 2023. She has co-organized four MICCAI challenge events, including LAScarQS 2022, MyoPS 2020, MS-CMRSeg 2019, and MM-WHS 2017. She serves as a reviewer for many journals and conferences, including MedIA, IEEE TPAMI, IEEE TMI, IEEE TBME, Neurocomputing, Information Fusion, Neural Networks, ISBI, IPMI, MIDL, and MICCAI, etc.
 
-<!-- <span style="color: #d8af45">I am on the academic job market for faculty positions in AI for healthcare! Please feel free to reach out if you have potential job opportunities.</span> [CV](https://drive.google.com/file/d/1NQPG50kAv7O-ysHGrPT26lvVDwjLLvba/view?usp=share_link) -->
+<span style="color: #d8af45">I am on looking for self-motivated PhD students who are interested in AI for heathcare, especially AI powered personalized virtual heart modelling. If you are interested in working on this topic together with me, please send me a email. </span>
 
 ## Research/Education Experience
 
-* **01/2024-now** &nbsp; Lecturer (Assistant Professor), School of Electronics & Computer Science, University of Southampton, Southampton, UK
+* **01/2024-now** &nbsp; Lecturer, School of Electronics & Computer Science, University of Southampton, Southampton, UK
 * **01/2024-now** &nbsp; Visiting Researcher, Institute of Biomedical Engineering, University of Oxford, Oxford, UK
 * **08/2021-12/2023** &nbsp; Postdoctoral Research Assistant, Institute of Biomedical Engineering, University of Oxford, Oxford, UK (Supervisor: [Professor Vicente Grau](https://eng.ox.ac.uk/people/vicente-grau-colomer/))
 * **09/2016-06/2021** &nbsp; PhD, School of Biomedical Engineering, Shanghai Jiao Tong University, Shanghai, China (Supervisor:[Professor Xiahai Zhuang](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/))
@@ -22,24 +22,11 @@ Her research interest is AI based medical data analysis for healthcare. Specific
 * **12/2017-12/2019** &nbsp; Visiting PhD, School of Data Science, Fudan University, Shanghai, China (Supervisor: [Professor Xiahai Zhuang](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/))
 * **09/2012-06/2016** &nbsp; Bachelor, Dept. Medical Information Engineering, Sichuan University, Chengdu, China (Related Academics: [Gang Yang](https://bme.scu.edu.cn/info/1090/1460.htm#))
 
-<!--
-## Selected Publications
-
-* **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang*: Medical Image Analysis on Left Atrial LGE MRI for Atrial Fibrillation Studies: A Review, ***Medical Image Analysis***, vol. 77, 102360, 2022. [Link](https://doi.org/10.1016/j.media.2022.102360)
-* **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang\*: AtrialJSQnet: A New Framework for Joint Segmentation and Quantification of Left Atrium and Scars Incorporating Spatial and Shape Information, ***Medical Image Analysis***, vol. 76, 102303, 2022. [Link](https://doi.org/10.1016/j.media.2021.102303), [Code](https://github.com/lileitech/AtrialJSQnet)
-  
-* **Lei Li**, Fuping Wu, Guang Yang, Lingchao Xu, Tom Wong, Raad Mohiaddin, David Firmin, Jenny Keegan, Xiahai Zhuang\*: Atrial Scar Quantification via Multi-Scale CNN in the Graph-Cuts Framework. ***Medical Image Analysis***, vol. 60, 101595, 2020. [Link](https://doi.org/10.1016/j.media.2019.101595), [Code](https://github.com/lileitech/LearnGC)
-
-* **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang*: AtrialGeneral: Domain Generalization for Left Atrial Segmentation of Multi-Center LGE MRIs, ***MICCAI***, 557–566, 2021. [Link](https://link.springer.com/chapter/10.1007%2F978-3-030-87231-1_54), [Video](https://drive.google.com/file/d/141FI3F4EHMihq4O3R-jTUCEkUXBE91H3/view?usp=sharing)
-  
-* **Lei Li**, Xin Weng, Julia A Schnabel, Xiahai Zhuang\*: Joint Left Atrial Segmentation and Scar Quantification based on a DNN with Spatial Encoding and Shape Attention, ***MICCAI***, 118-127, 2020. [Link](https://link.springer.com/chapter/10.1007/978-3-030-59719-1_12), [Video](https://www.bilibili.com/video/BV1rA41177eV), [Code](https://github.com/lileitech/AtrialJSQnet)
-
--->
-
 ## Academic Services
-<!-- * Co-Chair: [11th Workshop on Statistical Atlases and Computational Modelling of the Heart, Lima, Peru](https://stacom2020.cardiacatlas.org/)  -->
+
 * Board Member: [Women in MICCAI (WiM)](http://www.miccai.org/about-miccai/women-in-miccai/)
 * Editorial Board Member: [Journal of Medical Artificial Intelligence](https://jmai.amegroups.com/)
+* Guest Editor: [Journal of Imaging](https://www.mdpi.com/journal/jimaging)
 * Organizer:
   * [LAScarQS 2022 Challenge: Left Atrial and Scar Quantification & Segmentation](https://zmiclab.github.io/projects/lascarqs22/)
   * [MyoPS 2020 Challenge: Myocardial Pathology Segmentation Combining Multi-sequence CMR](https://zmiclab.github.io/zxh/0/myops20/)
@@ -72,6 +59,9 @@ Her research interest is AI based medical data analysis for healthcare. Specific
 
 ## Invited Talks
 
+<!-- * **03/06/2024** &nbsp; Invited talk "Unlocking Myocardial Infarction Insights with AI-Powered Cardiac Digital Twins", in [Isaac Newton Institute Workshop - Fickle Heart: The intersection of UQ, AI and Digital Twins](https://www.newton.ac.uk/event/fhtw02/) at Cambridge, UK.
+* * **16/05/2024** &nbsp; Invited talk "Unlocking Myocardial Infarction Insights with AI-Powered Cardiac Digital Twins", in [Heart Rhythm 2024](https://heartrhythm.com/attend/heart-rhythm-2024) at Baston, USA. -->
+* **29/01/2024** &nbsp; Invited talk "Artificial Intelligence in Cardiac Image Computing and Modeling" at Department of Biomedical Engineering, National University of Singapore (NUS).
 * **18/07/2023** &nbsp; Invited talk "Towards Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference", in Multi-scale & Multi-modality Digital Health Collaboration Workshop, supported by the Alan Turing Institute.
 * **10/06/2023** &nbsp; Invited talk "Artificial Intelligence in Cardiac Image Computing and Modeling", which is hosted by [Prof. Yi Dai](https://ai.nankai.edu.cn/info/1033/4187.htm) at Nankai University. [Talk info](https://ai.nankai.edu.cn/info/1021/5341.htm)
 * **15/02/2023** &nbsp; Invited talk "Artificial Intelligence in Cardiac Image Computing and Modeling", which is hosted by [Prof. Evangelos B. Mazomenos](https://www.ucl.ac.uk/surgical-robot-vision/evangelos-mazomenos) at University College London.
@@ -94,3 +84,11 @@ Her research interest is AI based medical data analysis for healthcare. Specific
     * Demonstrator: ~5 hours per week; Weeks 5-6 of Hilary Term 2022; University of Oxford
 
 ## Selected Works
+
+<!-- ## Selected Publications
+
+* **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang*: Medical Image Analysis on Left Atrial LGE MRI for Atrial Fibrillation Studies: A Review, ***Medical Image Analysis***, vol. 77, 102360, 2022. [Link](https://doi.org/10.1016/j.media.2022.102360)
+
+* **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang\*: AtrialJSQnet: A New Framework for Joint Segmentation and Quantification of Left Atrium and Scars Incorporating Spatial and Shape Information, ***Medical Image Analysis***, vol. 76, 102303, 2022. [Link](https://doi.org/10.1016/j.media.2021.102303), [Code](https://github.com/lileitech/AtrialJSQnet)
+  
+* **Lei Li**, Fuping Wu, Guang Yang, Lingchao Xu, Tom Wong, Raad Mohiaddin, David Firmin, Jenny Keegan, Xiahai Zhuang\*: Atrial Scar Quantification via Multi-Scale CNN in the Graph-Cuts Framework. ***Medical Image Analysis***, vol. 60, 101595, 2020. [Link](https://doi.org/10.1016/j.media.2019.101595), [Code](https://github.com/lileitech/LearnGC) -->
