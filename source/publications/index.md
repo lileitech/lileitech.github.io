@@ -13,7 +13,7 @@ date: 2021-08-07 00:40:09
 
 ### Journal/Conference Paper
 
-* **Lei Li\***, Julia Camps, Zhinuo (Jenny) Wang, Marcel Beetz, Abhirup Banerjee, Blanca Rodriguez, Vicente Grau: Towards Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference, ***IEEE Transactions on Medical Imaging***, 2024. [Link](https://arxiv.org/abs/2307.04421) (in press)
+* **Lei Li\***, Julia Camps, Zhinuo (Jenny) Wang, Marcel Beetz, Abhirup Banerjee, Blanca Rodriguez, Vicente Grau: Towards Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference, ***IEEE Transactions on Medical Imaging***, 2024. [Link](https://ieeexplore.ieee.org/document/10440104), [Code](https://github.com/lileitech/MI_inverse_inference)
   
 * Yuhao Huang\#, Xin Yang\#, Lian Liu, Han Zhou, Ao Chang, Xinrui Zhou, Rusi Chen, Junxuan Yu, Jiongquan Chen, Chaoyu Chen, Sijing Liu, Haozhe Chi, Xindi Hu, Kejuan Yue, **Lei Li**, Vicente Grau, Deng-Ping Fan, Fajin Dong\*, Dong Ni\*: Segment Anything Model for Medical Images, ***Medical Image Analysis***, vol 92, 103061, 2024. [Link](https://doi.org/10.1016/j.media.2023.103061)
 
