@@ -5,6 +5,7 @@ date: 2021-08-07 00:40:09
 
 ## 2024
 
+* **[26 Feb, 2024]** I was invited to be interviewed as a Woman in Science by Ralph at [RSIP Vision](https://www.rsipvision.com/ComputerVisionNews-2024March/26/). Such an honor to be featured alongside inspiring role models!
 * **[14 Feb, 2024]** I have been invited to be the Area Chair in MICCAI 2024! Look forward to contribute MICCAI Society.
 * **[14 Feb, 2024]** Our paper "Towards Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference" has been accepted by IEEE TMI! Thanks so much to the editor and the reviewers!
 * **[15 Jan, 2024]** I was invited as a Guest Editor of the Special Issue “Biomedical Image Analysis: Progress and Challenges” for Journal of Imaging (J. Imaging).

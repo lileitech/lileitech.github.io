@@ -52,6 +52,7 @@ Her research interest is AI for healthcare, specifically focusing on medical ima
 
 ## Honors & Awards
 
+* 2024: Featured Woman in Science at [RSIP Vision](https://www.rsipvision.com/ComputerVisionNews-2024March/26/)
 * 2023: The Rising Star of Women in Engineering - Asian Deans' Forum 2023
 * 2023: IEEE TMI Distinguished Reviewer - Gold Level (2022-2023)
 * 2022: IEEE TMI Distinguished Reviewer - Bronze Level (2020-2022)
