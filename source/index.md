@@ -12,6 +12,8 @@ Her research interest is AI for healthcare, specifically focusing on medical ima
 
 <span style="color: #d8af45">I am on looking for self-motivated PhD students who are interested in AI for heathcare, especially AI powered personalized virtual heart modelling ([application link](https://www.jobs.ac.uk/job/DGA873/phd-studentship-ai-powered-personalized-virtual-heart-modelling)).  </span>
 
+<span style="color: #d8af45">Call for paper for the special issue of Journal of Imaging on the topic "Progress and Challenges in Biomedical Image Analysis" ([link](https://www.mdpi.com/journal/jimaging/special_issues/2112PXP61G)).  </span>
+
 ## Research/Education Experience
 
 * **01/2024-now** &nbsp; Lecturer, School of Electronics & Computer Science, University of Southampton, Southampton, UK
@@ -27,8 +29,9 @@ Her research interest is AI for healthcare, specifically focusing on medical ima
 * Area Chair: [MICCAI 2024](https://conferences.miccai.org/2024/en/)
 * Board Member: [Women in MICCAI (WiM)](http://www.miccai.org/about-miccai/women-in-miccai/)
 * Editorial Board Member: [Journal of Medical Artificial Intelligence](https://jmai.amegroups.com/)
-* Guest Editor: [Journal of Imaging](https://www.mdpi.com/journal/jimaging)
+* Guest Editor: Special Issue of [Journal of Imaging](https://www.mdpi.com/journal/jimaging/special_issues/2112PXP61G)
 * Organizer:
+  * [CARE 2024 Challenge: Comprehensive Analysis & computing of REal-world medical images](http://zmic.org.cn/care_2024/)
   * [LAScarQS 2022 Challenge: Left Atrial and Scar Quantification & Segmentation](https://zmiclab.github.io/projects/lascarqs22/)
   * [MyoPS 2020 Challenge: Myocardial Pathology Segmentation Combining Multi-sequence CMR](https://zmiclab.github.io/zxh/0/myops20/)
   * [MS-CMRSeg 2019 Challenge: Multi-sequence Cardiac MR Segmentation](https://zmiclab.github.io/zxh/0/mscmrseg19/)
@@ -52,6 +55,7 @@ Her research interest is AI for healthcare, specifically focusing on medical ima
 
 ## Honors & Awards
 
+* 2024: 2nd Prize of Shanghai Science and Technology Award (Natural Science Award)
 * 2024: Featured Woman in Science at [RSIP Vision](https://www.rsipvision.com/ComputerVisionNews-2024March/26/)
 * 2023: The Rising Star of Women in Engineering - Asian Deans' Forum 2023
 * 2023: IEEE TMI Distinguished Reviewer - Gold Level (2022-2023)
@@ -61,18 +65,20 @@ Her research interest is AI for healthcare, specifically focusing on medical ima
 
 ## Invited Talks
 
-<!-- * **03/06/2024** &nbsp; Invited talk "Unlocking Myocardial Infarction Insights with AI-Powered Cardiac Digital Twins", in [Isaac Newton Institute Workshop - Fickle Heart: The intersection of UQ, AI and Digital Twins](https://www.newton.ac.uk/event/fhtw02/) at Cambridge, UK.
-* * **16/05/2024** &nbsp; Invited talk "Unlocking Myocardial Infarction Insights with AI-Powered Cardiac Digital Twins", in [Heart Rhythm 2024](https://heartrhythm.com/attend/heart-rhythm-2024) at Baston, USA. -->
+<!-- * **03/06/2024** &nbsp; Invited talk "Unlocking Myocardial Infarction Insights with AI-Powered Cardiac Digital Twins", in [Isaac Newton Institute Workshop - Fickle Heart: The intersection of UQ, AI and Digital Twins](https://www.newton.ac.uk/event/fhtw02/) at Cambridge, UK. -->
 
-* **23/02/2024** &nbsp; Invited talk "AI Powered Personalized Virtual Heart Modelling" at [Biomedical Research Centre (BRC) Science Forum](https://www.southamptonbrc.nihr.ac.uk/brc-forum) in University of Southampton.
-* **29/01/2024** &nbsp; Invited talk "Artificial Intelligence in Cardiac Image Computing and Modeling" at Department of Biomedical Engineering, National University of Singapore (NUS).
-* **18/07/2023** &nbsp; Invited talk "Towards Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference", in Multi-scale & Multi-modality Digital Health Collaboration Workshop, supported by the Alan Turing Institute.
-* **10/06/2023** &nbsp; Invited talk "Artificial Intelligence in Cardiac Image Computing and Modeling", which is hosted by [Prof. Yi Dai](https://ai.nankai.edu.cn/info/1033/4187.htm) at Nankai University. [Talk info](https://ai.nankai.edu.cn/info/1021/5341.htm)
-* **15/02/2023** &nbsp; Invited talk "Artificial Intelligence in Cardiac Image Computing and Modeling", which is hosted by [Prof. Evangelos B. Mazomenos](https://www.ucl.ac.uk/surgical-robot-vision/evangelos-mazomenos) at University College London.
-* **08/12/2022** &nbsp; Invited talk "Domain Generalization and Distributed Learning for Left Atrial Segmentation from Multi-Center LGE-MRI", in Turing workshop on Human-AI Interaction in Bio-Medicine.
-* **18/09/2022** &nbsp; Oral presenter in [STACOM 2022](https://stacom.github.io/stacom2022/) for the paper "Deep Computational Model for the Inference of Ventricular Activation Properties". [Video](https://drive.google.com/file/d/1UyWxRotsB8VvfYdJpYLawEJ3gye3h1F3/view?usp=sharing)
-* **12/04/2022** &nbsp; Invited talk "Left Atrial LGE MRI Computing for Atrial Fibrillation" at MICS (in Chinese).  [PPT](https://drive.google.com/file/d/15HKocmko3Ol4V0t3yuljhUvtMmLy_R6s/view?usp=sharing); [Video](https://www.bilibili.com/video/BV1PB4y1U7LF?spm_id_from=333.999.0.0)
-* **27/09/2021** &nbsp; Oral presenter in [M&Ms-2](https://www.ub.edu/mnms-2/) for the paper "Right Ventricular Segmentation from Short- and Long-Axis MRIs via Information Transition". [Video](https://drive.google.com/file/d/1urbB4YsjTbyUFOmDDCSevKk-W2XEoEtl/view)
+* **19/05/2024** &nbsp; Invited talk "Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference", in [Heart Rhythm 2024](https://heartrhythm.com/attend/heart-rhythm-2024). (Boston, USA)
+* **2024-04-23** &nbsp; AI powered cardiac digital twins: towards to personalized cardiac arrythmia treatment” at IBME.ai Healthcare Workshop. (Oxford, UK)
+* **14/03/2024** &nbsp; Invited talk "AI Powered Virtual Heart Modelling for Personalized Cardiac Arrythmia Treatment" at Applied Mathematics Seminar – AI and Machine Learning at University of Southampton. (Southampton, UK)
+* **23/02/2024** &nbsp; Invited talk "AI Powered Personalized Virtual Heart Modelling" at [Biomedical Research Centre (BRC) Science Forum](https://www.southamptonbrc.nihr.ac.uk/brc-forum) at University of Southampton. (Southampton, UK)
+* **29/01/2024** &nbsp; Invited talk "Artificial Intelligence in Cardiac Image Computing and Modeling" at Department of Biomedical Engineering, National University of Singapore. (Online)
+* **18/07/2023** &nbsp; Invited talk "Towards Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference", in Multi-scale & Multi-modality Digital Health Collaboration Workshop, supported by the Alan Turing Institute. (London, UK)
+* **10/06/2023** &nbsp; Invited talk "Artificial Intelligence in Cardiac Image Computing and Modeling", which is hosted by [Prof. Yi Dai](https://ai.nankai.edu.cn/info/1033/4187.htm) at Nankai University. [Talk info](https://ai.nankai.edu.cn/info/1021/5341.htm) (Online)
+* **15/02/2023** &nbsp; Invited talk "Artificial Intelligence in Cardiac Image Computing and Modeling", which is hosted by [Prof. Evangelos B. Mazomenos](https://www.ucl.ac.uk/surgical-robot-vision/evangelos-mazomenos) at University College London. (London, UK)
+* **08/12/2022** &nbsp; Invited talk "Domain Generalization and Distributed Learning for Left Atrial Segmentation from Multi-Center LGE-MRI", in Turing workshop on Human-AI Interaction in Bio-Medicine. (Oxford, UK)
+<!-- * **18/09/2022** &nbsp; Oral presenter in [STACOM 2022](https://stacom.github.io/stacom2022/) for the paper "Deep Computational Model for the Inference of Ventricular Activation Properties". [Video](https://drive.google.com/file/d/1UyWxRotsB8VvfYdJpYLawEJ3gye3h1F3/view?usp=sharing) -->
+* **12/04/2022** &nbsp; Invited talk "Left Atrial LGE MRI Computing for Atrial Fibrillation" at MICS (in Chinese).  [PPT](https://drive.google.com/file/d/15HKocmko3Ol4V0t3yuljhUvtMmLy_R6s/view?usp=sharing); [Video](https://www.bilibili.com/video/BV1PB4y1U7LF?spm_id_from=333.999.0.0) (Online)
+<!-- * **27/09/2021** &nbsp; Oral presenter in [M&Ms-2](https://www.ub.edu/mnms-2/) for the paper "Right Ventricular Segmentation from Short- and Long-Axis MRIs via Information Transition". [Video](https://drive.google.com/file/d/1urbB4YsjTbyUFOmDDCSevKk-W2XEoEtl/view) -->
 
 ## Teaching Experience
 
