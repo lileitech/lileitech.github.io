@@ -26,6 +26,7 @@ Her research interest is AI for healthcare, specifically focusing on medical ima
 
 ## Academic Services
 
+* Board Member: [MICCAI SIG-Cardiac](https://miccai.org/index.php/special-interest-groups/sig-cardiac/)
 * Area Chair: [MICCAI 2024](https://conferences.miccai.org/2024/en/)
 * Board Member: [Women in MICCAI (WiM)](http://www.miccai.org/about-miccai/women-in-miccai/)
 * Editorial Board Member: [Journal of Medical Artificial Intelligence](https://jmai.amegroups.com/)
@@ -65,8 +66,7 @@ Her research interest is AI for healthcare, specifically focusing on medical ima
 
 ## Invited Talks
 
-<!-- * **03/06/2024** &nbsp; Invited talk "Unlocking Myocardial Infarction Insights with AI-Powered Cardiac Digital Twins", in [Isaac Newton Institute Workshop - Fickle Heart: The intersection of UQ, AI and Digital Twins](https://www.newton.ac.uk/event/fhtw02/) at Cambridge, UK. -->
-
+* **03/06/2024** &nbsp; Invited talk "AI Powered Multi-Modal Cardiac Data Analysis: Towards to Cardiac Digital Twins for Personalized Healthcare", in [Isaac Newton Institute Workshop - Fickle Heart: The intersection of UQ, AI and Digital Twins](https://www.newton.ac.uk/event/fhtw02/). (Cambridge, UK)
 * **19/05/2024** &nbsp; Invited talk "Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference", in [Heart Rhythm 2024](https://heartrhythm.com/attend/heart-rhythm-2024). (Boston, USA)
 * **2024-04-23** &nbsp; AI powered cardiac digital twins: towards to personalized cardiac arrythmia treatment” at IBME.ai Healthcare Workshop. (Oxford, UK)
 * **14/03/2024** &nbsp; Invited talk "AI Powered Virtual Heart Modelling for Personalized Cardiac Arrythmia Treatment" at Applied Mathematics Seminar – AI and Machine Learning at University of Southampton. (Southampton, UK)
@@ -83,6 +83,10 @@ Her research interest is AI for healthcare, specifically focusing on medical ima
 ## Teaching Experience
 
 * **Undergraduate Courses**
+  * *BIOM1005 - Biomedical Engineering Mathematics*
+    * Lecturer: modules ***; University of Southampton
+  * *BIOM2005 - Further Mathematics and Algorithms*
+    * Lecturer: modules ***; University of Southampton
   * *Biomedical Image Analysis*
     * Demonstrator: ~3 hours per week; Weeks 6-8 of Trinity Term 2023; University of Oxford
     * Demonstrator: ~3 hours per week; Weeks 6-8 of Trinity Term 2022; University of Oxford

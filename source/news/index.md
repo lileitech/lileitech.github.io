@@ -5,6 +5,7 @@ date: 2021-08-07 00:40:09
 
 ## 2024
 
+* **[30 May, 2024]** Our [SIG-Cardiac](https://miccai.org/index.php/special-interest-groups/sig-cardiac/) application has been approved by MICCAI. The Special Interest Group (SIG) in Cardiac Imaging, Computational Modelling and Clinical Sciences (SIG-Cardiac) intends to bring together cardiologists, radiologists, computer scientists, and engineers to promote interdisciplinary collaboration. 
 * **[12 May, 2024]** Our [CARE](http://zmic.org.cn/care_2024/) (Comprehensive Analysis & computing of REal-world medical images) Challenge 2024 website has been established and ready for registration.
 * **[01 May, 2024]** It is great honor to be selected for the 2nd Prize of Shanghai Science and Technology Award (Natural Science Award). Thanks so much for my super nice supervisor! 
 * **[26 Feb, 2024]** I was invited to be interviewed as a Woman in Science by Ralph at [RSIP Vision](https://www.rsipvision.com/ComputerVisionNews-2024March/26/). Such an honor to be featured alongside inspiring role models!

@@ -21,6 +21,8 @@ date: 2021-08-07 00:40:09
 
 * Chen Chen\*, **Lei Li**, Marcel Beetz, Abhirup Banerjee, Vicente Grau: Large Language Model-informed ECG Dual Attention Network for Heart Failure Risk Prediction, ***IEEE Transactions on Big Data***, 2024. (under review)
 
+* Marcel Beetz\#, Abhirup Banerjee\#, **Lei Li**, Julia Camps, Blanca Rodriguez, Vicente Grau: 3D cardiac shape analysis with variational point cloud autoencoders for myocardial infarction prediction and virtual heart synthesis, ***Medical Image Analysis***, 2024. (under review)
+
 ## 2023
 
 ### Book/Chapter
