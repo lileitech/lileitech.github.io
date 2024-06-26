@@ -17,7 +17,7 @@ author:
   face: /images/author-face.jpg
   # motto: God does not play dice with the universe
   field: Lecturer
-  institution: Digital Heart Modeling Lab, University of Southampton
+  institution: Digital Heart Lab, University of Southampton
   email: lilei.sky@outlook.com
   googleScholar: https://scholar.google.com/citations?hl=en&user=--CYiuwAAAAJ
   institutionLink: https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-electronics-and-computer-science
@@ -28,7 +28,7 @@ selected_work:
     - title: "Towards Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference"
       url: https://arxiv.org/abs/2307.04421
       journal: IEEE Transactions on Medical Imaging, 2024
-      keywords: Cardiac gigital twins; Myocardial Infarction; Deep computational models; Inverse inference
+      keywords: Cardiac digital twins; Myocardial Infarction; Deep computational models; Inverse inference
       abstract: "Patient-specific cardiac computational models are essential for the efficient realization of precision medicine and in-silico clinical trials using digital twins. Cardiac digital twins can provide non-invasive characterizations of cardiac functions for individual patients, and therefore are promising for the patient-specific diagnosis and therapy stratification. However, current workflows for both the anatomical and functional twinning phases, referring to the inference of model anatomy and parameter from clinical data, are not sufficiently efficient, robust, and accurate. In this work, we propose a deep learning-based patient-specific computational model, which can fuse both anatomical and electrophysiological information for the inverse inference of infarcted area. "
       cover: /images/sw-digital_twins.png
       
