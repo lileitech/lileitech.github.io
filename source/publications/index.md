@@ -13,13 +13,13 @@ date: 2021-08-07 00:40:09
 
 ### Journal/Conference Paper
 
-* **Lei Li\***, Julia Camps, Zhinuo (Jenny) Wang, Marcel Beetz, Abhirup Banerjee, Blanca Rodriguez, Vicente Grau: Towards Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference, ***IEEE Transactions on Medical Imaging***, 2024. [Link](https://ieeexplore.ieee.org/document/10440104), [Code](https://github.com/lileitech/MI_inverse_inference)
+* **Lei Li\***, Julia Camps, Zhinuo (Jenny) Wang, Marcel Beetz, Abhirup Banerjee, Blanca Rodriguez, Vicente Grau: Towards Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference, ***IEEE Transactions on Medical Imaging***, 43 (7), 2466-2478, 2024. [Link](10.1109/TMI.2024.3367409), [Code](https://github.com/lileitech/MI_inverse_inference)
   
 * Yuhao Huang\#, Xin Yang\#, Lian Liu, Han Zhou, Ao Chang, Xinrui Zhou, Rusi Chen, Junxuan Yu, Jiongquan Chen, Chaoyu Chen, Sijing Liu, Haozhe Chi, Xindi Hu, Kejuan Yue, **Lei Li**, Vicente Grau, Deng-Ping Fan, Fajin Dong\*, Dong Ni\*: Segment Anything Model for Medical Images, ***Medical Image Analysis***, vol 92, 103061, 2024. [Link](https://doi.org/10.1016/j.media.2023.103061)
 
+* Chen Chen\*, **Lei Li**, Marcel Beetz, Abhirup Banerjee, Vicente Grau: Large Language Model-informed ECG Dual Attention Network for Heart Failure Risk Prediction, ***IEEE Transactions on Big Data***, 2024.
+  
 * Zhen Yuan\*, David Stojanovski, **Lei Li**, Alberto Gomez, Haran Jogeesvaran, Esther Puyol-Antón, Baba Inusa, Andrew P. King: DeepSPV: An Interpretable Deep Learning Pipeline for Spleen Volume Estimation from 2D Ultrasound Images, ***Medical Image Analysis***, 2024. (under review)
-
-* Chen Chen\*, **Lei Li**, Marcel Beetz, Abhirup Banerjee, Vicente Grau: Large Language Model-informed ECG Dual Attention Network for Heart Failure Risk Prediction, ***IEEE Transactions on Big Data***, 2024. (under review)
 
 * Marcel Beetz\#, Abhirup Banerjee\#, **Lei Li**, Julia Camps, Blanca Rodriguez, Vicente Grau: 3D cardiac shape analysis with variational point cloud autoencoders for myocardial infarction prediction and virtual heart synthesis, ***Medical Image Analysis***, 2024. (under review)
 

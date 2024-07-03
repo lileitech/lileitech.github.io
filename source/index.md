@@ -26,9 +26,10 @@ Her research interest is AI for healthcare, specifically focusing on medical ima
 
 ## Academic Services
 
-* Board Member: [MICCAI SIG-Cardiac](https://miccai.org/index.php/special-interest-groups/sig-cardiac/)
+* Board Member:
+  * [MICCAI Special Interest Group (SIG)-Cardiac](https://miccai.org/index.php/special-interest-groups/sig-cardiac/)
+  * [Women in MICCAI (WiM)](http://www.miccai.org/about-miccai/women-in-miccai/)
 * Area Chair: [MICCAI 2024](https://conferences.miccai.org/2024/en/)
-* Board Member: [Women in MICCAI (WiM)](http://www.miccai.org/about-miccai/women-in-miccai/)
 * Editorial Board Member: [Journal of Medical Artificial Intelligence](https://jmai.amegroups.com/)
 * Guest Editor: Special Issue of [Journal of Imaging](https://www.mdpi.com/journal/jimaging/special_issues/2112PXP61G)
 * Organizer:
