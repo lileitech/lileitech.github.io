@@ -6,11 +6,12 @@ layout: index
 ---
 ## Biography
 
-Lei Li is a Lecturer (*equals to* Assistant Professor) at the School of Electronics & Computer Science, [University of Southampton](https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-electronics-and-computer-science). She received her PhD degree from the School of Biomedical Engineering, [Shanghai Jiao Tong University](http://en.bme.sjtu.edu.cn/) in 2021 and obtained the *SJTU 2021 Outstanding Doctoral Graduate Development Scholarship*. During her PhD, she was a visiting PhD student at [Fudan University](https://zmiclab.github.io/) and [King’s College London](https://www.kcl.ac.uk/bmeis/our-departments/biomedical-engineering), respectively. She received her bachelor’s degree in Department of Medical Information Engineering, [Sichuan University](https://eie.scu.edu.cn/ceeiten/index.htm), in 2016.
+Lei Li is a Lecturer (*equals to* Assistant Professor) at the School of Electronics & Computer Science, [University of Southampton](https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-electronics-and-computer-science). She received her PhD degree from the School of Biomedical Engineering, [Shanghai Jiao Tong University](http://en.bme.sjtu.edu.cn/) in 2021 and obtained the *SJTU 2021 Outstanding Doctoral Graduate Development Scholarship*. During her PhD, she visited [Fudan University](https://zmiclab.github.io/) and [King’s College London](https://www.kcl.ac.uk/bmeis/our-departments/biomedical-engineering). Her research interest is AI for healthcare, specifically focusing on cardiac digital twins, medical image analysis, and multi-modal AI. She has already published more than 40 papers in peer-reviewed journals and international conferences, including MedIA, IEEE TMI, MICCAI, FIMH, etc. She is a Board Member of SIG-Cardiac and Women in MICCAI (WiM) and Area Chair of MICCAI 2024. She has been selected as the *Rising Star of Women in Engineering* by Asian Deans' Forum 2023 and Featured Women in Science by RSIP Vision.
 
-Her research interest is AI for healthcare, specifically focusing on medical image analysis, multi-modal AI, and cardiac digital twins. She has already published more than 40 papers in peer-reviewed journals and international conferences, including MedIA, IEEE TMI, MICCAI and FIMH. Some of these works have been selected as the most popular cited paper in MedIA and TMI. She is a Board Member of SIG-Cardiac and Women in MICCAI (WiM), and Area Chair of MICCAI 2024. She has been selected as the *Rising Star of Women in Engineering* by Asian Deans' Forum 2023 and Featured Women in Science by RSIP Vision. She has co-organized five MICCAI challenge events, including CARE 2024, LAScarQS 2022, MyoPS 2020, MS-CMRSeg 2019, and MM-WHS 2017. She serves as a reviewer for many journals and conferences, including MedIA, IEEE TPAMI, IEEE TMI, IEEE TBME, Neurocomputing, Information Fusion, Neural Networks, ISBI, IPMI, MIDL, and MICCAI, etc.
+<!-- She received her bachelor’s degree in Department of Medical Information Engineering, [Sichuan University](https://eie.scu.edu.cn/ceeiten/index.htm), in 2016. -->
+<!-- She has already published more than 40 papers in peer-reviewed journals and international conferences, including MedIA, IEEE TMI, MICCAI and FIMH. Some of these works have been selected as the most popular cited paper in MedIA and TMI. She is a Board Member of SIG-Cardiac and Women in MICCAI (WiM), and Area Chair of MICCAI 2024. She has been selected as the *Rising Star of Women in Engineering* by Asian Deans' Forum 2023 and Featured Women in Science by RSIP Vision. She has co-organized five MICCAI challenge events, including CARE 2024, LAScarQS 2022, MyoPS 2020, MS-CMRSeg 2019, and MM-WHS 2017. She serves as a reviewer for many journals and conferences, including MedIA, IEEE TPAMI, IEEE TMI, IEEE TBME, Neurocomputing, Information Fusion, Neural Networks, ISBI, IPMI, MIDL, and MICCAI, etc. -->
 
-<span style="color: #d8af45">I am on looking for self-motivated PhD students who are interested in AI for heathcare, especially AI powered personalized virtual heart modelling ([application link](https://www.jobs.ac.uk/job/DGA873/phd-studentship-ai-powered-personalized-virtual-heart-modelling)).  </span>
+<!-- <span style="color: #d8af45">I am on looking for self-motivated PhD students who are interested in AI for heathcare, especially AI powered personalized virtual heart modelling ([application link](https://www.jobs.ac.uk/job/DGA873/phd-studentship-ai-powered-personalized-virtual-heart-modelling)).  </span> -->
 
 <span style="color: #d8af45">Call for paper for the special issue of Journal of Imaging on the topic "Progress and Challenges in Biomedical Image Analysis" ([link](https://www.mdpi.com/journal/jimaging/special_issues/2112PXP61G)).  </span>
 
@@ -52,7 +53,7 @@ Her research interest is AI for healthcare, specifically focusing on medical ima
   * [IPMI 2021](http://ipmi2021.org/)
   * [ISBI 2022](https://biomedicalimaging.org/2022/); [ISBI 2023](https://2023.biomedicalimaging.org/en/)
   * [MIDL 2022](https://2022.midl.io/)
-  * [STACOM 2022](https://stacom.github.io/stacom2022/); [STACOM2023](https://stacom.github.io/stacom2023/)
+  * [STACOM 2022](https://stacom.github.io/stacom2022/); [STACOM2023](https://stacom.github.io/stacom2023/); [STACOM2024](https://stacom.github.io/stacom2024/)
   * [MICCAI 2022](https://conferences.miccai.org/2022/en/)
 
 ## Honors & Awards
@@ -65,7 +66,7 @@ Her research interest is AI for healthcare, specifically focusing on medical ima
 * 2022: SJTU 2021 Outstanding Doctoral Graduate Development Scholarship
 * 2019: Best Poster Award in the 2019 International Conference on Data Science
 
-## Invited Talks
+## Selected Invited Talks
 
 * **03/06/2024** &nbsp; Invited talk "AI Powered Multi-Modal Cardiac Data Analysis: Towards to Cardiac Digital Twins for Personalized Healthcare", in [Isaac Newton Institute Workshop - Fickle Heart: The intersection of UQ, AI and Digital Twins](https://www.newton.ac.uk/event/fhtw02/). (Cambridge, UK)
 * **19/05/2024** &nbsp; Invited talk "Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference", in [Heart Rhythm 2024](https://heartrhythm.com/attend/heart-rhythm-2024). (Boston, USA)
@@ -84,10 +85,10 @@ Her research interest is AI for healthcare, specifically focusing on medical ima
 ## Teaching Experience
 
 * **Undergraduate Courses**
-  * *BIOM1005 - Biomedical Engineering Mathematics*
+  <!-- * *BIOM1005 - Biomedical Engineering Mathematics*
     * Lecturer: modules ***; University of Southampton
   * *BIOM2005 - Further Mathematics and Algorithms*
-    * Lecturer: modules ***; University of Southampton
+    * Lecturer: modules ***; University of Southampton -->
   * *Biomedical Image Analysis*
     * Demonstrator: ~3 hours per week; Weeks 6-8 of Trinity Term 2023; University of Oxford
     * Demonstrator: ~3 hours per week; Weeks 6-8 of Trinity Term 2022; University of Oxford

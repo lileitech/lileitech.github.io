@@ -80,24 +80,28 @@ selected_work:
       cover: /images/sw-LearnGC.png
 
 links:
-  - title: Professor Xiahai Zhuang
-    url: http://www.sdspeople.fudan.edu.cn/zhuangxiahai/
-  - title: Professor Julia A Schnabel
-    url: https://www.kcl.ac.uk/people/julia-a-schnabel
-  - title: Professor Vicente Grau
-    url: https://eng.ox.ac.uk/people/vicente-grau-colomer/
+  - title: Digital Heart Lab
+    url: https://digitalheartlab.com/
   - title: Fudan ZMIC Lab
     url: https://zmiclab.github.io/index.html
   - title: Oxford BioMedIA
     url: https://eng.ox.ac.uk/biomedical-image-analysis/
   - title: Southampton DHBE group
     url: https://www.southampton.ac.uk/research/groups/digital-health-biomedical-engineering
+  # - title: Professor Xiahai Zhuang
+  #   url: http://www.sdspeople.fudan.edu.cn/zhuangxiahai/
+  # - title: Professor Julia A Schnabel
+  #   url: https://www.kcl.ac.uk/people/julia-a-schnabel
+  # - title: Professor Vicente Grau
+  #   url: https://eng.ox.ac.uk/people/vicente-grau-colomer/
 
 sponsers: # or other, whatever
-  - url: /images/sp-CSC.jpg
-  - url: /images/sp-SJTU.png
+  # - url: /images/sp-CSC.jpg
+  # - url: /images/sp-SJTU.png
+  # - url: /images/sp-CompBioMed.png
+  - url: /images/sp-southampton.png
   - url: /images/sp-IBME_oxford.png
-  - url: /images/sp-CompBioMed.png
+  # - url: /images/sp-SIG.png
 
 cache:
   enable: false
