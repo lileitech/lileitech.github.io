@@ -84,9 +84,11 @@ links:
     url: https://digitalheartlab.com/
   - title: Fudan ZMIC Lab
     url: https://zmiclab.github.io/index.html
-  - title: Oxford BioMedIA
+  - title: TUM CompAI Lab
+    url: https://compai-lab.github.io/
+  - title: Oxford BioMedIA 
     url: https://eng.ox.ac.uk/biomedical-image-analysis/
-  - title: Southampton DHBE group
+  - title: Southampton DHBE Group
     url: https://www.southampton.ac.uk/research/groups/digital-health-biomedical-engineering
   # - title: Professor Xiahai Zhuang
   #   url: http://www.sdspeople.fudan.edu.cn/zhuangxiahai/

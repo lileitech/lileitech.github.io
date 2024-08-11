@@ -20,7 +20,7 @@ Lei Li is a Lecturer (*equals to* Assistant Professor) at the School of Electron
 * **01/2024-now** &nbsp; Lecturer, School of Electronics & Computer Science, University of Southampton, Southampton, UK
 * **01/2024-now** &nbsp; Visiting Researcher, Institute of Biomedical Engineering, University of Oxford, Oxford, UK
 * **08/2021-12/2023** &nbsp; Postdoctoral Research Assistant, Institute of Biomedical Engineering, University of Oxford, Oxford, UK (Supervisor: [Professor Vicente Grau](https://eng.ox.ac.uk/people/vicente-grau-colomer/))
-* **09/2016-06/2021** &nbsp; PhD, School of Biomedical Engineering, Shanghai Jiao Tong University, Shanghai, China (Supervisor:[Professor Xiahai Zhuang](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/))
+* **09/2016-06/2021** &nbsp; PhD, School of Biomedical Engineering, Shanghai Jiao Tong University, Shanghai, China (Supervisor: [Professor Xiahai Zhuang](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/))
 * **01/2020-03/2021** &nbsp; Visiting PhD, School of Biomedical Engineering & Imaging Sciences, King’s College London, London, UK (Supervisor: [Professor Julia A Schnabel](https://www.kcl.ac.uk/people/julia-a-schnabel))
 * **12/2017-12/2019** &nbsp; Visiting PhD, School of Data Science, Fudan University, Shanghai, China (Supervisor: [Professor Xiahai Zhuang](http://www.sdspeople.fudan.edu.cn/zhuangxiahai/))
 * **09/2012-06/2016** &nbsp; Bachelor, Dept. Medical Information Engineering, Sichuan University, Chengdu, China (Supervisor: [Professor Gang Yang](https://bme.scu.edu.cn/info/1090/1460.htm#), [Professor Site Mo](https://ee.scu.edu.cn/info/1045/6201.htm))

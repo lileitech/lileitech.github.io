@@ -5,15 +5,17 @@ date: 2021-08-07 00:40:09
 
 ## 2024
 
-* **[6 July, 2024]** I have created my own lab, i.e., [Digital Heart Lab](https://digitalheartlab.com/). Looking forward to making impactful advancements in cardiac research and innovation.
+* **[6 July, 2024]** I have created my own lab, i.e., [Digital Heart Lab](https://digitalheartlab.com/). Looking forward to making impactful advancements in cardiac research and innovation with my (still small but growing) team!
+* **[03 June, 2024]** It was a great hornor to be invited by the [Prof Steven Niederer](https://www.imperial.ac.uk/news/245775/professor-steven-niederer-joins-nhli/) to present in [Isaac Newton Institute Workshop - Fickle Heart: The intersection of UQ, AI and Digital Twins](https://www.newton.ac.uk/event/fhtw02/) in Cambridge.
 * **[30 May, 2024]** Our [SIG-Cardiac](https://miccai.org/index.php/special-interest-groups/sig-cardiac/) application has been approved by MICCAI. The Special Interest Group (SIG) in Cardiac Imaging, Computational Modelling and Clinical Sciences (SIG-Cardiac) intends to bring together cardiologists, radiologists, computer scientists, and engineers to promote interdisciplinary collaboration.
+* **[19 May, 2024]** It was a great hornor to be invited to present in [Heart Rhythm 2024](https://heartrhythm.com/attend/heart-rhythm-2024) in Boston! Thanks a lot for sharing this great opportunity by [Prof Blanca Rodriguez](https://www.cs.ox.ac.uk/people/blanca.rodriguez/).
 * **[12 May, 2024]** Our [CARE](http://zmic.org.cn/care_2024/) (Comprehensive Analysis & computing of REal-world medical images) Challenge 2024 website has been established and ready for registration.
 * **[01 May, 2024]** It is great honor to be selected for the 2nd Prize of Shanghai Science and Technology Award (Natural Science Award). Thanks so much for my super nice supervisor!
 * **[26 Feb, 2024]** I was invited to be interviewed as a Woman in Science by Ralph at [RSIP Vision](https://www.rsipvision.com/ComputerVisionNews-2024March/26/). Such an honor to be featured alongside inspiring role models!
-* **[14 Feb, 2024]** I have been invited to be the Area Chair in MICCAI 2024! Look forward to contribute MICCAI Society.
+* **[14 Feb, 2024]** I have been invited to be the Area Chair in [MICCAI 2024](https://conferences.miccai.org/2024/en/)! Look forward to contribute MICCAI Society.
 * **[14 Feb, 2024]** Our paper "Towards Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference" has been accepted by IEEE TMI! Thanks so much to the editor and the reviewers!
-* **[15 Jan, 2024]** I was invited as a Guest Editor of the Special Issue “Biomedical Image Analysis: Progress and Challenges” for Journal of Imaging (J. Imaging).
-* **[01 Jan, 2024]** I’m starting a new position as Lecturer at University of Southampton! I am sincerely grateful for the invaluable support and guidance I've received throughout this journey, particularly from my three super nice supervisors (and mentors): Prof. Xiahai Zhuang, Prof. Julia A. Schnabel, and Prof. Vicente Grau.
+* **[15 Jan, 2024]** I was invited as a Guest Editor of the [Special Issue “Biomedical Image Analysis: Progress and Challenges”](https://www.mdpi.com/journal/jimaging/special_issues/2112PXP61G) for Journal of Imaging (J. Imaging).
+* **[01 Jan, 2024]** I’m starting a new position as Lecturer at University of Southampton! I am sincerely grateful for the invaluable support and guidance I've received throughout this journey, particularly from my three super nice supervisors (and mentors): [Prof. Xiahai Zhuang](https://zmiclab.github.io/zxh/), [Prof. Julia A. Schnabel](https://compai-lab.github.io/author/julia-a.-schnabel/), and [Prof. Vicente Grau](https://ibme.ox.ac.uk/person/vicente-grau-colomer/).
 
 ## 2023
 
@@ -24,7 +26,7 @@ date: 2021-08-07 00:40:09
 * **[14 June, 2023]** Our paper "Multi-Target Landmark Detection with Incomplete Images via Reinforcement Learning and Shape Prior" has been accepted by MedIA! Thanks so much to the editor and the reviewers! Congratulations to Kaiwen Wan.
 * **[12 June, 2023]** Our survey paper "Multi-Modality Cardiac Image Computing: A Survey" has been accepted by MedIA! Thanks so much to the editor and the reviewers!
 * **[10 June, 2023]** I was invited by Prof Yi Dai to give a talk on the topic "Artificial Intelligence in Cardiac Image Computing and Modeling" in Nankai University.
-* **[03 April, 2023]** Our paper "Influence of Myocardial Infraction on QRS Properties: A Simulation Study" has been accepted by FIMH 2023. Thanks so much for my super collaborator [Julia Camps](https://www.cs.ox.ac.uk/people/julia.camps/), who is the co-first author of this work.
+* **[03 April, 2023]** Our paper "Influence of Myocardial Infraction on QRS Properties: A Simulation Study" has been accepted by FIMH 2023. Thanks so much for my super collaborator [Dr Julia Camps](https://www.cs.ox.ac.uk/people/julia.camps/), who is the co-first author of this work.
 * **[30 March, 2023]** Our benchmark paper "MyoPS: A Benchmark of Myocardial Pathology Segmentation Combining Three-Sequence Cardiac Magnetic Resonance Images" has been accepted by MedIA. Thanks so much to the editor and the reviewers!
 
 ## 2022
@@ -40,7 +42,7 @@ date: 2021-08-07 00:40:09
 * **[01 Feb, 2022]** Our paper "Cross-Modality Multi-Atlas Segmentation via Deep Registration and Label Fusion" has been accepted by JBHI! Bravo! Congratulation to Wangbin Ding.
 * **[10 Jan, 2022]** Our paper "Medical Image Analysis on Left Atrial LGE MRI for Atrial Fibrillation Studies: A Review" has been accepted by MedIA! Thanks so much to Prof. Xiahai Zhuang and Prof. Julia A. Schnabel, the editor and the reviewers!
 * **[10 Jan, 2022]** Our paper "AWSnet: An Auto-weighted Supervision Attention Network for Myocardial Scar and Edema Segmentation in Multi-sequence Cardiac Magnetic Resonance Images" has been accepted by MedIA! Bravo! Congratulation to Kaini Wang and Prof. Xin Yang.
-* **[08 Jan, 2022]** I got the [SJTU 2021 Outstanding Doctoral Graduate Development Scholarship](https://www.gs.sjtu.edu.cn/info/1136/8764.htm)! Thanks so much to Prof. Xiahai Zhuang, Prof. Julia A. Schnabel, [Prof. Guoyan Zheng](https://imr.sjtu.edu.cn/en/po_facultyv/519.html), and Prof. Vicent Grau, who all gave me much support on this application!
+* **[08 Jan, 2022]** I got the [SJTU 2021 Outstanding Doctoral Graduate Development Scholarship](https://www.gs.sjtu.edu.cn/info/1136/8764.htm)! Thanks so much to [Prof. Xiahai Zhuang](https://zmiclab.github.io/zxh/), [Prof. Julia A Schnabel](https://www.kcl.ac.uk/people/julia-a-schnabel), [Prof. Guoyan Zheng](https://imr.sjtu.edu.cn/en/po_facultyv/519.html), and [Prof. Vicente Grau](https://eng.ox.ac.uk/people/vicente-grau-colomer/), who all gave me much support on this application!
 
 ## 2021
 
