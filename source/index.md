@@ -64,7 +64,7 @@ Lei Li is a Lecturer (*equals to* Assistant Professor) at the School of Electron
 * 2023: IEEE TMI Distinguished Reviewer - Gold Level (2022-2023)
 * 2022: IEEE TMI Distinguished Reviewer - Bronze Level (2020-2022)
 * 2022: SJTU 2021 Outstanding Doctoral Graduate Development Scholarship
-* 2019: Best Poster Award in the 2019 International Conference on Data Science
+<!-- * 2019: Best Poster Award in the 2019 International Conference on Data Science -->
 
 ## Selected Invited Talks
 

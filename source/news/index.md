@@ -5,8 +5,8 @@ date: 2021-08-07 00:40:09
 
 ## 2024
 
-* **[20 Aug, 2024]** I will move to the Department of Biomedical Engineering, National University of Singapore (NUS) in Oct 2024 🌟.
-* **[6 July, 2024]** I have created my own lab, i.e., [Digital Heart Lab](https://digitalheartlab.com/). Looking forward to making impactful advancements in cardiac research and innovation with my (still small but growing) team 🌟!
+* **[20 Aug, 2024]** 🌟 I will move to the Department of Biomedical Engineering, National University of Singapore (NUS) in Oct 2024.
+* **[6 July, 2024]** 🌟 I have created my own lab, i.e., [Digital Heart Lab](https://digitalheartlab.com/). Looking forward to making impactful advancements in cardiac research and innovation with my (still small but growing) team!
 * **[03 June, 2024]** It was a great hornor to be invited by the [Prof Steven Niederer](https://www.imperial.ac.uk/news/245775/professor-steven-niederer-joins-nhli/) to present in [Isaac Newton Institute Workshop - Fickle Heart: The intersection of UQ, AI and Digital Twins](https://www.newton.ac.uk/event/fhtw02/) in Cambridge.
 * **[30 May, 2024]** Our [SIG-Cardiac](https://miccai.org/index.php/special-interest-groups/sig-cardiac/) application has been approved by MICCAI. The Special Interest Group (SIG) in Cardiac Imaging, Computational Modelling and Clinical Sciences (SIG-Cardiac) intends to bring together cardiologists, radiologists, computer scientists, and engineers to promote interdisciplinary collaboration.
 * **[19 May, 2024]** It was a great hornor to be invited to present in [Heart Rhythm 2024](https://heartrhythm.com/attend/heart-rhythm-2024) in Boston! Thanks a lot for sharing this great opportunity by [Prof Blanca Rodriguez](https://www.cs.ox.ac.uk/people/blanca.rodriguez/).
@@ -16,7 +16,7 @@ date: 2021-08-07 00:40:09
 * **[14 Feb, 2024]** I have been invited to be the Area Chair in [MICCAI 2024](https://conferences.miccai.org/2024/en/)! Look forward to contribute MICCAI Society.
 * **[14 Feb, 2024]** Our paper "Towards Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference" has been accepted by IEEE TMI! Thanks so much to the editor and the reviewers!
 * **[15 Jan, 2024]** I was invited as a Guest Editor of the [Special Issue “Biomedical Image Analysis: Progress and Challenges”](https://www.mdpi.com/journal/jimaging/special_issues/2112PXP61G) for Journal of Imaging (J. Imaging).
-* **[01 Jan, 2024]** I’m starting a new position as Lecturer at University of Southampton! I am sincerely grateful for the invaluable support and guidance I've received throughout this journey, particularly from my three super nice supervisors (and mentors): [Prof. Xiahai Zhuang](https://zmiclab.github.io/zxh/), [Prof. Julia A. Schnabel](https://compai-lab.github.io/author/julia-a.-schnabel/), and [Prof. Vicente Grau](https://ibme.ox.ac.uk/person/vicente-grau-colomer/) 🌟.
+* **[01 Jan, 2024]** 🌟 I’m starting a new position as Lecturer at University of Southampton! I am sincerely grateful for the invaluable support and guidance I've received throughout this journey, particularly from my three super nice supervisors (and mentors): [Prof. Xiahai Zhuang](https://zmiclab.github.io/zxh/), [Prof. Julia A. Schnabel](https://compai-lab.github.io/author/julia-a.-schnabel/), and [Prof. Vicente Grau](https://ibme.ox.ac.uk/person/vicente-grau-colomer/).
 
 ## 2023
 
@@ -43,15 +43,15 @@ date: 2021-08-07 00:40:09
 * **[01 Feb, 2022]** Our paper "Cross-Modality Multi-Atlas Segmentation via Deep Registration and Label Fusion" has been accepted by JBHI! Bravo! Congratulation to Wangbin Ding.
 * **[10 Jan, 2022]** Our paper "Medical Image Analysis on Left Atrial LGE MRI for Atrial Fibrillation Studies: A Review" has been accepted by MedIA! Thanks so much to Prof. Xiahai Zhuang and Prof. Julia A. Schnabel, the editor and the reviewers!
 * **[10 Jan, 2022]** Our paper "AWSnet: An Auto-weighted Supervision Attention Network for Myocardial Scar and Edema Segmentation in Multi-sequence Cardiac Magnetic Resonance Images" has been accepted by MedIA! Bravo! Congratulation to Kaini Wang and Prof. Xin Yang.
-* **[08 Jan, 2022]** I got the [SJTU 2021 Outstanding Doctoral Graduate Development Scholarship](https://www.gs.sjtu.edu.cn/info/1136/8764.htm)! Thanks so much to [Prof. Xiahai Zhuang](https://zmiclab.github.io/zxh/), [Prof. Julia A Schnabel](https://www.kcl.ac.uk/people/julia-a-schnabel), [Prof. Guoyan Zheng](https://imr.sjtu.edu.cn/en/po_facultyv/519.html), and [Prof. Vicente Grau](https://eng.ox.ac.uk/people/vicente-grau-colomer/), who all gave me much support on this application 🌟!
+* **[08 Jan, 2022]** 🌟 I got the [SJTU 2021 Outstanding Doctoral Graduate Development Scholarship](https://www.gs.sjtu.edu.cn/info/1136/8764.htm)! Thanks so much to [Prof. Xiahai Zhuang](https://zmiclab.github.io/zxh/), [Prof. Julia A Schnabel](https://www.kcl.ac.uk/people/julia-a-schnabel), [Prof. Guoyan Zheng](https://imr.sjtu.edu.cn/en/po_facultyv/519.html), and [Prof. Vicente Grau](https://eng.ox.ac.uk/people/vicente-grau-colomer/), who all gave me much support on this application!
 
 ## 2021
 
 * **[08 Nov, 2021]** Our paper "AtrialJSQnet: A New Framework for Joint Segmentation and Quantification of Left Atrium and Scars Incorporating Spatial and Shape Information" has been accepted by MedIA! Thanks so much to Prof. Xiahai Zhuang and Prof. Julia A. Schnabel, the editor and the reviewers!
-* **[16 Aug, 2021]** I have jointed the BioMedIA research group of University of Oxford as a Postdoc with Prof. Vicente Grau 🌟!
+* **[16 Aug, 2021]** 🌟 I have jointed the BioMedIA research group of University of Oxford as a Postdoc with Prof. Vicente Grau!
 * **[06 Aug, 2021]** I have reconstructed my personal website!
 * **[12 June, 2021]** Our paper "AtrialGeneral: Domain Generalization for Left Atrial Segmentation of Multi-Center LGE MRIs" has been accepted by MICCAI 2021.
-* **[26 May, 2021]** I have passed my PhD viva! My PhD thesis is ["Left Atrial Scar Segmentation and Quantification from Late Gadolinium Enhanced Magnetic Resonance Images"](https://drive.google.com/file/d/18T8i1J-tptPSHxcsVsCE_J6kfDVJizHS/view?usp=sharing). Thanks to my super nice supervisor Prof. Xiahai Zhuang and others who helped me during my PhD 🌟.
+* **[26 May, 2021]** 🌟 I have passed my PhD viva! My PhD thesis is ["Left Atrial Scar Segmentation and Quantification from Late Gadolinium Enhanced Magnetic Resonance Images"](https://drive.google.com/file/d/18T8i1J-tptPSHxcsVsCE_J6kfDVJizHS/view?usp=sharing). Thanks to my super nice supervisor Prof. Xiahai Zhuang and others who helped me during my PhD.
 
 ## 2020
 
@@ -63,6 +63,6 @@ date: 2021-08-07 00:40:09
 ## 2019
 
 * **[15 Dec, 2019]** Happy to be the runnerups of [FBDC](https://fbdc.fudan.edu.cn/wosterwwession/list.htm) best poster awards togther with Xin Weng.
-* **[26 Oct, 2019]** Our paper "Atrial Scar Quantification via Multi-Scale CNN in the Graph-Cuts Framework" has been accepted by MedIA! Thanks so much to Prof. Xiahai Zhuang, Dr. Guang Yang, the editor and the reviewers 🌟!
+* **[26 Oct, 2019]** 🌟 Our paper "Atrial Scar Quantification via Multi-Scale CNN in the Graph-Cuts Framework" has been accepted by MedIA! Thanks so much to Prof. Xiahai Zhuang, Dr. Guang Yang, the editor and the reviewers!
 * **[13 Oct, 2019]** Our MS-CMRSeg challenge 2019 was successfully held! Thanks to all participants and organizers!
 * **[22 July, 2019]** Our paper "Evaluation of Algorithms for Multi-Modality Whole Heart Segmentation: An Open-Access Grand Challenge" has been accepted by MedIA! Thanks so much to Prof. Xiahai Zhuang, [Dr. Guang Yang](https://www.imperial.ac.uk/people/g.yang), the editor and the reviewers!
