@@ -27,7 +27,7 @@ date: 2021-08-07 00:40:09
   
 * **Lei Li\***, Julia Camps, Blanca Rodriguez, Vicente Grau: Solving the Inverse Problem of Electrocardiography for Cardiac Digital Twins: A Survey, ***IEEE Reviews in Biomedical Engineering***, 2024.  (under review) [Link]([10.1109/TMI.2024.3367409](https://arxiv.org/abs/2406.11445v1))
 
-* **Lei Li\***, Hannah Smith, Yilin Lyu, Julia Camps, Abhirup Banerjee, Blanca Rodriguez, Vicente Grau: Personalized Topology-Informed 12-Lead ECG Electrode Localization from Incomplete Cardiac MRIs for Efficient Cardiac Digital Twins, ***Medical Image Analysis***, 2024. (submitted)
+* **Lei Li\***, Hannah Smith, Yilin Lyu, Julia Camps, Abhirup Banerjee, Blanca Rodriguez, Vicente Grau: Personalized Topology-Informed 12-Lead ECG Electrode Localization from Incomplete Cardiac MRIs for Efficient Cardiac Digital Twins, ***Medical Image Analysis***, 2024. (under review)
 
 ## 2023
 
