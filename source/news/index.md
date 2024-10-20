@@ -5,7 +5,8 @@ date: 2021-08-07 00:40:09
 
 ## 2024
 
-* **[20 Aug, 2024]** 🌟 I will join in the Department of Biomedical Engineering, National University of Singapore (NUS) as an Assistant Professor in Oct 2024.
+* **[20 Oct, 2024]** Our paper "Solving the Inverse Problem of Electrocardiography for Cardiac Digital Twins: A Survey" has been accepted by IEEE Reviews in Biomedical Engineering (IF=17.2). Thanks so much to the editor and the reviewers!
+* **[16 Oct, 2024]** 🌟 I have joined in the Department of Biomedical Engineering, National University of Singapore (NUS) as an Assistant Professor.
 * **[6 July, 2024]** 🌟 I have created my own lab, i.e., [Digital Heart Lab](https://digitalheartlab.com/). Looking forward to making impactful advancements in cardiac research and innovation with my (still small but growing) team!
 * **[03 June, 2024]** It was a great hornor to be invited by the [Prof Steven Niederer](https://www.imperial.ac.uk/news/245775/professor-steven-niederer-joins-nhli/) to present in [Isaac Newton Institute Workshop - Fickle Heart: The intersection of UQ, AI and Digital Twins](https://www.newton.ac.uk/event/fhtw02/) in Cambridge.
 * **[30 May, 2024]** Our [SIG-Cardiac](https://miccai.org/index.php/special-interest-groups/sig-cardiac/) application has been approved by MICCAI. The Special Interest Group (SIG) in Cardiac Imaging, Computational Modelling and Clinical Sciences (SIG-Cardiac) intends to bring together cardiologists, radiologists, computer scientists, and engineers to promote interdisciplinary collaboration.
