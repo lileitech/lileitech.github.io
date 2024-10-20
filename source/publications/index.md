@@ -27,6 +27,8 @@ date: 2021-08-07 00:40:09
 
 * Marcel Beetz<sup>#</sup>, Abhirup Banerjee<sup>#</sup>, **Lei Li**, Julia Camps, Blanca Rodriguez, Vicente Grau: 3D Cardiac Shape Analysis with Variational Point Cloud Autoencoders for Myocardial Infarction Prediction and Virtual Heart Synthesis, ***Medical Image Analysis***, 2024. (under review)
 
+* Wangbin  Ding, **Lei Li**, Junyi Qiu, Bogen Lin,  Mingjing Yang, Liqin Huang, Lianming Wu, Sihan Wang, Xiahai Zhuang: CineMyoPS: Segmenting Myocardial Pathologies from Cine Cardiac MRI, IEEE Transactions on Medical Imaging, 2024. (under review)
+
 * **Lei Li\***, Hannah Smith, Yilin Lyu, Julia Camps, Abhirup Banerjee, Blanca Rodriguez, Vicente Grau: Personalized Topology-Informed 12-Lead ECG Electrode Localization from Incomplete Cardiac MRIs for Efficient Cardiac Digital Twins, ***Medical Image Analysis***, 2024. (under review) [link](https://arxiv.org/abs/2408.13945)
 
 ## 2023
