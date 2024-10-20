@@ -18,6 +18,7 @@ Lei Li is an Assistant Professor at the Department of Biomedical Engineering, [N
 ## Research/Education Experience
 
 * **10/2024-now** &nbsp; Assistant Professor, Department of Biomedical Engineering, National University of Singapore, Singapore
+* **10/2024-now** &nbsp; Visiting Researcher, School of Electronics & Computer Science, University of Southampton, Southampton, UK
 * **01/2024-now** &nbsp; Visiting Researcher, Institute of Biomedical Engineering, University of Oxford, Oxford, UK
 * **01/2024-10** &nbsp; Lecturer, School of Electronics & Computer Science, University of Southampton, Southampton, UK
 * **08/2021-12/2023** &nbsp; Postdoctoral Research Assistant, Institute of Biomedical Engineering, University of Oxford, Oxford, UK (Supervisor: [Professor Vicente Grau](https://eng.ox.ac.uk/people/vicente-grau-colomer/))
@@ -59,6 +60,7 @@ Lei Li is an Assistant Professor at the Department of Biomedical Engineering, [N
 
 ## Honors & Awards
 
+* 2024: IEEE TMI Distinguished Reviewer - Gold Level (2023-2024)
 * 2024: 2nd Prize of Shanghai Science and Technology Award (Natural Science Award)
 * 2024: Featured Woman in Science at [RSIP Vision](https://www.rsipvision.com/ComputerVisionNews-2024March/26/)
 * 2023: The Rising Star of Women in Engineering - Asian Deans' Forum 2023
