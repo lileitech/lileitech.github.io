@@ -63,11 +63,11 @@ date: 2021-08-07 00:40:09
   
 ## 2022
 
-* **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang\*: Medical Image Analysis on Left Atrial LGE MRI for Atrial Fibrillation Studies: A Review, ***Medical Image Analysis***, vol. 77, 102360, 2022. [Link](https://doi.org/10.1016/j.media.2022.102360) 
-
-* **Lei Li\***, Julia Camps, Abhirup Banerjee, Marcel Beetz, Blanca Rodriguez, Vicente Grau: Deep Computational Model for the Inference of Ventricular Activation Properties, ***STACOM***, 369-380, 2023. [Link](https://link.springer.com/chapter/10.1007/978-3-031-23443-9_34)
-
 * **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang\*: AtrialJSQnet: A New Framework for Joint Segmentation and Quantification of Left Atrium and Scars Incorporating Spatial and Shape Information, ***Medical Image Analysis***, vol. 76, 102303, 2022. [Link](https://doi.org/10.1016/j.media.2021.102303), [Code](https://github.com/lileitech/AtrialJSQnet)
+  
+* **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang\*: Medical Image Analysis on Left Atrial LGE MRI for Atrial Fibrillation Studies: A Review, ***Medical Image Analysis***, vol. 77, 102360, 2022. [Link](https://doi.org/10.1016/j.media.2022.102360) 
+  
+* **Lei Li\***, Julia Camps, Abhirup Banerjee, Marcel Beetz, Blanca Rodriguez, Vicente Grau: Deep Computational Model for the Inference of Ventricular Activation Properties, ***STACOM***, 369-380, 2023. [Link](https://link.springer.com/chapter/10.1007/978-3-031-23443-9_34)
 
 * Zheyao Gao, **Lei Li**, Fuping Wu, Sihan Wang, Xiahai Zhuang\*: Decoupling Predictions in Distributed Learning for Multi-Center Left Atrial MRI Segmentation, ***MICCAI***, 517–527, 2022. [Link](https://link.springer.com/chapter/10.1007/978-3-031-16431-6_49),[Code](https://github.com/key1589745/decouple_predict)
 

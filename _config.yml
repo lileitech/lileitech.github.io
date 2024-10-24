@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Lei's Research
+title: Lei's Homepage
 subtitle: ''
 description: ''
 keywords:
@@ -105,6 +105,6 @@ theme: academic
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:Marie0909/marie0909.github.io.git # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
+  repo: git@github.com:lileitech/lileitech.github.io.git # https://bitbucket.org/JohnSmith/johnsmith.bitbucket.io
   branch: gh-pages
   message:
