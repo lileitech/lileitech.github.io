@@ -15,7 +15,8 @@ date: 2021-08-07 00:40:09
 
 * **Lei Li\***, Julia Camps, Zhinuo (Jenny) Wang, Marcel Beetz, Abhirup Banerjee, Blanca Rodriguez, Vicente Grau: Towards Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference, ***IEEE Transactions on Medical Imaging***, 43 (7), 2466-2478, 2024. [Link](10.1109/TMI.2024.3367409), [Code](https://github.com/lileitech/MI_inverse_inference)
 
-* **Lei Li\***, Julia Camps, Blanca Rodriguez, Vicente Grau: Solving the Inverse Problem of Electrocardiography for Cardiac Digital Twins: A Survey, ***IEEE Reviews in Biomedical Engineering***, 2024. [Link](https://arxiv.org/abs/2406.11445v1)
+* **Lei Li\***, Julia Camps, Blanca Rodriguez, Vicente Grau: Solving the Inverse Problem of Electrocardiography for Cardiac Digital Twins: A Survey, ***IEEE Reviews in Biomedical Engineering***, 2024. [Link](https://ieeexplore.ieee.org/document/10735344)
+<!--  (10.1109/RBME.2024.3486439) -->
 
 * Zilong Wang, Xinyang Ge, Xiaorong Chen, **Lei Li**, Wangbin Ding, Yuanye Liu, Fuping Wu, and Dengqiang Jia\*: Deep Combined Computing of Vascular Images with Tubular Shape-Guided Convolution, ***The 4th MICCAI Workshop on Shape in Medical Imaging***, 2024.
   
