@@ -3,6 +3,11 @@ title: News
 date: 2021-08-07 00:40:09
 ---
 
+## 2025
+
+* **[03 Jan, 2025]** I have been offered to serve as Guest Associate Editor for IEEE TMI!
+* **[03 Jan, 2025]** One paper has been accepted by ISBI 2025! Congratulations to Guang Yang.
+
 ## 2024
 
 * **[20 Oct, 2024]** Our paper "Solving the Inverse Problem of Electrocardiography for Cardiac Digital Twins: A Survey" has been accepted by IEEE Reviews in Biomedical Engineering (IF=17.2). Thanks so much to the editor and the reviewers!
