@@ -5,6 +5,14 @@ date: 2021-08-07 00:40:09
 
 \*: corresponding author; <sup>#</sup>: equal contribution
 
+## 2025
+
+* **Lei Li\***, Hannah Smith, Yilin Lyu, Julia Camps, Abhirup Banerjee, Blanca Rodriguez, Vicente Grau: Personalized Topology-Informed Localization of Standard 12-Lead ECG Electrode Placement from Incomplete Cardiac MRIs for Efficient Cardiac Digital Twins, ***Medical Image Analysis***, 2025. [link](https://arxiv.org/abs/2408.13945)
+
+* Guang Yang, Jingkun Chen, Xicheng Sheng, Shan Yang, Xiahai Zhuang, Betty Raman, **Lei Li**, Vicente Grau: Contrast-Free Myocardial Scar Segmentation in Cine MRI using Motion and Texture Fusion, ***IEEE International Symposium on Biomedical Imaging (ISBI)***, 2025.
+
+* Jinwei Dong, **Lei Li**, Liqun Huang, Lin Pan, Fangxiao Cheng, Wangbin Ding, Xiahai Zhuang: Hierarchical Semantic Concept Modeling for Generalizable Myocardial Pathology Segmentation on Multi-Sequence CMR Images, ***IEEE Transactions on Neural Networks and Learning Systems***, 2025. (under review)
+
 ## 2024
 
 ### Book/Chapter
@@ -28,8 +36,6 @@ date: 2021-08-07 00:40:09
 * Marcel Beetz<sup>#</sup>, Abhirup Banerjee<sup>#</sup>, **Lei Li**, Julia Camps, Blanca Rodriguez, Vicente Grau: 3D Cardiac Shape Analysis with Variational Point Cloud Autoencoders for Myocardial Infarction Prediction and Virtual Heart Synthesis, ***Medical Image Analysis***, 2024. (under review)
 
 * Wangbin  Ding, **Lei Li**, Junyi Qiu, Bogen Lin,  Mingjing Yang, Liqin Huang, Lianming Wu, Sihan Wang, Xiahai Zhuang\*: CineMyoPS: Segmenting Myocardial Pathologies from Cine Cardiac MRI, ***IEEE Transactions on Medical Imaging***, 2024. (under review)
-
-* **Lei Li\***, Hannah Smith, Yilin Lyu, Julia Camps, Abhirup Banerjee, Blanca Rodriguez, Vicente Grau: Personalized Topology-Informed 12-Lead ECG Electrode Localization from Incomplete Cardiac MRIs for Efficient Cardiac Digital Twins, ***Medical Image Analysis***, 2024. (under review) [link](https://arxiv.org/abs/2408.13945)
 
 ## 2023
 

@@ -8,7 +8,7 @@ layout: index
 
 Lei Li is an Assistant Professor at the Department of Biomedical Engineering, [National University of Singapore (NUS)](https://cde.nus.edu.sg/bme/) and PI of [Digital Heart Lab (DHlab)](https://digitalheartlab.com/). Previously, she was a Lecturer at the School of Electronics & Computer Science, [University of Southampton](https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-electronics-and-computer-science). She received her PhD degree from the School of Biomedical Engineering, [Shanghai Jiao Tong University (SJTU)](http://en.bme.sjtu.edu.cn/) in 2021 and obtained the *SJTU 2021 Outstanding Doctoral Graduate Development Scholarship*. She is a Board Member of [SIG-Cardiac](https://miccai.org/index.php/special-interest-groups/sig-cardiac/) and [Women in MICCAI (WiM)](https://miccai.org/index.php/about-miccai/women-in-miccai/) and Area Chair of MICCAI 2024. She has been selected as the *Rising Star of Women in Engineering* by Asian Deans' Forum 2023 and Featured Women in Science by RSIP Vision. Her research interest is AI for healthcare, specifically focusing on cardiac digital twins, medical imaging, and multi-modal AI.
 
-<span style="color: #AB3A2A">**📢📢📢 I am on looking for Postdoc and PhD students who are interested in AI for heathcare. For more details, please check our [DHlab website](https://digitalheartlab.com/joinus/) ✨.**  </span>
+<span style="color: #AB3A2A">**📢📢📢 I am on looking for Postdoc and PhD students who are interested in AI for heathcare and digital twins. For more details, please check our [DHlab website](https://digitalheartlab.com/joinus/) ✨.**  </span>
 
 ## Research/Education Experience
 
