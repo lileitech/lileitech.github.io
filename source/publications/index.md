@@ -11,6 +11,12 @@ date: 2021-08-07 00:40:09
 
 * Guang Yang, Jingkun Chen, Xicheng Sheng, Shan Yang, Xiahai Zhuang, Betty Raman, **Lei Li**, Vicente Grau: Contrast-Free Myocardial Scar Segmentation in Cine MRI using Motion and Texture Fusion, ***IEEE International Symposium on Biomedical Imaging (ISBI)***, 2025.
 
+* Zhen Yuan\*, David Stojanovski, **Lei Li**, Alberto Gomez, Haran Jogeesvaran, Esther Puyol-Antón, Baba Inusa, Andrew P. King: DeepSPV: An Interpretable Deep Learning Pipeline for Spleen Volume Estimation from 2D Ultrasound Images, ***Medical Image Analysis***, 2025.
+
+* Marcel Beetz<sup>#</sup>, Abhirup Banerjee<sup>#</sup>, **Lei Li**, Julia Camps, Blanca Rodriguez, Vicente Grau: 3D Cardiac Shape Analysis with Variational Point Cloud Autoencoders for Myocardial Infarction Prediction and Virtual Heart Synthesis, ***Computerized Medical Imaging and Graphics***, 2025.
+
+* Wangbin  Ding, **Lei Li**, Junyi Qiu, Bogen Lin,  Mingjing Yang, Liqin Huang, Lianming Wu, Sihan Wang, Xiahai Zhuang\*: CineMyoPS: Segmenting Myocardial Pathologies from Cine Cardiac MRI, ***IEEE Transactions on Medical Imaging***, 2025.
+
 * Jinwei Dong, **Lei Li**, Liqun Huang, Lin Pan, Fangxiao Cheng, Wangbin Ding, Xiahai Zhuang: Hierarchical Semantic Concept Modeling for Generalizable Myocardial Pathology Segmentation on Multi-Sequence CMR Images, ***IEEE Transactions on Neural Networks and Learning Systems***, 2025. (under review)
 
 ## 2024
@@ -30,12 +36,6 @@ date: 2021-08-07 00:40:09
 * Yuhao Huang<sup>#</sup>, Xin Yang<sup>#</sup>, Lian Liu, Han Zhou, Ao Chang, Xinrui Zhou, Rusi Chen, Junxuan Yu, Jiongquan Chen, Chaoyu Chen, Sijing Liu, Haozhe Chi, Xindi Hu, Kejuan Yue, **Lei Li**, Vicente Grau, Deng-Ping Fan, Fajin Dong\*, Dong Ni\*: Segment Anything Model for Medical Images, ***Medical Image Analysis***, vol 92, 103061, 2024. [Link](https://doi.org/10.1016/j.media.2023.103061)
 
 * Chen Chen\*, **Lei Li**, Marcel Beetz, Abhirup Banerjee, Vicente Grau: Large Language Model-informed ECG Dual Attention Network for Heart Failure Risk Prediction, ***IEEE Transactions on Big Data***, 2024. [Link](https://arxiv.org/abs/2403.10581)
-
-* Zhen Yuan\*, David Stojanovski, **Lei Li**, Alberto Gomez, Haran Jogeesvaran, Esther Puyol-Antón, Baba Inusa, Andrew P. King: DeepSPV: An Interpretable Deep Learning Pipeline for Spleen Volume Estimation from 2D Ultrasound Images, ***Medical Image Analysis***, 2024. (under review)
-
-* Marcel Beetz<sup>#</sup>, Abhirup Banerjee<sup>#</sup>, **Lei Li**, Julia Camps, Blanca Rodriguez, Vicente Grau: 3D Cardiac Shape Analysis with Variational Point Cloud Autoencoders for Myocardial Infarction Prediction and Virtual Heart Synthesis, ***Medical Image Analysis***, 2024. (under review)
-
-* Wangbin  Ding, **Lei Li**, Junyi Qiu, Bogen Lin,  Mingjing Yang, Liqin Huang, Lianming Wu, Sihan Wang, Xiahai Zhuang\*: CineMyoPS: Segmenting Myocardial Pathologies from Cine Cardiac MRI, ***IEEE Transactions on Medical Imaging***, 2024. (under review)
 
 ## 2023
 

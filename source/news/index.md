@@ -5,6 +5,9 @@ date: 2021-08-07 00:40:09
 
 ## 2025
 
+* **[27 Sep, 2025]** 👑✌🏻🥳 Big congratulations to Zike! Win the 1st Place Award (Champion👑) of DehazingEcho 2025 Challenge! ✨
+* **[24 Sep, 2025]** Dr Li's oral presentation on myocardial scar topological modeling in MICCAI 2025.
+* **[23 Sep, 2025]** A big success! Our [Workshop on Digital Twin for Healthcare](https://digitaltwinforhealthcare.com/) at MICCAI 2025 (Daejeon, South Korea) was a great success. Heartfelt thanks to all participants, keynote speakers, and sponsors for making it possible!
 * **[13 Jan, 2025]** Our paper "Personalized Topology-Informed Localization of Standard 12-Lead ECG Electrode Placement from Incomplete Cardiac MRIs for Efficient Cardiac Digital Twins" has been accepted by MedIA! Thanks so much to the editor and the reviewers!
 * **[03 Jan, 2025]** I have been offered to serve as Guest Associate Editor for IEEE TMI!
 * **[03 Jan, 2025]** One paper has been accepted by ISBI 2025! Congratulations to Guang Yang.

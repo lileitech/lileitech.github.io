@@ -23,7 +23,7 @@ author:
   institutionLink: https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-electronics-and-computer-science
 
 selected_work:
-  enable: true
+  enable: false
   list:
     - title: "Towards Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference"
       url: https://arxiv.org/abs/2307.04421
@@ -86,10 +86,10 @@ links:
     url: https://cde.nus.edu.sg/bme/
   - title: Fudan ZMIC Lab
     url: https://zmiclab.github.io/index.html
-  - title: Oxford BioMedIA 
-    url: https://eng.ox.ac.uk/biomedical-image-analysis/
-  - title: Southampton DHBE Group
-    url: https://www.southampton.ac.uk/research/groups/digital-health-biomedical-engineering
+  # - title: Oxford BioMedIA 
+  #   url: https://eng.ox.ac.uk/biomedical-image-analysis/
+  # - title: Southampton DHBE Group
+  #   url: https://www.southampton.ac.uk/research/groups/digital-health-biomedical-engineering
   # - title: Professor Xiahai Zhuang
   #   url: http://www.sdspeople.fudan.edu.cn/zhuangxiahai/
   # - title: Professor Julia A Schnabel
@@ -97,12 +97,14 @@ links:
   # - title: Professor Vicente Grau
   #   url: https://eng.ox.ac.uk/people/vicente-grau-colomer/
 
+
 sponsers: # or other, whatever
+  - url: /images/sp-nus.png
+  - url: /images/sp-dhlab-f.svg
   # - url: /images/sp-CSC.jpg
   # - url: /images/sp-SJTU.png
-  - url: /images/sp-nus.png
-  - url: /images/sp-southampton.png
-  - url: /images/sp-IBME_oxford.png
+  # - url: /images/sp-southampton.png
+  # - url: /images/sp-IBME_oxford.png
   # - url: /images/sp-SIG.png
 
 cache:

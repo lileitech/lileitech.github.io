@@ -38,8 +38,9 @@ Lei Li is an Assistant Professor at the Department of Biomedical Engineering, [N
 
 ## Honors & Awards
 
+* 2025: Ranked 1st place in MICCAI 2025 Dehazing Echocardiography Challenge
 * 2024: IEEE TMI Distinguished Reviewer - Gold Level (2023-2024)
-* 2024: 2nd Prize of Shanghai Science and Technology Award (Natural Science Award)
+* 2024: 2nd Prize of Shanghai Science and Technology Award
 * 2024: Featured Woman in Science at [RSIP Vision](https://www.rsipvision.com/ComputerVisionNews-2024March/26/)
 * 2023: The Rising Star of Women in Engineering - Asian Deans' Forum 2023
 * 2023: IEEE TMI Distinguished Reviewer - Gold Level (2022-2023)
@@ -48,24 +49,29 @@ Lei Li is an Assistant Professor at the Department of Biomedical Engineering, [N
 
 ## Selected Invited Talks
 
-* **2025-03-24** &nbsp; Invited talk “AI Powered Cardiac Digital Twins for Personalized Cardiac Arrhythmia Treatment”, in UK-ASEAN Workshop on Partnership in Health Technologies powered by Artificial Intelligence. (Hanoi, Vietnam)
-* **2025-03-18** &nbsp; Invited talk "AI Powered Cardiac Digital Twins for Personalized Cardiac Arrhythmia Treatment", in World Health Organization (WHO) - Global Initiative on AI for Health (GI-AI4H) Workshop. (Singapore)
-* **2025-03-17** &nbsp; Guest Lecture "Digital Twins for Healthcare", at University of British Columbia, Vancouver, Canada (invited by Dr Xiaoxiao Li). (Online)
-* **2025-03-07** &nbsp; Invited talk "AI Powered Cardiac Digital Twins for Personalized Cardiac Arrhythmia Treatment", in Machine Learning in Health Club (MLiHC) at University of New South Wales. (Online)
-* **2024-06-03** &nbsp; Invited talk "AI Powered Multi-Modal Cardiac Data Analysis: Towards to Cardiac Digital Twins for Personalized Healthcare", in [Isaac Newton Institute Workshop - Fickle Heart: The intersection of UQ, AI and Digital Twins](https://www.newton.ac.uk/event/fhtw02/). (Cambridge, UK)
-* **2024-05-19** &nbsp; Invited talk "Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference", in [Heart Rhythm 2024](https://heartrhythm.com/attend/heart-rhythm-2024). (Boston, USA)
+* **2025-09-30** &nbsp; “AI Powered Cardiac Digital Twins”, at Yonsei University. (Seoul, South Korea)
+* **2025-09-29** &nbsp; “Bridging the AI-Clinic Gap: From Models to Medicine”, at Chung-Ang University. (Seoul, South Korea)
+* **2025-08-25** &nbsp; “Advanced Computer Vision for Medical Image Analysis and Diagnostics” at Healthcare AI Symposium 2025. (Singapore)
+* **2025-07-20** &nbsp; “AI Powered Cardiac Digital Twins for Personalized Cardiac Arrhythmia Treatment”, in MICS-China. (Ningbo, China)
+* **2025-03-24** &nbsp; “AI Powered Cardiac Digital Twins for Personalized Cardiac Arrhythmia Treatment”, in UK-ASEAN Workshop on Partnership in Health Technologies powered by Artificial Intelligence. (Hanoi, Vietnam)
+* **2025-03-18** &nbsp; "AI Powered Cardiac Digital Twins for Personalized Cardiac Arrhythmia Treatment", in World Health Organization (WHO) - Global Initiative on AI for Health (GI-AI4H) Workshop. (Singapore)
+* **2025-03-07** &nbsp; "AI Powered Cardiac Digital Twins for Personalized Cardiac Arrhythmia Treatment", in Machine Learning in Health Club (MLiHC) at University of New South Wales. (Online)
+* **2024-06-03** &nbsp; "AI Powered Multi-Modal Cardiac Data Analysis: Towards to Cardiac Digital Twins for Personalized Healthcare", in [Isaac Newton Institute Workshop - Fickle Heart: The intersection of UQ, AI and Digital Twins](https://www.newton.ac.uk/event/fhtw02/). (Cambridge, UK)
+* **2024-05-19** &nbsp; "Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference", in [Heart Rhythm 2024](https://heartrhythm.com/attend/heart-rhythm-2024). (Boston, USA)
 * **2024-04-23** &nbsp; AI powered cardiac digital twins: towards to personalized cardiac arrythmia treatment” at IBME.ai Healthcare Workshop. (Oxford, UK)
-* **2023-07-18** &nbsp; Invited talk "Towards Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference", in Multi-scale & Multi-modality Digital Health Collaboration Workshop, supported by the Alan Turing Institute. (London, UK)
-* **2023-06-10** &nbsp; Invited talk "Artificial Intelligence in Cardiac Image Computing and Modeling", which is hosted by [Prof. Yi Dai](https://ai.nankai.edu.cn/info/1033/4187.htm) at Nankai University. [Talk info](https://ai.nankai.edu.cn/info/1021/5341.htm) (Online)
-* **2023-02-15** &nbsp; Invited talk "Artificial Intelligence in Cardiac Image Computing and Modeling", which is hosted by [Prof. Evangelos B. Mazomenos](https://www.ucl.ac.uk/surgical-robot-vision/evangelos-mazomenos) at University College London. (London, UK)
-* **2022-12-08** &nbsp; Invited talk "Domain Generalization and Distributed Learning for Left Atrial Segmentation from Multi-Center LGE-MRI", in Turing workshop on Human-AI Interaction in Bio-Medicine. (Oxford, UK)
+* **2023-07-18** &nbsp; "Towards Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference", in Multi-scale & Multi-modality Digital Health Collaboration Workshop, supported by the Alan Turing Institute. (London, UK)
+* **2023-02-15** &nbsp; "Artificial Intelligence in Cardiac Image Computing and Modeling", which is hosted by [Prof. Evangelos B. Mazomenos](https://www.ucl.ac.uk/surgical-robot-vision/evangelos-mazomenos) at University College London. (London, UK)
+* **2022-12-08** &nbsp; "Domain Generalization and Distributed Learning for Left Atrial Segmentation from Multi-Center LGE-MRI", in Turing workshop on Human-AI Interaction in Bio-Medicine. (Oxford, UK)
 
-## Selected Works
+## Selected Publications
 
-<!-- ## Selected Publications
-
-* **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang*: Medical Image Analysis on Left Atrial LGE MRI for Atrial Fibrillation Studies: A Review, ***Medical Image Analysis***, vol. 77, 102360, 2022. [Link](https://doi.org/10.1016/j.media.2022.102360)
-
-* **Lei Li**, Veronika A Zimmer, Julia A Schnabel, Xiahai Zhuang\*: AtrialJSQnet: A New Framework for Joint Segmentation and Quantification of Left Atrium and Scars Incorporating Spatial and Shape Information, ***Medical Image Analysis***, vol. 76, 102303, 2022. [Link](https://doi.org/10.1016/j.media.2021.102303), [Code](https://github.com/lileitech/AtrialJSQnet)
-  
-* **Lei Li**, Fuping Wu, Guang Yang, Lingchao Xu, Tom Wong, Raad Mohiaddin, David Firmin, Jenny Keegan, Xiahai Zhuang\*: Atrial Scar Quantification via Multi-Scale CNN in the Graph-Cuts Framework. ***Medical Image Analysis***, vol. 60, 101595, 2020. [Link](https://doi.org/10.1016/j.media.2019.101595), [Code](https://github.com/lileitech/LearnGC) -->
+1. **L Li**, et al. "Personalized topology-informed localization of standard 12-Lead ECG electrode placement from incomplete cardiac MRIs for efficient cardiac digital twins." ***Medical Image Analysis*** 101 (2025): 103472. 
+2. **L Li**, et al. "Solving the inverse problem of electrocardiography for cardiac digital twins: a survey." ***IEEE Reviews in Biomedical Engineering*** 18 (2024): 316-336.
+3. **L Li**, et al. "Towards enabling cardiac digital twins of myocardial infarction using deep computational models for inverse inference." ***IEEE Transactions on Medical Imaging*** 43. no. 7 (2024): 2466-2478.
+4. **L Li**, et al. "Multi-modality cardiac image computing: A survey." ***Medical Image Analysis*** 88 (2023): 102869.
+5. **L Li**, et al. "MyoPS: A benchmark of myocardial pathology segmentation combining three-sequence cardiac magnetic resonance images." ***Medical Image Analysis*** 87 (2023): 102808.
+6. **L Li**, et al. "Medical image analysis on left atrial LGE MRI for atrial fibrillation studies: a review." ***Medical Image Analysis*** 77 (2022): 102360.
+7. **L Li**, et al. "AtrialJSQnet: a new framework for joint segmentation and quantification of left atrium and scars incorporating spatial and shape information." ***Medical Image Analysis*** 76 (2022): 102303.
+8. **L Li**, et al. " AtrialGeneral: domain generalization for left atrial segmentation of multi-center LGE MRIs", ***MICCAI***, 557-566, 2021.
+9. **L Li**, et al. " Joint left atrial segmentation and scar quantification based on a DNN with spatial encoding and shape attention. " ***MICCAI***, 118-127, 2020.
+10. **L Li**, et al. "Atrial scar quantification via multi-scale CNN in the graph-cuts framework." ***Medical Image Analysis*** 60 (2020): 101595.
