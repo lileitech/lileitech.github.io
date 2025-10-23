@@ -21,14 +21,15 @@ Lei Li is an Assistant Professor at the Department of Biomedical Engineering, [N
 ## Academic Services
 
 * Editor:
-  * Guest Associate Editor of [IEEE Transactions on Medical Imaging (TMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42).
+  * Guest Associate Editor: [IEEE Transactions on Medical Imaging (TMI)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42).
   * Editorial Board Member: [Journal of Medical Artificial Intelligence](https://jmai.amegroups.com/)
   * Guest Editor: Special Issue of [Journal of Imaging](https://www.mdpi.com/journal/jimaging/special_issues/2112PXP61G)
 * Board Member:
   * [MICCAI Special Interest Group (SIG)-Cardiac](https://miccai.org/index.php/special-interest-groups/sig-cardiac/)
   * [Women in MICCAI (WiM)](http://www.miccai.org/about-miccai/women-in-miccai/)
-* Area Chair: [MICCAI 2024](https://conferences.miccai.org/2024/en/)
+* Area Chair: [MICCAI 2025](https://conferences.miccai.org/2025/en/); [MICCAI 2024](https://conferences.miccai.org/2024/en/)
 * Organizer:
+  * [DT4H 2025 Workshop: International Workshop on Digital Twin for Healthcare](https://digitaltwinforhealthcare.com)
   * [CARE 2024 Challenge: Comprehensive Analysis & computing of REal-world medical images](http://zmic.org.cn/care_2024/)
   * [LAScarQS 2022 Challenge: Left Atrial and Scar Quantification & Segmentation](https://zmiclab.github.io/projects/lascarqs22/)
   * [MyoPS 2020 Challenge: Myocardial Pathology Segmentation Combining Multi-sequence CMR](https://zmiclab.github.io/zxh/0/myops20/)
@@ -47,13 +48,17 @@ Lei Li is an Assistant Professor at the Department of Biomedical Engineering, [N
 
 ## Selected Invited Talks
 
-* **03/06/2024** &nbsp; Invited talk "AI Powered Multi-Modal Cardiac Data Analysis: Towards to Cardiac Digital Twins for Personalized Healthcare", in [Isaac Newton Institute Workshop - Fickle Heart: The intersection of UQ, AI and Digital Twins](https://www.newton.ac.uk/event/fhtw02/). (Cambridge, UK)
-* **19/05/2024** &nbsp; Invited talk "Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference", in [Heart Rhythm 2024](https://heartrhythm.com/attend/heart-rhythm-2024). (Boston, USA)
+* **2025-03-24** &nbsp; Invited talk “AI Powered Cardiac Digital Twins for Personalized Cardiac Arrhythmia Treatment”, in UK-ASEAN Workshop on Partnership in Health Technologies powered by Artificial Intelligence. (Hanoi, Vietnam)
+* **2025-03-18** &nbsp; Invited talk "AI Powered Cardiac Digital Twins for Personalized Cardiac Arrhythmia Treatment", in World Health Organization (WHO) - Global Initiative on AI for Health (GI-AI4H) Workshop. (Singapore)
+* **2025-03-17** &nbsp; Guest Lecture "Digital Twins for Healthcare", at University of British Columbia, Vancouver, Canada (invited by Dr Xiaoxiao Li). (Online)
+* **2025-03-07** &nbsp; Invited talk "AI Powered Cardiac Digital Twins for Personalized Cardiac Arrhythmia Treatment", in Machine Learning in Health Club (MLiHC) at University of New South Wales. (Online)
+* **2024-06-03** &nbsp; Invited talk "AI Powered Multi-Modal Cardiac Data Analysis: Towards to Cardiac Digital Twins for Personalized Healthcare", in [Isaac Newton Institute Workshop - Fickle Heart: The intersection of UQ, AI and Digital Twins](https://www.newton.ac.uk/event/fhtw02/). (Cambridge, UK)
+* **2024-05-19** &nbsp; Invited talk "Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference", in [Heart Rhythm 2024](https://heartrhythm.com/attend/heart-rhythm-2024). (Boston, USA)
 * **2024-04-23** &nbsp; AI powered cardiac digital twins: towards to personalized cardiac arrythmia treatment” at IBME.ai Healthcare Workshop. (Oxford, UK)
-* **18/07/2023** &nbsp; Invited talk "Towards Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference", in Multi-scale & Multi-modality Digital Health Collaboration Workshop, supported by the Alan Turing Institute. (London, UK)
-* **10/06/2023** &nbsp; Invited talk "Artificial Intelligence in Cardiac Image Computing and Modeling", which is hosted by [Prof. Yi Dai](https://ai.nankai.edu.cn/info/1033/4187.htm) at Nankai University. [Talk info](https://ai.nankai.edu.cn/info/1021/5341.htm) (Online)
-* **15/02/2023** &nbsp; Invited talk "Artificial Intelligence in Cardiac Image Computing and Modeling", which is hosted by [Prof. Evangelos B. Mazomenos](https://www.ucl.ac.uk/surgical-robot-vision/evangelos-mazomenos) at University College London. (London, UK)
-* **08/12/2022** &nbsp; Invited talk "Domain Generalization and Distributed Learning for Left Atrial Segmentation from Multi-Center LGE-MRI", in Turing workshop on Human-AI Interaction in Bio-Medicine. (Oxford, UK)
+* **2023-07-18** &nbsp; Invited talk "Towards Enabling Cardiac Digital Twins of Myocardial Infarction Using Deep Computational Models for Inverse Inference", in Multi-scale & Multi-modality Digital Health Collaboration Workshop, supported by the Alan Turing Institute. (London, UK)
+* **2023-06-10** &nbsp; Invited talk "Artificial Intelligence in Cardiac Image Computing and Modeling", which is hosted by [Prof. Yi Dai](https://ai.nankai.edu.cn/info/1033/4187.htm) at Nankai University. [Talk info](https://ai.nankai.edu.cn/info/1021/5341.htm) (Online)
+* **2023-02-15** &nbsp; Invited talk "Artificial Intelligence in Cardiac Image Computing and Modeling", which is hosted by [Prof. Evangelos B. Mazomenos](https://www.ucl.ac.uk/surgical-robot-vision/evangelos-mazomenos) at University College London. (London, UK)
+* **2022-12-08** &nbsp; Invited talk "Domain Generalization and Distributed Learning for Left Atrial Segmentation from Multi-Center LGE-MRI", in Turing workshop on Human-AI Interaction in Bio-Medicine. (Oxford, UK)
 
 ## Selected Works
 
