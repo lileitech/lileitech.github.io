@@ -16,7 +16,7 @@ Lei Li is an Assistant Professor at the Department of Biomedical Engineering, [N
 * **01/2024-10/2024** &nbsp; Lecturer, School of Electronics & Computer Science, University of Southampton, Southampton, UK
 * **08/2021-12/2023** &nbsp; Postdoctoral Research Assistant, Institute of Biomedical Engineering, University of Oxford, Oxford, UK
 * **09/2016-06/2021** &nbsp; PhD, School of Biomedical Engineering, Shanghai Jiao Tong University, Shanghai, China
-* **09/2012-06/2016** &nbsp; Bachelor, Dept. Medical Information Engineering, Sichuan University, Chengdu, China
+* **09/2012-06/2016** &nbsp; Bachelor, Department of Medical Information Engineering, Sichuan University, Chengdu, China
 
 ## Academic Services
 
