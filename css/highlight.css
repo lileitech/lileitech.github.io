@@ -1,0 +1,182 @@
+/*
+  Theme: GitHub
+  Description: Light theme as seen on github.com
+  Author: github.com
+  Maintainer: @Hirse
+  Updated: 2021-05-15
+  Outdated base version: https://github.com/primer/github-syntax-light
+  Current colors taken from GitHub's CSS
+*/
+.hljs {
+  color: #24292e;
+  background: #f7f7f7;
+}
+.hljs-doctag,
+.hljs-keyword,
+.hljs-meta .hljs-keyword,
+.hljs-template-tag,
+.hljs-template-variable,
+.hljs-type,
+.hljs-variable.language_ {
+/* prettylights-syntax-keyword */
+  color: #d73a49;
+}
+.hljs-title,
+.hljs-title.class_,
+.hljs-title.class_.inherited__,
+.hljs-title.function_ {
+/* prettylights-syntax-entity */
+  color: #6f42c1;
+}
+.hljs-attr,
+.hljs-attribute,
+.hljs-literal,
+.hljs-meta,
+.hljs-number,
+.hljs-operator,
+.hljs-variable,
+.hljs-selector-attr,
+.hljs-selector-class,
+.hljs-selector-id {
+/* prettylights-syntax-constant */
+  color: #005cc5;
+}
+.hljs-regexp,
+.hljs-string,
+.hljs-meta .hljs-string {
+/* prettylights-syntax-string */
+  color: #032f62;
+}
+.hljs-built_in,
+.hljs-symbol {
+/* prettylights-syntax-variable */
+  color: #e36209;
+}
+.hljs-comment,
+.hljs-code,
+.hljs-formula {
+/* prettylights-syntax-comment */
+  color: #6a737d;
+}
+.hljs-name,
+.hljs-quote,
+.hljs-selector-tag,
+.hljs-selector-pseudo {
+/* prettylights-syntax-entity-tag */
+  color: #22863a;
+}
+.hljs-subst {
+/* prettylights-syntax-storage-modifier-import */
+  color: #24292e;
+}
+.hljs-section {
+/* prettylights-syntax-markup-heading */
+  color: #005cc5;
+  font-weight: bold;
+}
+.hljs-bullet {
+/* prettylights-syntax-markup-list */
+  color: #735c0f;
+}
+.hljs-emphasis {
+/* prettylights-syntax-markup-italic */
+  color: #24292e;
+  font-style: italic;
+}
+.hljs-strong {
+/* prettylights-syntax-markup-bold */
+  color: #24292e;
+  font-weight: bold;
+}
+.hljs-addition {
+/* prettylights-syntax-markup-inserted */
+  color: #22863a;
+  background-color: #f0fff4;
+}
+.hljs-deletion {
+/* prettylights-syntax-markup-deleted */
+  color: #b31d28;
+  background-color: #ffeef0;
+}
+@font-face {
+  font-family: quicksand;
+  src: url("./font/quicksand.ttf");
+}
+@font-face {
+  font-family: quicksand-light;
+  src: url("./font/quicksand-light.ttf");
+}
+@font-face {
+  font-family: DMSerif;
+  src: url("./font/DMSerifDisplay-Regular.ttf");
+}
+/* highlight */
+.highlight figcaption {
+  display: flex;
+  justify-content: space-between;
+  background: #edeef0;
+  padding: 0.1em 0.5em;
+  font-size: 0.875rem;
+}
+.highlight td {
+  padding: 0;
+  border: 0;
+}
+code {
+  border-radius: 3px;
+  padding: 2px 4px;
+  overflow-wrap: break-word;
+}
+pre,
+code {
+  font-family: consolas, Menlo, monospace, 'PingFang SC', 'Microsoft YaHei';
+}
+figure.highlight {
+  margin: 20px 0;
+  overflow: auto;
+  position: relative;
+  padding-top: 30px;
+  border-radius: 5px;
+  box-shadow: 0 4px 30px rgba(0,0,0,0.15);
+  line-height: 1.5em;
+}
+figure.highlight table {
+  width: auto;
+  border: 0;
+  margin: 0;
+}
+figure.highlight::before {
+  background: #fc625d;
+  box-shadow: 20px 0 #fdbc40, 40px 0 #35cd4b;
+  left: 12px;
+  margin-top: -20px;
+  position: absolute;
+  border-radius: 50%;
+  content: ' ';
+  height: 12px;
+  width: 12px;
+}
+figure.highlight .code pre {
+  padding-left: 10px;
+  width: 100%;
+}
+figure.highlight pre {
+  border: 0;
+  margin: 0;
+  padding: 10px 0;
+}
+code,
+pre,
+figure.highlight {
+  background-color: #f7f7f7;
+}
+.gutter {
+  padding: 0;
+}
+figure.highlight .gutter pre {
+  text-align: right;
+  margin: 0;
+  padding: 10px;
+  color: #888;
+  background-color: #edeef0;
+}
